@@ -1,0 +1,1084 @@
+[
+  {
+    "query_id": "q17",
+    "config": "A6-rerank-k5-v3",
+    "model": "openai/gpt-4o-mini",
+    "question": "What precaution is advised when crossing salt marshes?",
+    "filter": null,
+    "status": "answered",
+    "answer": "When crossing salt marshes, the primary precaution is to \"get over them quickly, without any delay\" due to the lack of fresh water, poor quality of herbage, and the risk of being exposed to attack in such low and flat terrain [AOW-p056-B001].",
+    "citations": [
+      "AOW-p056-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "precaution when crossing salt marshes"
+    ],
+    "final_context_ids": [
+      "AOW-p056-B001",
+      "AOW-p056-B002",
+      "AOW-p076-B002",
+      "AOW-p039-B002",
+      "AOW-p103-B003"
+    ],
+    "final_context": "[AOW-p056-B001 | pg132_art_of_war.txt | page 56]\nDo not move up-stream to meet the enemy.\n\n[Tu Mu says: \"As water flows downwards, we must not pitch our camp on the lower reaches of a river, for fear the enemy should open the sluices and sweep us away in a flood. Chu-ko Wu-hou has remarked that ‘in river warfare we must not advance against the stream,’ which is as much as to say that our fleet must not be anchored below that of the enemy, for then they would be able to take advantage of the current and make short work of us.\" There is also the danger, noted by other commentators, that the enemy may throw poison on the water to be carried down to us.]\n\nSo much for river warfare.\n\n7. In crossing salt-marshes, your sole concern should be to get over them quickly, without any delay.\n\n[Because of the lack of fresh water, the poor quality of the herbage, and last but not least, because they are low, flat, and exposed to attack.]\n\n8. If forced to fight in a salt-marsh, you should have water and grass near you, and get your back to a clump of trees.\n\n[Li Ch’uan remarks that the ground is less likely to be treacherous where there are trees, while Tu Mu says that they will serve to protect the rear.]\n\n[AOW-p056-B002 | pg132_art_of_war.txt | page 56]\nSo much for operations in salt-marshes.\n\n9. In dry, level country, take up an easily accessible position with rising ground to your right and on your rear,\n\n[Tu Mu quotes T’ai Kung as saying: \"An army should have a stream or a marsh on its left, and a hill or tumulus on its right.\"]\n\nso that the danger may be in front, and safety lie behind. So much for campaigning in flat country.\n\n[AOW-p076-B002 | pg132_art_of_war.txt | page 76]\nrugged steeps, marshes and fens—all country that is hard to traverse: this is difficult ground.\n\n9. Ground which is reached through narrow gorges, and from which we can only retire by tortuous paths, so that a small number of the enemy would suffice to crush a large body of our men: this is hemmed in ground.\n\n10. Ground on which we can only be saved from destruction by fighting without delay, is desperate ground.\n\n[AOW-p039-B002 | pg132_art_of_war.txt | page 39]\n11. We may take it then that an army without its baggage-train is lost; without provisions it is lost; without bases of supply it is lost.\n\n[I think Sun Tzŭ meant \"stores accumulated in dépôts.\" But Tu Yu says \"fodder and the like,\" Chang Yu says \"Goods in general,\" and Wang Hsi says \"fuel, salt, foodstuffs, etc.\"]\n\n12. We cannot enter into alliances until we are acquainted with the designs of our neighbours.\n\n13. We are not fit to lead an army on the march unless we are familiar with the face of the country—its mountains and forests, its pitfalls and precipices, its marshes and swamps.\n\n[AOW-p103-B003 | pg132_art_of_war.txt | page 103]\nOn the other hand, Po-ts’ai, a general of the Yellow Turban rebels, was badly defeated in 184 A.D. through his neglect of this simple precaution. \"At the head of a large army he was besieging Ch’ang-she, which was held by Huang-fu Sung. The garrison was very small, and a general feeling of nervousness pervaded the ranks; so Huang-fu Sung called his officers together and said: \"In war, there are various indirect methods of attack, and numbers do not count for everything. [The commentator here quotes Sun Tzŭ, V. §§ 5, 6 and 10.] Now the rebels have pitched their camp in the midst of thick grass which will easily burn when the wind blows. If we set fire to it at night, they will be thrown into a panic, and we can make a sortie and attack them on all sides at once, thus emulating the achievement of T’ien Tan.’ [See p. 90.] That same evening, a strong breeze sprang up; so Huang-fu Sung instructed his soldiers to bind reeds together into torches and mount guard on the city walls, after which he sent out a band of daring men, who stealthily made their way through the lines and started the fire with loud shouts and yells.",
+    "events": [
+      {
+        "event": "search",
+        "query": "precaution when crossing salt marshes",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p056-B001",
+            "rank": 1,
+            "score": 1.47731,
+            "page": 56,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p056-B002",
+            "rank": 2,
+            "score": -1.78862,
+            "page": 56,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p076-B002",
+            "rank": 3,
+            "score": -9.52844,
+            "page": 76,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p039-B002",
+            "rank": 4,
+            "score": -9.85963,
+            "page": 39,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p103-B003",
+            "rank": 5,
+            "score": -9.8686,
+            "page": 103,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p056-B001",
+          "AOW-p056-B002",
+          "AOW-p076-B002",
+          "AOW-p039-B002",
+          "AOW-p103-B003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1367,
+        "prompt_tokens": 514,
+        "completion_tokens": 19,
+        "cost_usd": 8.85e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"precaution when crossing salt marshes\"}"
+      },
+      {
+        "ms": 2637,
+        "prompt_tokens": 1494,
+        "completion_tokens": 80,
+        "cost_usd": 0.0002721,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"When crossing salt marshes, the primary precaution is to \\\"get over them quickly, without any delay\\\" due to the lack of fresh water, poor quality of herbage, and the risk of being exposed to attack in such low and flat terrain [AOW-p056-B001].\",\"citations\":[\"AOW-p056-B001\"]}"
+      }
+    ],
+    "elapsed_s": 4.92,
+    "prompt_tokens": 2008,
+    "completion_tokens": 99,
+    "cost_usd": 0.000361
+  },
+  {
+    "query_id": "q18",
+    "config": "A6-rerank-k5-v3",
+    "model": "openai/gpt-4o-mini",
+    "question": "May a ruler start a war simply out of anger?",
+    "filter": null,
+    "status": "answered",
+    "answer": "A ruler should not initiate conflict merely to \"gratify his own spleen\" or out of \"pique\"; rather, actions should be based on strategic advantage and necessity [AOW-p106-B001].",
+    "citations": [
+      "AOW-p106-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "a ruler may initiate conflict out of wrath"
+    ],
+    "final_context_ids": [
+      "AOW-p050-B003",
+      "AOW-p072-B002",
+      "AOW-p106-B002",
+      "AOW-p106-B001",
+      "AOW-p049-B002"
+    ],
+    "final_context": "[AOW-p050-B003 | pg132_art_of_war.txt | page 50]\n[Chia Lin enumerates several ways of inflicting this injury, some of which would only occur to the Oriental mind:—\"Entice away the enemy’s best and wisest men, so that he may be left without counselors. Introduce traitors into his country, that the government policy may be rendered futile. Foment intrigue and deceit, and thus sow dissension between the ruler and his ministers. By means of every artful contrivance, cause deterioration amongst his men and waste of his treasure. Corrupt his morals by insidious gifts leading him into excess. Disturb and unsettle his mind by presenting him with lovely women.\" Chang Yu (after Wang Hsi) makes a different interpretation of Sun Tzŭ here: \"Get the enemy into a position where he must suffer injury, and he will submit of his own accord.\"]\n\n[AOW-p072-B002 | pg132_art_of_war.txt | page 72]\n22. He who knows these things, and in fighting puts his knowledge into practice, will win his battles. He who knows them not, nor practises them, will surely be defeated.\n\n23. If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler’s bidding.\n\n[AOW-p106-B002 | pg132_art_of_war.txt | page 106]\n20. Anger may in time change to gladness; vexation may be succeeded by content.\n\n21. But a kingdom that has once been destroyed can never come again into being;\n\n[The Wu State was destined to be a melancholy example of this saying.]\n\nnor can the dead ever be brought back to life.\n\n22. Hence the enlightened ruler is heedful, and the good general full of caution. This is the way to keep a country at peace and an army intact.\n\n[1] \"Unless you enter the tiger’s lair, you cannot get hold of the tiger’s cubs.\"\n\n[AOW-p106-B001 | pg132_art_of_war.txt | page 106]\n16. Hence the saying: The enlightened ruler lays his plans well ahead; the good general cultivates his resources.\n\n[Tu Mu quotes the following from the _San Lueh_, ch. 2: \"The warlike prince controls his soldiers by his authority, kits them together by good faith, and by rewards makes them serviceable. If faith decays, there will be disruption; if rewards are deficient, commands will not be respected.\"]\n\n17. Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical.\n\n[Sun Tzŭ may at times appear to be over-cautious, but he never goes so far in that direction as the remarkable passage in the _Tao Te Ching_, ch. 69. \"I dare not take the initiative, but prefer to act on the defensive; I dare not advance an inch, but prefer to retreat a foot.\"]\n\n18. No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique.\n\n19. If it is to your advantage, make a forward move; if not, stay where you are.\n\n[This is repeated from XI. § 17. Here I feel convinced that it is an interpolation, for it is evident that § 20 ought to follow immediately on § 18.]\n\n[AOW-p049-B002 | pg132_art_of_war.txt | page 49]\n6. So, the student of war who is unversed in the art of war of varying his plans, even though he be acquainted with the Five Advantages, will fail to make the best use of his men.\n\n[Chia Lin tells us that these imply five obvious and generally advantageous lines of action, namely: \"if a certain road is short, it must be followed; if an army is isolated, it must be attacked; if a town is in a parlous condition, it must be besieged; if a position can be stormed, it must be attempted; and if consistent with military operations, the ruler’s commands must be obeyed.\" But there are circumstances which sometimes forbid a general to use these advantages. For instance, \"a certain road may be the shortest way for him, but if he knows that it abounds in natural obstacles, or that the enemy has laid an ambush on it, he will not follow that road. A hostile force may be open to attack, but if he knows that it is hard-pressed and likely to fight with desperation, he will refrain from striking,\" and so on.]",
+    "events": [
+      {
+        "event": "search",
+        "query": "a ruler may initiate conflict out of wrath",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p050-B003",
+            "rank": 1,
+            "score": -6.24501,
+            "page": 50,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p072-B002",
+            "rank": 2,
+            "score": -6.60148,
+            "page": 72,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p106-B002",
+            "rank": 3,
+            "score": -6.73336,
+            "page": 106,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p106-B001",
+            "rank": 4,
+            "score": -7.49035,
+            "page": 106,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p049-B002",
+            "rank": 5,
+            "score": -7.54319,
+            "page": 49,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p050-B003",
+          "AOW-p072-B002",
+          "AOW-p106-B002",
+          "AOW-p106-B001",
+          "AOW-p049-B002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1605,
+        "prompt_tokens": 515,
+        "completion_tokens": 20,
+        "cost_usd": 8.925e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"a ruler may initiate conflict out of wrath\"}"
+      },
+      {
+        "ms": 2206,
+        "prompt_tokens": 1512,
+        "completion_tokens": 66,
+        "cost_usd": 0.0002664,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"A ruler should not initiate conflict merely to \\\"gratify his own spleen\\\" or out of \\\"pique\\\"; rather, actions should be based on strategic advantage and necessity [AOW-p106-B001].\",\"citations\":[\"AOW-p106-B001\"]}"
+      }
+    ],
+    "elapsed_s": 4.62,
+    "prompt_tokens": 2027,
+    "completion_tokens": 86,
+    "cost_usd": 0.000356
+  },
+  {
+    "query_id": "q19",
+    "config": "A6-rerank-k5-v3",
+    "model": "openai/gpt-4o-mini",
+    "question": "Who are employed as local spies?",
+    "filter": null,
+    "status": "answered",
+    "answer": "Local spies are employed by utilizing the services of the inhabitants of a district, who can be won over by kind treatment [AOW-p110-B001].",
+    "citations": [
+      "AOW-p110-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "who are used as local informants or spies"
+    ],
+    "final_context_ids": [
+      "AOW-p110-B001",
+      "AOW-p109-B002",
+      "AOW-p116-B001",
+      "AOW-p117-B003",
+      "AOW-p114-B001"
+    ],
+    "final_context": "[AOW-p110-B001 | pg132_art_of_war.txt | page 110]\n9. Having _local spies_ means employing the services of the inhabitants of a district.\n\n[Tu Mu says: \"In the enemy’s country, win people over by kind treatment, and use them as spies.\"]\n\n10. Having _inward spies_, making use of officials of the enemy.\n\n[Tu Mu enumerates the following classes as likely to do good service in this respect: \"Worthy men who have been degraded from office, criminals who have undergone punishment; also, favourite concubines who are greedy for gold, men who are aggrieved at being in subordinate positions, or who have been passed over in the distribution of posts, others who are anxious that their side should be defeated in order that they may have a chance of displaying their ability and talents, fickle turncoats who always want to have a foot in each boat. Officials of these several kinds,\" he continues, \"should be secretly approached and bound to one’s interests by means of rich presents.\n\n[AOW-p109-B002 | pg132_art_of_war.txt | page 109]\n7. Hence the use of spies, of whom there are five classes: (1) Local spies; (2) inward spies; (3) converted spies; (4) doomed spies; (5) surviving spies.\n\n8. When these five kinds of spy are all at work, none can discover the secret system. This is called \"divine manipulation of the threads.\" It is the sovereign’s most precious faculty.\n\n[Cromwell, one of the greatest and most practical of all cavalry leaders, had officers styled ‘scout masters,’ whose business it was to collect all possible information regarding the enemy, through scouts and spies, etc., and much of his success in war was traceable to the previous knowledge of the enemy’s moves thus gained.\" [1] ]\n\n[AOW-p116-B001 | pg132_art_of_war.txt | page 116]\n[Literally \"visitors\", is equivalent, as Tu Yu says, to \"those whose duty it is to keep the general supplied with information,\" which naturally necessitates frequent interviews with him.]\n\nthe door-keepers and sentries of the general in command. Our spies must be commissioned to ascertain these.\n\n[As the first step, no doubt towards finding out if any of these important functionaries can be won over by bribery.]\n\n21. The enemy’s spies who have come to spy on us must be sought out, tempted with bribes, led away and comfortably housed. Thus they will become converted spies and available for our service.\n\n22. It is through the information brought by the converted spy that we are able to acquire and employ local and inward spies.\n\n[Tu Yu says: \"through conversion of the enemy’s spies we learn the enemy’s condition.\" And Chang Yu says: \"We must tempt the converted spy into our service, because it is he that knows which of the local inhabitants are greedy of gain, and which of the officials are open to corruption.\"]\n\n23. It is owing to his information, again, that we can cause the doomed spy to carry false tidings to the enemy.\n\n[AOW-p117-B003 | pg132_art_of_war.txt | page 117]\n27. Hence it is only the enlightened ruler and the wise general who will use the highest intelligence of the army for purposes of spying and thereby they achieve great results.\n\n[Tu Mu closes with a note of warning: \"Just as water, which carries a boat from bank to bank, may also be the means of sinking it, so reliance on spies, while production of great results, is oft-times the cause of utter destruction.\"]\n\nSpies are a most important element in war, because on them depends an army’s ability to move.\n\n[Chia Lin says that an army without spies is like a man without ears or eyes.]\n\n[1] \"Aids to Scouting,\" p. 2.\n\n[2] \"Marshal Turenne,\" p. 311.\n\n[AOW-p114-B001 | pg132_art_of_war.txt | page 114]\n14. Hence it is that with none in the whole army are more intimate relations to be maintained than with spies.\n\n[Tu Mu and Mei Yao-ch’en point out that the spy is privileged to enter even the general’s private sleeping-tent.]\n\nNone should be more liberally rewarded. In no other business should greater secrecy be preserved.\n\n[Tu Mu gives a graphic touch: all communication with spies should be carried \"mouth-to-ear.\" The following remarks on spies may be quoted from Turenne, who made perhaps larger use of them than any previous commander: \"Spies are attached to those who give them most, he who pays them ill is never served. They should never be known to anybody; nor should they know one another. When they propose anything very material, secure their persons, or have in your possession their wives and children as hostages for their fidelity. Never communicate anything to them but what is absolutely necessary that they should know. [2] ]\n\n15. Spies cannot be usefully employed without a certain intuitive sagacity.",
+    "events": [
+      {
+        "event": "search",
+        "query": "who are used as local informants or spies",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p110-B001",
+            "rank": 1,
+            "score": 3.68879,
+            "page": 110,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p109-B002",
+            "rank": 2,
+            "score": 3.28521,
+            "page": 109,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p116-B001",
+            "rank": 3,
+            "score": 0.31688,
+            "page": 116,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p117-B003",
+            "rank": 4,
+            "score": -2.79707,
+            "page": 117,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p114-B001",
+            "rank": 5,
+            "score": -3.17827,
+            "page": 114,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p110-B001",
+          "AOW-p109-B002",
+          "AOW-p116-B001",
+          "AOW-p117-B003",
+          "AOW-p114-B001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1426,
+        "prompt_tokens": 511,
+        "completion_tokens": 21,
+        "cost_usd": 8.925e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"who are used as local informants or spies\"}"
+      },
+      {
+        "ms": 2343,
+        "prompt_tokens": 1582,
+        "completion_tokens": 54,
+        "cost_usd": 0.0002697,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"Local spies are employed by utilizing the services of the inhabitants of a district, who can be won over by kind treatment [AOW-p110-B001].\",\"citations\":[\"AOW-p110-B001\"]}"
+      }
+    ],
+    "elapsed_s": 4.54,
+    "prompt_tokens": 2093,
+    "completion_tokens": 75,
+    "cost_usd": 0.000359
+  },
+  {
+    "query_id": "q20",
+    "config": "A6-rerank-k5-v3",
+    "model": "openai/gpt-4o-mini",
+    "question": "In The Prince, why must a ruler imitate both a fox and a lion?",
+    "filter": {
+      "book": "the_prince"
+    },
+    "status": "answered",
+    "answer": "A ruler must imitate both a fox and a lion because the fox is cunning enough to discover traps, while the lion is strong enough to scare off wolves; thus, a wise prince needs both qualities to navigate the dangers of leadership effectively [PRN-p055-B002].",
+    "citations": [
+      "PRN-p055-B002"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "a ruler must imitate both a fox and a lion"
+    ],
+    "final_context_ids": [
+      "PRN-p055-B002",
+      "PRN-p065-B001",
+      "PRN-p065-B003",
+      "PRN-p015-B001",
+      "PRN-p068-B002"
+    ],
+    "final_context": "[PRN-p055-B002 | pg1232_the_prince.txt | page 55]\nThis has been figuratively taught to princes by ancient writers, who describe how Achilles and many other princes of old were given to the Centaur Chiron to nurse, who brought them up in his discipline; which means solely that, as they had for a teacher one who was half beast and half man, so it is necessary for a prince to know how to make use of both natures, and that one without the other is not durable. A prince, therefore, being compelled knowingly to adopt the beast, ought to choose the fox and the lion; because the lion cannot defend himself against snares and the fox cannot defend himself against wolves. Therefore, it is necessary to be a fox to discover the snares and a lion to terrify the wolves. Those who rely simply on the lion do not understand what they are about. Therefore a wise lord cannot, nor ought he to, keep faith when such observance may be turned against him, and when the reasons that caused him to pledge it exist no longer. If men were entirely good this precept would not hold, but because they are bad, and will not keep faith with you, you too are not bound to observe it with them.\n\n[PRN-p065-B001 | pg1232_the_prince.txt | page 65]\nTurning now to the opposite characters of Commodus, Severus, Antoninus Caracalla, and Maximinus, you will find them all cruel and rapacious-men who, to satisfy their soldiers, did not hesitate to commit every kind of iniquity against the people; and all, except Severus, came to a bad end; but in Severus there was so much valour that, keeping the soldiers friendly, although the people were oppressed by him, he reigned successfully; for his valour made him so much admired in the sight of the soldiers and people that the latter were kept in a way astonished and awed and the former respectful and satisfied. And because the actions of this man, as a new prince, were great, I wish to show briefly that he knew well how to counterfeit the fox and the lion, which natures, as I said above, it is necessary for a prince to imitate.\n\n[PRN-p065-B003 | pg1232_the_prince.txt | page 65]\nBut after Severus had conquered and killed Niger, and settled oriental affairs, he returned to Rome and complained to the Senate that Albinus, little recognizing the benefits that he had received from him, had by treachery sought to murder him, and for this ingratitude he was compelled to punish him. Afterwards he sought him out in France, and took from him his government and life. He who will, therefore, carefully examine the actions of this man will find him a most valiant lion and a most cunning fox; he will find him feared and respected by every one, and not hated by the army; and it need not be wondered at that he, a new man, was able to hold the empire so well, because his supreme renown always protected him from that hatred which the people might have conceived against him for his violence.\n\n[PRN-p015-B001 | pg1232_the_prince.txt | page 15]\nLet no one be surprised if, in speaking of entirely new principalities as I shall do, I adduce the highest examples both of prince and of state; because men, walking almost always in paths beaten by others, and following by imitation their deeds, are yet unable to keep entirely to the ways of others or attain to the power of those they imitate. A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savour of it. Let him act like the clever archers who, designing to hit the mark which yet appears too far distant, and knowing the limits to which the strength of their bow attains, take aim much higher than the mark, not to reach by their strength or arrow to so great a height, but to be able with the aid of so high an aim to hit the mark they wish to reach.\n\n[PRN-p068-B002 | pg1232_the_prince.txt | page 68]\nBut returning to the subject of our discourse, I say that whoever will consider it will acknowledge that either hatred or contempt has been fatal to the above-named emperors, and it will be recognized also how it happened that, a number of them acting in one way and a number in another, only one in each way came to a happy end and the rest to unhappy ones. Because it would have been useless and dangerous for Pertinax and Alexander, being new princes, to imitate Marcus, who was heir to the principality; and likewise it would have been utterly destructive to Caracalla, Commodus, and Maximinus to have imitated Severus, they not having sufficient valour to enable them to tread in his footsteps. Therefore a prince, new to the principality, cannot imitate the actions of Marcus, nor, again, is it necessary to follow those of Severus, but he ought to take from Severus those parts which are necessary to found his state, and from Marcus those which are proper and glorious to keep a state that may already be stable and firm.",
+    "events": [
+      {
+        "event": "search",
+        "query": "a ruler must imitate both a fox and a lion",
+        "filter": {
+          "book": "the_prince"
+        },
+        "results": [
+          {
+            "id": "PRN-p055-B002",
+            "rank": 1,
+            "score": 1.71941,
+            "page": 55,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p065-B001",
+            "rank": 2,
+            "score": 0.67674,
+            "page": 65,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p065-B003",
+            "rank": 3,
+            "score": -5.12069,
+            "page": 65,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p015-B001",
+            "rank": 4,
+            "score": -6.02765,
+            "page": 15,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p068-B002",
+            "rank": 5,
+            "score": -6.70999,
+            "page": 68,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p055-B002",
+          "PRN-p065-B001",
+          "PRN-p065-B003",
+          "PRN-p015-B001",
+          "PRN-p068-B002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1911,
+        "prompt_tokens": 520,
+        "completion_tokens": 22,
+        "cost_usd": 9.12e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"a ruler must imitate both a fox and a lion\"}"
+      },
+      {
+        "ms": 2958,
+        "prompt_tokens": 1647,
+        "completion_tokens": 77,
+        "cost_usd": 0.00029325,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"A ruler must imitate both a fox and a lion because the fox is cunning enough to discover traps, while the lion is strong enough to scare off wolves; thus, a wise prince needs both qualities to navigate the dangers of leadership effectively [PRN-p055-B002].\",\"citations\":[\"PRN-p055-B002\"]}"
+      }
+    ],
+    "elapsed_s": 5.59,
+    "prompt_tokens": 2167,
+    "completion_tokens": 99,
+    "cost_usd": 0.000384
+  },
+  {
+    "query_id": "q21",
+    "config": "A6-rerank-k5-v3",
+    "model": "openai/gpt-4o-mini",
+    "question": "In The Prince, what is the best fortress for a ruler?",
+    "filter": {
+      "book": "the_prince"
+    },
+    "status": "answered",
+    "answer": "The best fortress for a ruler is not to be hated by the people, as fortresses will not protect a ruler if the populace turns against them; foreign powers will always support a people in rebellion against a despised ruler [PRN-p072-B002].",
+    "citations": [
+      "PRN-p072-B002"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "best fortress for a ruler"
+    ],
+    "final_context_ids": [
+      "PRN-p072-B002",
+      "PRN-p072-B001",
+      "PRN-p062-B001",
+      "PRN-p069-B001",
+      "PRN-p044-B001"
+    ],
+    "final_context": "[PRN-p072-B002 | pg1232_the_prince.txt | page 72]\nThe castle of Milan, built by Francesco Sforza, has made, and will make, more trouble for the house of Sforza than any other disorder in the state. For this reason the best possible fortress is—not to be hated by the people, because, although you may hold the fortresses, yet they will not save you if the people hate you, for there will never be wanting foreigners to assist a people who have taken arms against you. It has not been seen in our times that such fortresses have been of use to any prince, unless to the Countess of Forli,[1] when the Count Girolamo, her consort, was killed; for by that means she was able to withstand the popular attack and wait for assistance from Milan, and thus recover her state; and the posture of affairs was such at that time that the foreigners could not assist the people. But fortresses were of little value to her afterwards when Cesare Borgia attacked her, and when the people, her enemy, were allied with foreigners. Therefore, it would have been safer for her, both then and before, not to have been hated by the people than to have had the fortresses.\n\n[PRN-p072-B001 | pg1232_the_prince.txt | page 72]\n6. It has been a custom with princes, in order to hold their states more securely, to build fortresses that may serve as a bridle and bit to those who might design to work against them, and as a place of refuge from a first attack. I praise this system because it has been made use of formerly. Notwithstanding that, Messer Nicolo Vitelli in our times has been seen to demolish two fortresses in Citta di Castello so that he might keep that state; Guido Ubaldo, Duke of Urbino, on returning to his dominion, whence he had been driven by Cesare Borgia, razed to the foundations all the fortresses in that province, and considered that without them it would be more difficult to lose it; the Bentivogli returning to Bologna came to a similar decision. Fortresses, therefore, are useful or not according to circumstances; if they do you good in one way they injure you in another. And this question can be reasoned thus: the prince who has more to fear from the people than from foreigners ought to build fortresses, but he who has more to fear from foreigners than from the people ought to leave them alone.\n\n[PRN-p062-B001 | pg1232_the_prince.txt | page 62]\nAmong the best ordered and governed kingdoms of our times is France, and in it are found many good institutions on which depend the liberty and security of the king; of these the first is the parliament and its authority, because he who founded the kingdom, knowing the ambition of the nobility and their boldness, considered that a bit to their mouths would be necessary to hold them in; and, on the other side, knowing the hatred of the people, founded in fear, against the nobles, he wished to protect them, yet he was not anxious for this to be the particular care of the king; therefore, to take away the reproach which he would be liable to from the nobles for favouring the people, and from the people for favouring the nobles, he set up an arbiter, who should be one who could beat down the great and favour the lesser without reproach to the king. Neither could you have a better or a more prudent arrangement, or a greater source of security to the king and kingdom. From this one can draw another important conclusion, that princes ought to leave affairs of reproach to the management of others, and keep those of grace in their own hands.\n\n[PRN-p069-B001 | pg1232_the_prince.txt | page 69]\n1. Some princes, so as to hold securely the state, have disarmed their subjects; others have kept their subject towns distracted by factions; others have fostered enmities against themselves; others have laid themselves out to gain over those whom they distrusted in the beginning of their governments; some have built fortresses; some have overthrown and destroyed them. And although one cannot give a final judgment on all of these things unless one possesses the particulars of those states in which a decision has to be made, nevertheless I will speak as comprehensively as the matter of itself will admit.\n\n2. There never was a new prince who has disarmed his subjects; rather when he has found them disarmed he has always armed them, because, by arming them, those arms become yours, those men who were distrusted become faithful, and those who were faithful are kept so, and your subjects become your adherents.\n\n[PRN-p044-B001 | pg1232_the_prince.txt | page 44]\n[2] Joannes Cantacuzenus, born 1300, died 1383.\n\nTherefore, let him who has no desire to conquer make use of these arms, for they are much more hazardous than mercenaries, because with them the ruin is ready made; they are all united, all yield obedience to others; but with mercenaries, when they have conquered, more time and better opportunities are needed to injure you; they are not all of one community, they are found and paid by you, and a third party, which you have made their head, is not able all at once to assume enough authority to injure you. In conclusion, in mercenaries dastardy is most dangerous; in auxiliaries, valour. The wise prince, therefore, has always avoided these arms and turned to his own; and has been willing rather to lose with them than to conquer with the others, not deeming that a real victory which is gained with the arms of others.",
+    "events": [
+      {
+        "event": "search",
+        "query": "best fortress for a ruler",
+        "filter": {
+          "book": "the_prince"
+        },
+        "results": [
+          {
+            "id": "PRN-p072-B002",
+            "rank": 1,
+            "score": 1.80292,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p072-B001",
+            "rank": 2,
+            "score": -2.53269,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p062-B001",
+            "rank": 3,
+            "score": -6.01435,
+            "page": 62,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p069-B001",
+            "rank": 4,
+            "score": -7.52241,
+            "page": 69,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p044-B001",
+            "rank": 5,
+            "score": -10.4633,
+            "page": 44,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p072-B002",
+          "PRN-p072-B001",
+          "PRN-p062-B001",
+          "PRN-p069-B001",
+          "PRN-p044-B001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1254,
+        "prompt_tokens": 517,
+        "completion_tokens": 17,
+        "cost_usd": 8.775e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"best fortress for a ruler\"}"
+      },
+      {
+        "ms": 2796,
+        "prompt_tokens": 1744,
+        "completion_tokens": 75,
+        "cost_usd": 0.0003066,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"The best fortress for a ruler is not to be hated by the people, as fortresses will not protect a ruler if the populace turns against them; foreign powers will always support a people in rebellion against a despised ruler [PRN-p072-B002].\",\"citations\":[\"PRN-p072-B002\"]}"
+      }
+    ],
+    "elapsed_s": 4.65,
+    "prompt_tokens": 2261,
+    "completion_tokens": 92,
+    "cost_usd": 0.000394
+  },
+  {
+    "query_id": "q22",
+    "config": "A6-rerank-k5-v3",
+    "model": "openai/gpt-4o-mini",
+    "question": "How can a prince signal protection from flatterers while risking loss of respect?",
+    "filter": null,
+    "status": "answered",
+    "answer": "A prince can signal protection from flatterers by allowing the truth to be spoken freely, which, while it may diminish respect, helps guard against deceitful praise. However, this approach risks falling into contempt, as \"when every one may tell you the truth, respect for you abates\" [PRN-p078-B001]. Thus, a careful balance must be maintained to avoid alienating both flatterers and the populace [PRN-p060-B003].",
+    "citations": [
+      "PRN-p078-B001",
+      "PRN-p060-B003"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "how a ruler can show protection from sycophants while risking loss of esteem"
+    ],
+    "final_context_ids": [
+      "PRN-p031-B001",
+      "PRN-p061-B002",
+      "AOW-p014-B001",
+      "PRN-p078-B001",
+      "PRN-p060-B003"
+    ],
+    "final_context": "[PRN-p031-B001 | pg1232_the_prince.txt | page 31]\nTherefore, one who becomes a prince through the favour of the people ought to keep them friendly, and this he can easily do seeing they only ask not to be oppressed by him. But one who, in opposition to the people, becomes a prince by the favour of the nobles, ought, above everything, to seek to win the people over to himself, and this he may easily do if he takes them under his protection. Because men, when they receive good from him of whom they were expecting evil, are bound more closely to their benefactor; thus the people quickly become more devoted to him than if he had been raised to the principality by their favours; and the prince can win their affections in many ways, but as these vary according to the circumstances one cannot give fixed rules, so I omit them; but, I repeat, it is necessary for a prince to have the people friendly, otherwise he has no security in adversity.\n\n[PRN-p061-B002 | pg1232_the_prince.txt | page 61]\n[1] Giovanni Bentivogli, born in Bologna 1438, died at Milan 1508. He ruled Bologna from 1462 to 1506. Machiavelli’s strong condemnation of conspiracies may get its edge from his own very recent experience (February 1513), when he had been arrested and tortured for his alleged complicity in the Boscoli conspiracy.\n\nFor this reason I consider that a prince ought to reckon conspiracies of little account when his people hold him in esteem; but when it is hostile to him, and bears hatred towards him, he ought to fear everything and everybody. And well-ordered states and wise princes have taken every care not to drive the nobles to desperation, and to keep the people satisfied and contented, for this is one of the most important objects a prince can have.\n\n[AOW-p014-B001 | pg132_art_of_war.txt | page 14]\nif quite unequal in every way, we can flee from him.\n\n10. Hence, though an obstinate fight may be made by a small force, in the end it must be captured by the larger force.\n\n11. Now the general is the bulwark of the State: if the bulwark is complete at all points; the State will be strong; if the bulwark is defective, the State will be weak.\n\n[As Li Ch’uan tersely puts it: \"Gap indicates deficiency; if the general’s ability is not perfect (i.e. if he is not thoroughly versed in his profession), his army will lack strength.\"]\n\n12. There are three ways in which a ruler can bring misfortune upon his army:—\n\n13. (1) By commanding the army to advance or to retreat, being ignorant of the fact that it cannot obey. This is called hobbling the army.\n\n[PRN-p078-B001 | pg1232_the_prince.txt | page 78]\nI do not wish to leave out an important branch of this subject, for it is a danger from which princes are with difficulty preserved, unless they are very careful and discriminating. It is that of flatterers, of whom courts are full, because men are so self-complacent in their own affairs, and in a way so deceived in them, that they are preserved with difficulty from this pest, and if they wish to defend themselves they run the danger of falling into contempt. Because there is no other way of guarding oneself from flatterers except letting men understand that to tell you the truth does not offend you; but when every one may tell you the truth, respect for you abates.\n\n[PRN-p060-B003 | pg1232_the_prince.txt | page 60]\nAnd, to reduce the matter into a small compass, I say that, on the side of the conspirator, there is nothing but fear, jealousy, prospect of punishment to terrify him; but on the side of the prince there is the majesty of the principality, the laws, the protection of friends and the state to defend him; so that, adding to all these things the popular goodwill, it is impossible that any one should be so rash as to conspire. For whereas in general the conspirator has to fear before the execution of his plot, in this case he has also to fear the sequel to the crime; because on account of it he has the people for an enemy, and thus cannot hope for any escape.",
+    "events": [
+      {
+        "event": "search",
+        "query": "how a ruler can show protection from sycophants while risking loss of esteem",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p031-B001",
+            "rank": 1,
+            "score": -9.36938,
+            "page": 31,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p061-B002",
+            "rank": 2,
+            "score": -9.48545,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p014-B001",
+            "rank": 3,
+            "score": -10.2436,
+            "page": 14,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "PRN-p078-B001",
+            "rank": 4,
+            "score": -10.44156,
+            "page": 78,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p060-B003",
+            "rank": 5,
+            "score": -10.4443,
+            "page": 60,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p031-B001",
+          "PRN-p061-B002",
+          "AOW-p014-B001",
+          "PRN-p078-B001",
+          "PRN-p060-B003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1465,
+        "prompt_tokens": 519,
+        "completion_tokens": 28,
+        "cost_usd": 9.465e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"how a ruler can show protection from sycophants while risking loss of esteem\"}"
+      },
+      {
+        "ms": 3632,
+        "prompt_tokens": 1471,
+        "completion_tokens": 122,
+        "cost_usd": 0.00029385,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"A prince can signal protection from flatterers by allowing the truth to be spoken freely, which, while it may diminish respect, helps guard against deceitful praise. However, this approach risks falling into contempt, as \\\"when every one may tell you the truth, respect for you abates\\\" [PRN-p078-B001]. Thus, a careful balance must be maintained to avoid alienating both flatterers and the populace [PRN-p060-B003].\",\"citations\":[\"PRN-p078-B001\",\"PRN-p060-B003\"]}"
+      }
+    ],
+    "elapsed_s": 5.79,
+    "prompt_tokens": 1990,
+    "completion_tokens": 150,
+    "cost_usd": 0.000389
+  },
+  {
+    "query_id": "u03",
+    "config": "A6-rerank-k5-v3",
+    "model": "openai/gpt-4o-mini",
+    "question": "What does Sun Tzu advise about using gunpowder and firearms in siege warfare?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 3,
+    "queries": [
+      "gunpowder firearms siege warfare",
+      "gunpowder artillery siege warfare",
+      "use of gunpowder in siege warfare"
+    ],
+    "final_context_ids": [
+      "AOW-p006-B001",
+      "AOW-p012-B001",
+      "AOW-p011-B002",
+      "AOW-p022-B003",
+      "PRN-p025-B002",
+      "AOW-p061-B001",
+      "AOW-p023-B001",
+      "AOW-p040-B001"
+    ],
+    "final_context": "[AOW-p006-B001 | pg132_art_of_war.txt | page 6]\n2. When you engage in actual fighting, if victory is long in coming, the men’s weapons will grow dull and their ardour will be damped. If you lay siege to a town, you will exhaust your strength.\n\n3. Again, if the campaign is protracted, the resources of the State will not be equal to the strain.\n\n4. Now, when your weapons are dulled, your ardour damped, your strength exhausted and your treasure spent, other chieftains will spring up to take advantage of your extremity. Then no man, however wise, will be able to avert the consequences that must ensue.\n\n5. Thus, though we have heard of stupid haste in war, cleverness has never been seen associated with long delays.\n\n[This concise and difficult sentence is not well explained by any of the commentators. Ts’ao Kung, Li Ch’uan, Meng Shih, Tu Yu, Tu Mu and Mei Yao-ch’en have notes to the effect that a general, though naturally stupid, may nevertheless conquer through sheer force of rapidity.\n\n[AOW-p012-B001 | pg132_art_of_war.txt | page 12]\nand the piling up of mounds over against the walls will take three months more.\n\n[These were great mounds or ramparts of earth heaped up to the level of the enemy’s walls in order to discover the weak points in the defence, and also to destroy the fortified turrets mentioned in the preceding note.]\n\n5. The general, unable to control his irritation, will launch his men to the assault like swarming ants,\n\n[This vivid simile of Ts’ao Kung is taken from the spectacle of an army of ants climbing a wall. The meaning is that the general, losing patience at the long delay, may make a premature attempt to storm the place before his engines of war are ready.]\n\nwith the result that one-third of his men are slain, while the town still remains untaken. Such are the disastrous effects of a siege.\n\n[We are reminded of the terrible losses of the Japanese before Port Arthur, in the most recent siege which history has to record.]\n\n6. Therefore the skilful leader subdues the enemy’s troops without any fighting; he captures their cities without laying siege to them; he overthrows their kingdom without lengthy operations in the field.\n\n[AOW-p011-B002 | pg132_art_of_war.txt | page 11]\n[It is not quite clear what the Chinese word, here translated as \"mantlets\", described. Ts’ao Kung simply defines them as \"large shields,\" but we get a better idea of them from Li Ch’uan, who says they were to protect the heads of those who were assaulting the city walls at close quarters. This seems to suggest a sort of Roman _testudo_, ready made. Tu Mu says they were wheeled vehicles used in repelling attacks, but this is denied by Ch’en Hao. See _supra_ II. 14. The name is also applied to turrets on city walls. Of the \"movable shelters\" we get a fairly clear description from several commentators. They were wooden missile-proof structures on four wheels, propelled from within, covered over with raw hides, and used in sieges to convey parties of men to and from the walls, for the purpose of filling up the encircling moat with earth. Tu Mu adds that they are now called \"wooden donkeys.\"]\n\n[AOW-p022-B003 | pg132_art_of_war.txt | page 22]\nB.C.] says: ‘Direct warfare favours frontal attacks, indirect warfare attacks from the rear.’ Ts’ao Kung says: ‘Going straight out to join battle is a direct operation; appearing on the enemy’s rear is an indirect manœuver.’ Li Wei-kung [6th and 7th cent. A.D.] says: ‘In war, to march straight ahead is _cheng_; turning movements, on the other hand, are _ch’i_.’ These writers simply regard _cheng_ as _cheng_, and _ch’i_ as _ch’i_; they do not note that the two are mutually interchangeable and run into each other like the two sides of a circle [see infra, § 11]. A comment on the T’ang Emperor T’ai Tsung goes to the root of the matter: ‘A _ch’i_ manœuver may be _cheng_, if we make the enemy look upon it as _cheng_; then our real attack will be _ch’i_, and vice versa. The whole secret lies in confusing the enemy, so that he cannot fathom our real intent.’\" To put it perhaps a little more clearly: any attack or other operation is _cheng_, on which the enemy has had his attention fixed; whereas that is _ch’i_,\" which takes him by surprise or comes from an unexpected quarter. If the enemy perceives a movement which is meant to be _ch’i_,\" it immediately becomes _cheng_.\"]\n\n[PRN-p025-B002 | pg1232_the_prince.txt | page 25]\nBeing established in that position, and having deliberately resolved to make himself prince and to seize by violence, without obligation to others, that which had been conceded to him by assent, he came to an understanding for this purpose with Amilcar, the Carthaginian, who, with his army, was fighting in Sicily. One morning he assembled the people and the senate of Syracuse, as if he had to discuss with them things relating to the Republic, and at a given signal the soldiers killed all the senators and the richest of the people; these dead, he seized and held the princedom of that city without any civil commotion. And although he was twice routed by the Carthaginians, and ultimately besieged, yet not only was he able to defend his city, but leaving part of his men for its defence, with the others he attacked Africa, and in a short time raised the siege of Syracuse. The Carthaginians, reduced to extreme necessity, were compelled to come to terms with Agathocles, and, leaving Sicily to him, had to be content with the possession of Africa.\n\n[AOW-p061-B001 | pg132_art_of_war.txt | page 61]\nWhen it branches out in different directions, it shows that parties have been sent to collect firewood. A few clouds of dust moving to and fro signify that the army is encamping.\n\n[Chang Yu says: \"In apportioning the defences for a cantonment, light horse will be sent out to survey the position and ascertain the weak and strong points all along its circumference. Hence the small quantity of dust and its motion.\"]\n\n24. Humble words and increased preparations are signs that the enemy is about to advance.\n\n[\"As though they stood in great fear of us,\" says Tu Mu. \"Their object is to make us contemptuous and careless, after which they will attack us.\" Chang Yu alludes to the story of T’ien Tan of the Ch’i-mo against the Yen forces, led by Ch’i Chieh. In ch.\n\n[AOW-p023-B001 | pg132_art_of_war.txt | page 23]\n4. That the impact of your army may be like a grindstone dashed against an egg—this is effected by the science of weak points and strong.\n\n5. In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory.\n\n[Chang Yu says: \"Steadily develop indirect tactics, either by pounding the enemy’s flanks or falling on his rear.\" A brilliant example of \"indirect tactics\" which decided the fortunes of a campaign was Lord Roberts’ night march round the Peiwar Kotal in the second Afghan war. [1]\n\n6. Indirect tactics, efficiently applied, are inexhausible as Heaven and Earth, unending as the flow of rivers and streams; like the sun and moon, they end but to begin anew; like the four seasons, they pass away but to return once more.\n\n[AOW-p040-B001 | pg132_art_of_war.txt | page 40]\n14. We shall be unable to turn natural advantages to account unless we make use of local guides.\n\n[§§. 12-14 are repeated in chap. XI. § 52.]\n\n15. In war, practise dissimulation, and you will succeed.\n\n[In the tactics of Turenne, deception of the enemy, especially as to the numerical strength of his troops, took a very prominent position. [2] ]\n\nMove only if there is a real advantage to be gained.\n\n16. Whether to concentrate or to divide your troops, must be decided by circumstances.\n\n17. Let your rapidity be that of the wind,\n\n[The simile is doubly appropriate, because the wind is not only swift but, as Mei Yao-ch’en points out, \"invisible and leaves no tracks.\"]\n\nyour compactness that of the forest.\n\n[Meng Shih comes nearer to the mark in his note: \"When slowly marching, order and ranks must be preserved\"—so as to guard against surprise attacks. But natural forest do not grow in rows, whereas they do generally possess the quality of density or compactness.]\n\n18. In raiding and plundering be like fire,\n\n[Cf. _Shih Ching_, IV. 3. iv. 6: \"Fierce as a blazing fire which no man can check.\"]\n\nin immovability like a mountain.",
+    "events": [
+      {
+        "event": "search",
+        "query": "gunpowder firearms siege warfare",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p006-B001",
+            "rank": 1,
+            "score": -7.14747,
+            "page": 6,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p012-B001",
+            "rank": 2,
+            "score": -7.38249,
+            "page": 12,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p011-B002",
+            "rank": 3,
+            "score": -9.67496,
+            "page": 11,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p022-B003",
+            "rank": 4,
+            "score": -9.85405,
+            "page": 22,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "PRN-p025-B002",
+            "rank": 5,
+            "score": -9.96558,
+            "page": 25,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "AOW-p006-B001",
+          "AOW-p012-B001",
+          "AOW-p011-B002",
+          "AOW-p022-B003",
+          "PRN-p025-B002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "gunpowder artillery siege warfare",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p012-B001",
+            "rank": 1,
+            "score": -5.30022,
+            "page": 12,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p006-B001",
+            "rank": 2,
+            "score": -7.41999,
+            "page": 6,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "PRN-p025-B002",
+            "rank": 3,
+            "score": -8.85129,
+            "page": 25,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p061-B001",
+            "rank": 4,
+            "score": -9.17912,
+            "page": 61,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p022-B003",
+            "rank": 5,
+            "score": -9.2798,
+            "page": 22,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p006-B001",
+          "AOW-p012-B001",
+          "AOW-p011-B002",
+          "AOW-p022-B003",
+          "PRN-p025-B002",
+          "AOW-p061-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "use of gunpowder in siege warfare",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p012-B001",
+            "rank": 1,
+            "score": -5.65941,
+            "page": 12,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p006-B001",
+            "rank": 2,
+            "score": -5.77574,
+            "page": 6,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p011-B002",
+            "rank": 3,
+            "score": -6.50993,
+            "page": 11,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p023-B001",
+            "rank": 4,
+            "score": -8.07226,
+            "page": 23,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p040-B001",
+            "rank": 5,
+            "score": -8.22147,
+            "page": 40,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p006-B001",
+          "AOW-p012-B001",
+          "AOW-p011-B002",
+          "AOW-p022-B003",
+          "PRN-p025-B002",
+          "AOW-p061-B001",
+          "AOW-p023-B001",
+          "AOW-p040-B001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1521,
+        "prompt_tokens": 521,
+        "completion_tokens": 18,
+        "cost_usd": 8.895e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"gunpowder firearms siege warfare\"}"
+      },
+      {
+        "ms": 1324,
+        "prompt_tokens": 1818,
+        "completion_tokens": 18,
+        "cost_usd": 0.0002835,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"gunpowder artillery siege warfare\"}"
+      },
+      {
+        "ms": 1427,
+        "prompt_tokens": 2017,
+        "completion_tokens": 20,
+        "cost_usd": 0.00031455,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"use of gunpowder in siege warfare\"}"
+      },
+      {
+        "ms": 2087,
+        "prompt_tokens": 2537,
+        "completion_tokens": 34,
+        "cost_usd": 0.00040095,
+        "model": "openai/gpt-4o-mini",
+        "tool": "abstain",
+        "arguments": "{\"reason\":\"The context does not contain specific information regarding the advice on gunpowder and firearms in siege warfare.\"}",
+        "abstain_reason": "The context does not contain specific information regarding the advice on gunpowder and firearms in siege warfare."
+      }
+    ],
+    "elapsed_s": 9.02,
+    "prompt_tokens": 6893,
+    "completion_tokens": 90,
+    "cost_usd": 0.001088
+  },
+  {
+    "query_id": "u04",
+    "config": "A6-rerank-k5-v3",
+    "model": "openai/gpt-4o-mini",
+    "question": "How many pounds of rice per day does Sun Tzu allocate to each soldier?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 3,
+    "queries": [
+      "daily rice allocation per soldier",
+      "rice ration per soldier",
+      "ration of rice per soldier"
+    ],
+    "final_context_ids": [
+      "AOW-p107-B001",
+      "AOW-p005-B002",
+      "AOW-p009-B001",
+      "PRN-p066-B002",
+      "AOW-p083-B001",
+      "AOW-p094-B001",
+      "AOW-p107-B002",
+      "AOW-p021-B003"
+    ],
+    "final_context": "[AOW-p107-B001 | pg132_art_of_war.txt | page 107]\n1. Sun Tzŭ said: Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the State. The daily expenditure will amount to a thousand ounces of silver.\n\n[Cf. II. §§ 1, 13, 14.]\n\nThere will be commotion at home and abroad, and men will drop down exhausted on the highways.\n\n[Cf. _Tao Te Ching_, ch. 30: \"Where troops have been quartered, brambles and thorns spring up. Chang Yu has the note: \"We may be reminded of the saying: ‘On serious ground, gather in plunder.’ Why then should carriage and transportation cause exhaustion on the highways?—The answer is, that not victuals alone, but all sorts of munitions of war have to be conveyed to the army. Besides, the injunction to ‘forage on the enemy’ only means that when an army is deeply engaged in hostile territory, scarcity of food must be provided against. Hence, without being solely dependent on the enemy for corn, we must forage in order that there may be an uninterrupted flow of supplies. Then, again, there are places like salt deserts where provisions being unobtainable, supplies from home cannot be dispensed with.\"]\n\n[AOW-p005-B002 | pg132_art_of_war.txt | page 5]\nwith provisions enough to carry them a thousand _li_,\n\n[2.78 modern _li_ go to a mile. The length may have varied slightly since Sun Tzŭ’s time.]\n\nthe expenditure at home and at the front, including entertainment of guests, small items such as glue and paint, and sums spent on chariots and armour, will reach the total of a thousand ounces of silver per day. Such is the cost of raising an army of 100,000 men.\n\n[AOW-p009-B001 | pg132_art_of_war.txt | page 9]\nwhile Government expenses for broken chariots, worn-out horses, breast-plates and helmets, bows and arrows, spears and shields, protective mantlets, draught-oxen and heavy waggons, will amount to four-tenths of its total revenue.\n\n15. Hence a wise general makes a point of foraging on the enemy. One cartload of the enemy’s provisions is equivalent to twenty of one’s own, and likewise a single _picul_ of his provender is equivalent to twenty from one’s own store.\n\n[Because twenty cartloads will be consumed in the process of transporting one cartload to the front. A _picul_ is a unit of measure equal to 133.3 pounds (65.5 kilograms).]\n\n16. Now in order to kill the enemy, our men must be roused to anger; that there may be advantage from defeating the enemy, they must have their rewards.\n\n[Tu Mu says: \"Rewards are necessary in order to make the soldiers see the advantage of beating the enemy; thus, when you capture spoils from the enemy, they must be used as rewards, so that all your men may have a keen desire to fight, each on his own account.\"]\n\n[PRN-p066-B002 | pg1232_the_prince.txt | page 66]\nAntoninus had not taken this care, but had contumeliously killed a brother of that centurion, whom also he daily threatened, yet retained in his bodyguard; which, as it turned out, was a rash thing to do, and proved the emperor’s ruin.\n\nBut let us come to Commodus, to whom it should have been very easy to hold the empire, for, being the son of Marcus, he had inherited it, and he had only to follow in the footsteps of his father to please his people and soldiers; but, being by nature cruel and brutal, he gave himself up to amusing the soldiers and corrupting them, so that he might indulge his rapacity upon the people; on the other hand, not maintaining his dignity, often descending to the theatre to compete with gladiators, and doing other vile things, little worthy of the imperial majesty, he fell into contempt with the soldiers, and being hated by one party and despised by the other, he was conspired against and was killed.\n\n[AOW-p083-B001 | pg132_art_of_war.txt | page 83]\nKeep your army continually on the move,\n\n[In order that the enemy may never know exactly where you are. It has struck me, however, that the true reading might be \"link your army together.\"]\n\nand devise unfathomable plans.\n\n23. Throw your soldiers into positions whence there is no escape, and they will prefer death to flight. If they will face death, there is nothing they may not achieve.\n\n[Chang Yu quotes his favourite Wei Liao Tzŭ (ch. 3): \"If one man were to run amok with a sword in the market-place, and everybody else tried to get our of his way, I should not allow that this man alone had courage and that all the rest were contemptible cowards. The truth is, that a desperado and a man who sets some value on his life do not meet on even terms.\"]\n\nOfficers and men alike will put forth their uttermost strength.\n\n[Chang Yu says: \"If they are in an awkward place together, they will surely exert their united strength to get out of it.\"]\n\n24. Soldiers when in desperate straits lose the sense of fear. If there is no place of refuge, they will stand firm. If they are in the heart of a hostile country, they will show a stubborn front. If there is no help for it, they will fight hard.\n\n[AOW-p094-B001 | pg132_art_of_war.txt | page 94]\n51. For it is the soldier’s disposition to offer an obstinate resistance when surrounded, to fight hard when he cannot help himself, and to obey promptly when he has fallen into danger.\n\n[Chang Yu alludes to the conduct of Pan Ch’ao’s devoted followers in 73 A.D. The story runs thus in the _Hou Han Shu_, ch. 47: \"When Pan Ch’ao arrived at Shan-shan, Kuang, the King of the country, received him at first with great politeness and respect; but shortly afterwards his behavior underwent a sudden change, and he became remiss and negligent. Pan Ch’ao spoke about this to the officers of his suite: ‘Have you noticed,’ he said, ‘that Kuang’s polite intentions are on the wane? This must signify that envoys have come from the Northern barbarians, and that consequently he is in a state of indecision, not knowing with which side to throw in his lot. That surely is the reason.\n\n[AOW-p107-B002 | pg132_art_of_war.txt | page 107]\nAs many as seven hundred thousand families will be impeded in their labor.\n\n[Mei Yao-ch’en says: \"Men will be lacking at the plough-tail.\" The allusion is to the system of dividing land into nine parts, each consisting of about 15 acres, the plot in the center being cultivated on behalf of the State by the tenants of the other eight. It was here also, so Tu Mu tells us, that their cottages were built and a well sunk, to be used by all in common. [See II. § 12, note.] In time of war, one of the families had to serve in the army, while the other seven contributed to its support. Thus, by a levy of 100,000 men (reckoning one able-bodied soldier to each family) the husbandry of 700,000 families would be affected.]\n\n[AOW-p021-B003 | pg132_art_of_war.txt | page 21]\n[Literally, \"a victorious army is like an _i_ (20 oz.) weighed against a _shu_ (1/24 oz.); a routed army is a _shu_ weighed against an _i_.\" The point is simply the enormous advantage which a disciplined force, flushed with victory, has over one demoralized by defeat. Legge, in his note on Mencius, I. 2. ix. 2, makes the _i_ to be 24 Chinese ounces, and corrects Chu Hsi’s statement that it equaled 20 oz. only. But Li Ch’uan of the T’ang dynasty here gives the same figure as Chu Hsi.]\n\n20. The onrush of a conquering force is like the bursting of pent-up waters into a chasm a thousand fathoms deep. So much for tactical dispositions.",
+    "events": [
+      {
+        "event": "search",
+        "query": "daily rice allocation per soldier",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p107-B001",
+            "rank": 1,
+            "score": -9.40838,
+            "page": 107,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p005-B002",
+            "rank": 2,
+            "score": -10.71291,
+            "page": 5,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p009-B001",
+            "rank": 3,
+            "score": -11.10888,
+            "page": 9,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "PRN-p066-B002",
+            "rank": 4,
+            "score": -11.19217,
+            "page": 66,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p083-B001",
+            "rank": 5,
+            "score": -11.30573,
+            "page": 83,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p107-B001",
+          "AOW-p005-B002",
+          "AOW-p009-B001",
+          "PRN-p066-B002",
+          "AOW-p083-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "rice ration per soldier",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p009-B001",
+            "rank": 1,
+            "score": -10.88979,
+            "page": 9,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p107-B001",
+            "rank": 2,
+            "score": -11.01273,
+            "page": 107,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p094-B001",
+            "rank": 3,
+            "score": -11.06682,
+            "page": 94,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p005-B002",
+            "rank": 4,
+            "score": -11.105,
+            "page": 5,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p107-B002",
+            "rank": 5,
+            "score": -11.24226,
+            "page": 107,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p107-B001",
+          "AOW-p005-B002",
+          "AOW-p009-B001",
+          "PRN-p066-B002",
+          "AOW-p083-B001",
+          "AOW-p094-B001",
+          "AOW-p107-B002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "ration of rice per soldier",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p107-B001",
+            "rank": 1,
+            "score": -10.95041,
+            "page": 107,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p009-B001",
+            "rank": 2,
+            "score": -11.0557,
+            "page": 9,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p005-B002",
+            "rank": 3,
+            "score": -11.13519,
+            "page": 5,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p094-B001",
+            "rank": 4,
+            "score": -11.16276,
+            "page": 94,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p021-B003",
+            "rank": 5,
+            "score": -11.24059,
+            "page": 21,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p107-B001",
+          "AOW-p005-B002",
+          "AOW-p009-B001",
+          "PRN-p066-B002",
+          "AOW-p083-B001",
+          "AOW-p094-B001",
+          "AOW-p107-B002",
+          "AOW-p021-B003"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1534,
+        "prompt_tokens": 520,
+        "completion_tokens": 17,
+        "cost_usd": 8.82e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"daily rice allocation per soldier\"}"
+      },
+      {
+        "ms": 1174,
+        "prompt_tokens": 1731,
+        "completion_tokens": 16,
+        "cost_usd": 0.00026925,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"rice ration per soldier\"}"
+      },
+      {
+        "ms": 2557,
+        "prompt_tokens": 2155,
+        "completion_tokens": 50,
+        "cost_usd": 0.00035325,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\": \"ration of rice per soldier\"}"
+      },
+      {
+        "ms": 1673,
+        "prompt_tokens": 2369,
+        "completion_tokens": 28,
+        "cost_usd": 0.00037215,
+        "model": "openai/gpt-4o-mini",
+        "tool": "abstain",
+        "arguments": "{\"reason\":\"The context does not contain information regarding the daily rice allocation per soldier.\"}",
+        "abstain_reason": "The context does not contain information regarding the daily rice allocation per soldier."
+      }
+    ],
+    "elapsed_s": 9.33,
+    "prompt_tokens": 6775,
+    "completion_tokens": 111,
+    "cost_usd": 0.001083
+  }
+]

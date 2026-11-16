@@ -1,0 +1,58 @@
+[
+  {
+    "query_id": "q17",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "reason": "Conclusion right, but AOW-p071-B001 is about angry officers causing ruin, not the rule for rulers; unsupported."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Fox discovers snares, lion terrifies wolves, PRN-p055-B002 (gold)."
+  },
+  {
+    "query_id": "q21",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Not to be hated by the people, PRN-p072-B002 (gold)."
+  },
+  {
+    "query_id": "q22",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Truth does not offend + respect abates, PRN-p078-B001 (gold)."
+  },
+  {
+    "query_id": "u03",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  },
+  {
+    "query_id": "u04",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  }
+]

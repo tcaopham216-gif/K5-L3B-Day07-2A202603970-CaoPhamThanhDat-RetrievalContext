@@ -1,0 +1,594 @@
+[
+  {
+    "query_id": "q17",
+    "question": "What precaution is advised when crossing salt marshes?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p056-B001",
+        "page": 56,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 0.80468,
+        "hit": true
+      },
+      {
+        "id": "AOW-p056-B002",
+        "page": 56,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 0.77783,
+        "hit": false
+      },
+      {
+        "id": "AOW-p055-B001",
+        "page": 55,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 0.67726,
+        "hit": false
+      },
+      {
+        "id": "AOW-p055-B003",
+        "page": 55,
+        "source_id": "art_of_war",
+        "rank": 4,
+        "score": 0.67678,
+        "hit": false
+      },
+      {
+        "id": "AOW-p054-B002",
+        "page": 54,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 0.66151,
+        "hit": false
+      },
+      {
+        "id": "AOW-p067-B002",
+        "page": 67,
+        "source_id": "art_of_war",
+        "rank": 6,
+        "score": 0.65035,
+        "hit": false
+      },
+      {
+        "id": "AOW-p100-B001",
+        "page": 100,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 0.6444,
+        "hit": false
+      },
+      {
+        "id": "AOW-p068-B002",
+        "page": 68,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 0.64115,
+        "hit": false
+      },
+      {
+        "id": "AOW-p047-B002",
+        "page": 47,
+        "source_id": "art_of_war",
+        "rank": 9,
+        "score": 0.64082,
+        "hit": false
+      },
+      {
+        "id": "AOW-p083-B002",
+        "page": 83,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 0.6316,
+        "hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "mrr10": 1.0,
+    "context_ids": [
+      "AOW-p056-B001",
+      "AOW-p056-B002",
+      "AOW-p055-B001"
+    ],
+    "context_chars": 1877,
+    "context_hit": true,
+    "ms": 33.82969999802299
+  },
+  {
+    "query_id": "q18",
+    "question": "May a ruler start a war simply out of anger?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p014-B001",
+        "page": 14,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 0.7212,
+        "hit": false
+      },
+      {
+        "id": "AOW-p006-B001",
+        "page": 6,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 0.71044,
+        "hit": false
+      },
+      {
+        "id": "AOW-p106-B002",
+        "page": 106,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 0.71032,
+        "hit": false
+      },
+      {
+        "id": "AOW-p071-B001",
+        "page": 71,
+        "source_id": "art_of_war",
+        "rank": 4,
+        "score": 0.70774,
+        "hit": false
+      },
+      {
+        "id": "AOW-p049-B002",
+        "page": 49,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 0.70659,
+        "hit": false
+      },
+      {
+        "id": "AOW-p014-B002",
+        "page": 14,
+        "source_id": "art_of_war",
+        "rank": 6,
+        "score": 0.70305,
+        "hit": false
+      },
+      {
+        "id": "AOW-p004-B002",
+        "page": 4,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 0.69634,
+        "hit": false
+      },
+      {
+        "id": "AOW-p106-B001",
+        "page": 106,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 0.69573,
+        "hit": true
+      },
+      {
+        "id": "PRN-p013-B001",
+        "page": 13,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 0.6945,
+        "hit": false
+      },
+      {
+        "id": "PRN-p034-B001",
+        "page": 34,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 0.69382,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0.125,
+    "context_ids": [
+      "AOW-p014-B001",
+      "AOW-p006-B001",
+      "AOW-p106-B002"
+    ],
+    "context_chars": 2358,
+    "context_hit": false,
+    "ms": 20.864199992502108
+  },
+  {
+    "query_id": "q19",
+    "question": "Who are employed as local spies?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p110-B001",
+        "page": 110,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 0.73663,
+        "hit": true
+      },
+      {
+        "id": "AOW-p109-B002",
+        "page": 109,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 0.65826,
+        "hit": false
+      },
+      {
+        "id": "AOW-p116-B001",
+        "page": 116,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 0.64822,
+        "hit": false
+      },
+      {
+        "id": "AOW-p115-B001",
+        "page": 115,
+        "source_id": "art_of_war",
+        "rank": 4,
+        "score": 0.6251,
+        "hit": false
+      },
+      {
+        "id": "AOW-p114-B001",
+        "page": 114,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 0.61627,
+        "hit": false
+      },
+      {
+        "id": "AOW-p113-B001",
+        "page": 113,
+        "source_id": "art_of_war",
+        "rank": 6,
+        "score": 0.61314,
+        "hit": false
+      },
+      {
+        "id": "AOW-p117-B003",
+        "page": 117,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 0.60365,
+        "hit": false
+      },
+      {
+        "id": "AOW-p114-B002",
+        "page": 114,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 0.60352,
+        "hit": false
+      },
+      {
+        "id": "AOW-p116-B002",
+        "page": 116,
+        "source_id": "art_of_war",
+        "rank": 9,
+        "score": 0.60082,
+        "hit": false
+      },
+      {
+        "id": "AOW-p111-B001",
+        "page": 111,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 0.59663,
+        "hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "mrr10": 1.0,
+    "context_ids": [
+      "AOW-p110-B001",
+      "AOW-p109-B002",
+      "AOW-p116-B001"
+    ],
+    "context_chars": 2895,
+    "context_hit": true,
+    "ms": 21.54750000045169
+  },
+  {
+    "query_id": "q20",
+    "question": "In The Prince, why must a ruler imitate both a fox and a lion?",
+    "filter": {
+      "book": "the_prince"
+    },
+    "results": [
+      {
+        "id": "PRN-p055-B002",
+        "page": 55,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 0.81353,
+        "hit": true
+      },
+      {
+        "id": "PRN-p065-B001",
+        "page": 65,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 0.72675,
+        "hit": false
+      },
+      {
+        "id": "PRN-p031-B001",
+        "page": 31,
+        "source_id": "the_prince",
+        "rank": 3,
+        "score": 0.71804,
+        "hit": false
+      },
+      {
+        "id": "PRN-p055-B003",
+        "page": 55,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 0.71021,
+        "hit": false
+      },
+      {
+        "id": "PRN-p048-B003",
+        "page": 48,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 0.70849,
+        "hit": false
+      },
+      {
+        "id": "PRN-p057-B001",
+        "page": 57,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 0.70111,
+        "hit": false
+      },
+      {
+        "id": "PRN-p077-B001",
+        "page": 77,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 0.69575,
+        "hit": false
+      },
+      {
+        "id": "PRN-p012-B002",
+        "page": 12,
+        "source_id": "the_prince",
+        "rank": 8,
+        "score": 0.69342,
+        "hit": false
+      },
+      {
+        "id": "PRN-p053-B003",
+        "page": 53,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 0.6932,
+        "hit": false
+      },
+      {
+        "id": "PRN-p059-B003",
+        "page": 59,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 0.69168,
+        "hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "mrr10": 1.0,
+    "context_ids": [
+      "PRN-p055-B002",
+      "PRN-p065-B001",
+      "PRN-p031-B001"
+    ],
+    "context_chars": 3004,
+    "context_hit": true,
+    "ms": 52.10019998776261
+  },
+  {
+    "query_id": "q21",
+    "question": "In The Prince, what is the best fortress for a ruler?",
+    "filter": {
+      "book": "the_prince"
+    },
+    "results": [
+      {
+        "id": "PRN-p015-B002",
+        "page": 15,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 0.67696,
+        "hit": false
+      },
+      {
+        "id": "PRN-p062-B001",
+        "page": 62,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 0.66659,
+        "hit": false
+      },
+      {
+        "id": "PRN-p072-B001",
+        "page": 72,
+        "source_id": "the_prince",
+        "rank": 3,
+        "score": 0.66258,
+        "hit": false
+      },
+      {
+        "id": "PRN-p072-B002",
+        "page": 72,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 0.65408,
+        "hit": true
+      },
+      {
+        "id": "PRN-p029-B001",
+        "page": 29,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 0.64876,
+        "hit": false
+      },
+      {
+        "id": "PRN-p031-B001",
+        "page": 31,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 0.64608,
+        "hit": false
+      },
+      {
+        "id": "PRN-p038-B001",
+        "page": 38,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 0.64341,
+        "hit": false
+      },
+      {
+        "id": "PRN-p071-B001",
+        "page": 71,
+        "source_id": "the_prince",
+        "rank": 8,
+        "score": 0.63702,
+        "hit": false
+      },
+      {
+        "id": "PRN-p075-B001",
+        "page": 75,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 0.63441,
+        "hit": false
+      },
+      {
+        "id": "PRN-p018-B001",
+        "page": 18,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 0.63429,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0.25,
+    "context_ids": [
+      "PRN-p015-B002",
+      "PRN-p062-B001",
+      "PRN-p072-B001"
+    ],
+    "context_chars": 3007,
+    "context_hit": false,
+    "ms": 44.41989999031648
+  },
+  {
+    "query_id": "q22",
+    "question": "How can a prince signal protection from flatterers while risking loss of respect?",
+    "filter": null,
+    "results": [
+      {
+        "id": "PRN-p078-B001",
+        "page": 78,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 0.78182,
+        "hit": true
+      },
+      {
+        "id": "PRN-p060-B001",
+        "page": 60,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 0.77008,
+        "hit": false
+      },
+      {
+        "id": "PRN-p031-B001",
+        "page": 31,
+        "source_id": "the_prince",
+        "rank": 3,
+        "score": 0.74708,
+        "hit": false
+      },
+      {
+        "id": "PRN-p030-B001",
+        "page": 30,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 0.74342,
+        "hit": false
+      },
+      {
+        "id": "PRN-p077-B003",
+        "page": 77,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 0.73863,
+        "hit": false
+      },
+      {
+        "id": "PRN-p034-B002",
+        "page": 34,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 0.73576,
+        "hit": false
+      },
+      {
+        "id": "PRN-p074-B002",
+        "page": 74,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 0.72993,
+        "hit": false
+      },
+      {
+        "id": "PRN-p032-B002",
+        "page": 32,
+        "source_id": "the_prince",
+        "rank": 8,
+        "score": 0.72884,
+        "hit": false
+      },
+      {
+        "id": "PRN-p058-B001",
+        "page": 58,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 0.72776,
+        "hit": false
+      },
+      {
+        "id": "PRN-p059-B001",
+        "page": 59,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 0.72763,
+        "hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "mrr10": 1.0,
+    "context_ids": [
+      "PRN-p078-B001",
+      "PRN-p060-B001",
+      "PRN-p031-B001"
+    ],
+    "context_chars": 2445,
+    "context_hit": true,
+    "ms": 32.71859999222215
+  }
+]

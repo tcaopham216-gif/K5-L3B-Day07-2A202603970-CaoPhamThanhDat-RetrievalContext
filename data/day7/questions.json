@@ -1,0 +1,384 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "direct",
+    "question": "What qualities constitute the Commander?",
+    "expected_answer": "The virtues of wisdom, sincerity, benevolence, courage and strictness.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 2,
+        "evidence": "_The Commander_ stands for the virtues of wisdom, sincerity, benevolence, courage and strictness."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "paraphrased",
+    "question": "According to Sun Tzu, what fundamental principle underlies warfare?",
+    "expected_answer": "Warfare is based on deception.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 4,
+        "evidence": "18. All warfare is based on deception.\n\n[The truth of this pithy and profound saying will be admitted by every soldier."
+      }
+    ],
+    "filter": {
+      "book": "art_of_war"
+    },
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "paraphrased",
+    "question": "Should military campaigns aim for quick victory or prolonged operations?",
+    "expected_answer": "Victory rather than lengthy campaigns.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 9,
+        "evidence": "In war, then, let your great object be victory, not lengthy campaigns."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "direct",
+    "question": "What does supreme excellence consist in?",
+    "expected_answer": "Breaking enemy resistance without fighting.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 10,
+        "evidence": "Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "direct",
+    "question": "What tactics provide security against defeat?",
+    "expected_answer": "Defensive tactics; the offensive enables defeating the enemy.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 17,
+        "evidence": "Security against defeat implies defensive tactics; ability to defeat the enemy means taking the offensive."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "paraphrased",
+    "question": "Which two methods must be combined to withstand an enemy attack?",
+    "expected_answer": "Direct and indirect manoeuvres.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 22,
+        "evidence": "To ensure that your whole host may withstand the brunt of the enemy’s attack and remain unshaken—this is effected by manœuvers direct and indirect."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "paraphrased",
+    "question": "In war, should an army strike at an opponent’s strength or weakness?",
+    "expected_answer": "Avoid what is strong and strike at what is weak.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 35,
+        "evidence": "So in war, the way is to avoid what is strong and to strike at what is weak."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "condition",
+    "question": "What should a commander consider alongside advantage in planning?",
+    "expected_answer": "Blend considerations of advantage and disadvantage.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 50,
+        "evidence": "the wise leader’s plans, considerations of advantage and of disadvantage will be blended together."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "direct",
+    "question": "What two broad kinds of principalities are distinguished?",
+    "expected_answer": "Hereditary and new.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 1,
+        "evidence": "Principalities are either hereditary, in which the family has been long established; or they are new."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "paraphrased",
+    "question": "Why are inherited states easier to maintain than newly acquired ones?",
+    "expected_answer": "An accustomed dynasty need only preserve ancestral customs and adapt prudently.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 2,
+        "evidence": "for it is sufficient only not to transgress the customs of his ancestors, and to deal prudently with circumstances as they arise"
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "direct",
+    "question": "What alternative to a large occupying army is recommended for acquired territory?",
+    "expected_answer": "Send colonies to one or two key places.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 5,
+        "evidence": "The other and better course is to send colonies to one or two places, which may be as keys to that state, for it is necessary either to do this or else to keep there a great number of cavalry and infantry."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "direct",
+    "question": "What are the two ways kingdoms are governed?",
+    "expected_answer": "By a prince and servants, or by a prince and hereditary barons.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 12,
+        "evidence": "either by a prince, with a body of servants, who assist him to govern the kingdom as ministers by his favour and permission; or by a prince and barons, who hold that dignity by antiquity of blood and not by the grace of the prince."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "condition",
+    "question": "What three broad courses are listed for holding states accustomed to their own laws?",
+    "expected_answer": "Ruin them, reside there personally, or permit their own laws while drawing tribute.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 14,
+        "evidence": "the first is to ruin them, the next is to reside there in person, the third is to permit them to live under their own laws, drawing a tribute"
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "paraphrased",
+    "question": "Why is introducing a new order especially hazardous?",
+    "expected_answer": "Those benefiting from the old order become enemies; potential beneficiaries are lukewarm defenders.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 16,
+        "evidence": "the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "direct",
+    "question": "What kinds of troops can defend a state?",
+    "expected_answer": "Its own, mercenaries, auxiliaries, or mixed forces.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 38,
+        "evidence": "the arms with which a prince defends his state are either his own, or they are mercenaries, auxiliaries, or mixed."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "type": "paraphrased",
+    "question": "In Machiavelli’s advice, what should be the sole professional concern of a ruler?",
+    "expected_answer": "War, its rules and discipline.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 47,
+        "evidence": "A prince ought to have no other aim or thought, nor select anything else for his study, than war and its rules and discipline;"
+      }
+    ],
+    "filter": {
+      "book": "the_prince"
+    },
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "condition",
+    "question": "What precaution is advised when crossing salt marshes?",
+    "expected_answer": "Cross quickly without delay.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 56,
+        "evidence": "In crossing salt-marshes, your sole concern should be to get over them quickly, without any delay."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "condition",
+    "question": "May a ruler start a war simply out of anger?",
+    "expected_answer": "No ruler should send troops merely to gratify anger.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 106,
+        "evidence": "No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "direct",
+    "question": "Who are employed as local spies?",
+    "expected_answer": "Inhabitants of a district.",
+    "gold": [
+      {
+        "source_id": "art_of_war",
+        "page": 110,
+        "evidence": "Having _local spies_ means employing the services of the inhabitants of a district."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "paraphrased",
+    "question": "In The Prince, why must a ruler imitate both a fox and a lion?",
+    "expected_answer": "The fox detects snares and the lion terrifies wolves.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 55,
+        "evidence": "it is necessary to be a fox to discover the snares and a lion to terrify the wolves."
+      }
+    ],
+    "filter": {
+      "book": "the_prince"
+    },
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q21",
+    "split": "test",
+    "type": "condition",
+    "question": "In The Prince, what is the best fortress for a ruler?",
+    "expected_answer": "Not being hated by the people.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 72,
+        "evidence": "the best possible fortress is—not to be hated by the people"
+      }
+    ],
+    "filter": {
+      "book": "the_prince"
+    },
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  },
+  {
+    "id": "q22",
+    "split": "test",
+    "type": "paraphrased",
+    "question": "How can a prince signal protection from flatterers while risking loss of respect?",
+    "expected_answer": "Let people know that telling the truth does not offend him, but universal truth-telling diminishes respect.",
+    "gold": [
+      {
+        "source_id": "the_prince",
+        "page": 78,
+        "evidence": "Because there is no other way of guarding oneself from flatterers except letting men understand that to tell you the truth does not offend you; but when every one may tell you the truth, respect for you abates."
+      }
+    ],
+    "filter": null,
+    "answerable": true,
+    "origin": "day6 benchmark/questions.jsonl"
+  }
+]

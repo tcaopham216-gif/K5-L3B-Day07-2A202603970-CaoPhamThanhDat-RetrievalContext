@@ -1,0 +1,80 @@
+[
+  {
+    "name": "R1-dense-k3",
+    "method": "dense",
+    "top_k": 3,
+    "budget_chars": 4000,
+    "hit1": {
+      "n": 4,
+      "N": 6,
+      "rate": 0.667
+    },
+    "evidence_hit3": {
+      "n": 4,
+      "N": 6,
+      "rate": 0.667
+    },
+    "context_evidence_rate": {
+      "n": 4,
+      "N": 6,
+      "rate": 0.667
+    },
+    "mrr10": 0.729,
+    "avg_context_chars": 2598,
+    "median_ms": 33.3,
+    "cost_usd": 0,
+    "split": "test"
+  },
+  {
+    "name": "R7-rerank-k5",
+    "method": "rerank",
+    "top_k": 5,
+    "budget_chars": 6000,
+    "hit1": {
+      "n": 5,
+      "N": 6,
+      "rate": 0.833
+    },
+    "evidence_hit3": {
+      "n": 5,
+      "N": 6,
+      "rate": 0.833
+    },
+    "context_evidence_rate": {
+      "n": 5,
+      "N": 6,
+      "rate": 0.833
+    },
+    "mrr10": 0.861,
+    "avg_context_chars": 4357,
+    "median_ms": 763.5,
+    "cost_usd": 0,
+    "split": "test"
+  },
+  {
+    "name": "R8-rerank-k5-b9000",
+    "method": "rerank",
+    "top_k": 5,
+    "budget_chars": 9000,
+    "hit1": {
+      "n": 5,
+      "N": 6,
+      "rate": 0.833
+    },
+    "evidence_hit3": {
+      "n": 5,
+      "N": 6,
+      "rate": 0.833
+    },
+    "context_evidence_rate": {
+      "n": 5,
+      "N": 6,
+      "rate": 0.833
+    },
+    "mrr10": 0.861,
+    "avg_context_chars": 4357,
+    "median_ms": 798.4,
+    "cost_usd": 0,
+    "split": "test"
+  }
+]

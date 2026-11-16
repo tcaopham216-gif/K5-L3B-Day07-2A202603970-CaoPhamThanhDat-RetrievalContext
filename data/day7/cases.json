@@ -1,0 +1,144 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q21",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q22",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "u01",
+    "split": "dev",
+    "question": "On what date did Machiavelli dedicate The Prince to Lorenzo de' Medici?",
+    "absence_reason": "The dedication precedes CHAPTER I and was excluded by Day 6 ingestion; 'Lorenzo' and 'dedicat' have 0 matches in the 204 units.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "u02",
+    "split": "dev",
+    "question": "What exact percentage tax rate does Machiavelli recommend a prince levy on merchants?",
+    "absence_reason": "Taxes are discussed (PRN chapters on liberality/encouraging trade) but no rate is given; 'merchant', 'percent', 'per cent' have 0 matches in PRN units.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "u03",
+    "split": "test",
+    "question": "What does Sun Tzu advise about using gunpowder and firearms in siege warfare?",
+    "absence_reason": "'gunpowder', 'firearm', 'musket', 'cannon' have 0 matches in AOW units; the only 'artillery' match is in The Prince. Sieges and fire attacks are discussed without gunpowder.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  },
+  {
+    "id": "u04",
+    "split": "test",
+    "question": "How many pounds of rice per day does Sun Tzu allocate to each soldier?",
+    "absence_reason": "AOW discusses foraging and the picul (133.3 pounds) as a unit of provender equivalence, but no daily per-soldier ration; 'ration' only matches 'deliberations'/'operations'.",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain"
+  }
+]

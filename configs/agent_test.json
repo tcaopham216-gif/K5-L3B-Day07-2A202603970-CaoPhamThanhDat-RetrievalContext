@@ -1,0 +1,8 @@
+{
+  "model": "openai/gpt-4o-mini",
+  "frozen": "Chosen on dev by the pre-declared rule in agent_dev.json (A6 mean grounded 1.375/2 vs A4 1.188, A5 1.062, A3 0.812, A2 0.5, A1 0.438). Frozen before the first test run; no change after seeing test.",
+  "configs": [
+    {"name": "A1-dense-k3", "method": "dense", "top_k": 3, "budget": 4000, "max_searches": 3, "prompt": "v1"},
+    {"name": "A6-rerank-k5-v3", "method": "rerank", "top_k": 5, "budget": 9000, "max_searches": 3, "prompt": "v3"}
+  ]
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "query_id": "q17",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Get over them quickly, without any delay, AOW-p056-B001 (gold)."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Quotes 'gratify his own spleen' / 'pique', AOW-p106-B001 (gold)."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Inhabitants of a district, AOW-p110-B001 (gold)."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "PRN-p055-B002 (gold)."
+  },
+  {
+    "query_id": "q21",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "PRN-p072-B002 (gold)."
+  },
+  {
+    "query_id": "q22",
+    "answer_grade": 1,
+    "citation_support": [
+      true,
+      false
+    ],
+    "reason": "Core answer supported by PRN-p078-B001 (gold); last sentence cites PRN-p060-B003 (conspiracies), which does not support it."
+  },
+  {
+    "query_id": "u03",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  },
+  {
+    "query_id": "u04",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  }
+]

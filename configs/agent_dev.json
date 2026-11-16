@@ -1,0 +1,18 @@
+{
+  "model": "openai/gpt-4o-mini",
+  "selection_rule": "Decided before any agent run: (1) highest mean grounded answer on dev answerable questions, (2) then abstention correct on dev unanswerable, (3) then fewer false abstentions, (4) then lower median latency/cost. Test is run only after the choice is frozen.",
+  "configs": [
+    {"name": "A1-dense-k3", "method": "dense", "top_k": 3, "budget": 4000, "max_searches": 3,
+     "hypothesis": "Baseline: Day 6 dense retriever, one or more model-written queries."},
+    {"name": "A2-hybrid-k3", "method": "hybrid", "top_k": 3, "budget": 4000, "max_searches": 3,
+     "hypothesis": "BM25 adds exact-wording matches (e.g. 'local spies', 'fox and lion') that dense misses."},
+    {"name": "A3-rerank-k5", "method": "rerank", "top_k": 5, "budget": 6000, "max_searches": 3,
+     "hypothesis": "Best retrieval config on dev (rerank k5: context 11/16); more evidence in context should raise grounded answers at higher latency/tokens."},
+    {"name": "A4-dense-k3-v2", "method": "dense", "top_k": 3, "budget": 4000, "max_searches": 3, "prompt": "v2",
+     "hypothesis": "Improvement 1 (dev error 1, q10/q13/q14): v1 answers omitted inline [id] markers and were rejected; v2 prompt enforces inline citations and diversified re-queries. Same retriever as A1 to isolate the prompt effect."},
+    {"name": "A5-rerank-k5-v2", "method": "rerank", "top_k": 5, "budget": 9000, "max_searches": 3, "prompt": "v2",
+     "hypothesis": "Improvement 2 (dev error 2, q11/q15/q16): rewritten queries + rerank, and a larger budget so chunks from the 2nd/3rd search still fit in the cumulative context."},
+    {"name": "A6-rerank-k5-v3", "method": "rerank", "top_k": 5, "budget": 9000, "max_searches": 3, "prompt": "v3",
+     "hypothesis": "Fix found while reading A5 dev traces (q09, q16): queries that contain the author name retrieve the same commentary chunks; v3 forbids author/book names in queries (filters stay user-supplied)."}
+  ]
+}

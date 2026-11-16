@@ -1,0 +1,122 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Lists the five virtues verbatim from AOW-p002-B001."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "reason": "Says harmony; expected deception. AOW-p036-B001 is about harmony, not the underlying principle."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "'Defensive tactics' quoted from AOW-p017-B002 (gold chunk)."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "reason": "Blends injury/advantage (Tu Mu note); expected direct and indirect manoeuvres."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "reason": "Strike weakness is right; AOW-p034-B001 only supports finding vulnerable spots, not the explicit rule."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Advantage and disadvantage blended, AOW-p050-B001 (gold)."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q16",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "u01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  },
+  {
+    "query_id": "u02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  }
+]

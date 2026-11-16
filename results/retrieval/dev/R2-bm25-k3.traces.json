@@ -1,0 +1,1574 @@
+[
+  {
+    "query_id": "q01",
+    "question": "What qualities constitute the Commander?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p094-B003",
+        "page": 94,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 4.96628,
+        "hit": false
+      },
+      {
+        "id": "PRN-p056-B002",
+        "page": 56,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 4.5366,
+        "hit": false
+      },
+      {
+        "id": "AOW-p088-B002",
+        "page": 88,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 4.36665,
+        "hit": false
+      },
+      {
+        "id": "PRN-p062-B002",
+        "page": 62,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 4.08742,
+        "hit": false
+      },
+      {
+        "id": "AOW-p051-B002",
+        "page": 51,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 4.04735,
+        "hit": false
+      },
+      {
+        "id": "PRN-p063-B001",
+        "page": 63,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 3.80487,
+        "hit": false
+      },
+      {
+        "id": "PRN-p049-B003",
+        "page": 49,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 3.75299,
+        "hit": false
+      },
+      {
+        "id": "PRN-p049-B002",
+        "page": 49,
+        "source_id": "the_prince",
+        "rank": 8,
+        "score": 3.7025,
+        "hit": false
+      },
+      {
+        "id": "PRN-p052-B001",
+        "page": 52,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 3.65335,
+        "hit": false
+      },
+      {
+        "id": "AOW-p071-B001",
+        "page": 71,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 3.57569,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0,
+    "context_ids": [
+      "AOW-p094-B003",
+      "PRN-p056-B002",
+      "AOW-p088-B002"
+    ],
+    "context_chars": 1930,
+    "context_hit": false,
+    "ms": 0.6974999996600673
+  },
+  {
+    "query_id": "q02",
+    "question": "According to Sun Tzu, what fundamental principle underlies warfare?",
+    "filter": {
+      "book": "art_of_war"
+    },
+    "results": [
+      {
+        "id": "AOW-p090-B001",
+        "page": 90,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 9.86256,
+        "hit": false
+      },
+      {
+        "id": "AOW-p013-B002",
+        "page": 13,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 8.89667,
+        "hit": false
+      },
+      {
+        "id": "AOW-p085-B001",
+        "page": 85,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 6.47572,
+        "hit": false
+      },
+      {
+        "id": "AOW-p087-B001",
+        "page": 87,
+        "source_id": "art_of_war",
+        "rank": 4,
+        "score": 5.96059,
+        "hit": false
+      },
+      {
+        "id": "AOW-p047-B001",
+        "page": 47,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 5.69042,
+        "hit": false
+      },
+      {
+        "id": "AOW-p001-B001",
+        "page": 1,
+        "source_id": "art_of_war",
+        "rank": 6,
+        "score": 5.5314,
+        "hit": false
+      },
+      {
+        "id": "AOW-p022-B001",
+        "page": 22,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 5.24204,
+        "hit": false
+      },
+      {
+        "id": "AOW-p003-B003",
+        "page": 3,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 5.02365,
+        "hit": false
+      },
+      {
+        "id": "AOW-p035-B002",
+        "page": 35,
+        "source_id": "art_of_war",
+        "rank": 9,
+        "score": 4.75599,
+        "hit": false
+      },
+      {
+        "id": "AOW-p005-B001",
+        "page": 5,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 4.73657,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0,
+    "context_ids": [
+      "AOW-p090-B001",
+      "AOW-p013-B002",
+      "AOW-p085-B001"
+    ],
+    "context_chars": 2995,
+    "context_hit": false,
+    "ms": 1.11270000343211
+  },
+  {
+    "query_id": "q03",
+    "question": "Should military campaigns aim for quick victory or prolonged operations?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p016-B002",
+        "page": 16,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 10.92089,
+        "hit": false
+      },
+      {
+        "id": "PRN-p085-B003",
+        "page": 85,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 8.46037,
+        "hit": false
+      },
+      {
+        "id": "AOW-p009-B002",
+        "page": 9,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 8.19926,
+        "hit": true
+      },
+      {
+        "id": "AOW-p006-B002",
+        "page": 6,
+        "source_id": "art_of_war",
+        "rank": 4,
+        "score": 8.10387,
+        "hit": false
+      },
+      {
+        "id": "AOW-p015-B002",
+        "page": 15,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 8.02285,
+        "hit": false
+      },
+      {
+        "id": "AOW-p021-B001",
+        "page": 21,
+        "source_id": "art_of_war",
+        "rank": 6,
+        "score": 7.68804,
+        "hit": false
+      },
+      {
+        "id": "PRN-p015-B001",
+        "page": 15,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 6.89271,
+        "hit": false
+      },
+      {
+        "id": "AOW-p023-B002",
+        "page": 23,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 6.62148,
+        "hit": false
+      },
+      {
+        "id": "AOW-p019-B001",
+        "page": 19,
+        "source_id": "art_of_war",
+        "rank": 9,
+        "score": 6.41454,
+        "hit": false
+      },
+      {
+        "id": "AOW-p116-B002",
+        "page": 116,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 6.25506,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "mrr10": 0.3333333333333333,
+    "context_ids": [
+      "AOW-p016-B002",
+      "PRN-p085-B003",
+      "AOW-p009-B002"
+    ],
+    "context_chars": 2362,
+    "context_hit": true,
+    "ms": 1.0712000075727701
+  },
+  {
+    "query_id": "q04",
+    "question": "What does supreme excellence consist in?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p010-B001",
+        "page": 10,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 11.26138,
+        "hit": true
+      },
+      {
+        "id": "AOW-p044-B001",
+        "page": 44,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 5.04724,
+        "hit": false
+      },
+      {
+        "id": "AOW-p018-B001",
+        "page": 18,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 4.90134,
+        "hit": false
+      },
+      {
+        "id": "AOW-p018-B002",
+        "page": 18,
+        "source_id": "art_of_war",
+        "rank": 4,
+        "score": 4.64213,
+        "hit": false
+      },
+      {
+        "id": "PRN-p065-B003",
+        "page": 65,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 4.34307,
+        "hit": false
+      },
+      {
+        "id": "PRN-p015-B001",
+        "page": 15,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 4.18656,
+        "hit": false
+      },
+      {
+        "id": "AOW-p064-B001",
+        "page": 64,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 3.97186,
+        "hit": false
+      },
+      {
+        "id": "AOW-p019-B001",
+        "page": 19,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 3.94105,
+        "hit": false
+      },
+      {
+        "id": "AOW-p007-B001",
+        "page": 7,
+        "source_id": "art_of_war",
+        "rank": 9,
+        "score": 3.80908,
+        "hit": false
+      },
+      {
+        "id": "AOW-p063-B002",
+        "page": 63,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 3.73259,
+        "hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "mrr10": 1.0,
+    "context_ids": [
+      "AOW-p010-B001",
+      "AOW-p044-B001",
+      "AOW-p018-B001"
+    ],
+    "context_chars": 3255,
+    "context_hit": true,
+    "ms": 0.6245000113267452
+  },
+  {
+    "query_id": "q05",
+    "question": "What tactics provide security against defeat?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p017-B002",
+        "page": 17,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 16.73804,
+        "hit": true
+      },
+      {
+        "id": "AOW-p017-B001",
+        "page": 17,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 10.07572,
+        "hit": false
+      },
+      {
+        "id": "AOW-p023-B001",
+        "page": 23,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 6.955,
+        "hit": false
+      },
+      {
+        "id": "PRN-p014-B002",
+        "page": 14,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 6.73334,
+        "hit": false
+      },
+      {
+        "id": "AOW-p036-B002",
+        "page": 36,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 6.63009,
+        "hit": false
+      },
+      {
+        "id": "PRN-p062-B001",
+        "page": 62,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 6.34231,
+        "hit": false
+      },
+      {
+        "id": "AOW-p035-B001",
+        "page": 35,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 5.51859,
+        "hit": false
+      },
+      {
+        "id": "AOW-p034-B002",
+        "page": 34,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 5.49918,
+        "hit": false
+      },
+      {
+        "id": "AOW-p021-B003",
+        "page": 21,
+        "source_id": "art_of_war",
+        "rank": 9,
+        "score": 5.45973,
+        "hit": false
+      },
+      {
+        "id": "AOW-p006-B003",
+        "page": 6,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 4.98668,
+        "hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "mrr10": 1.0,
+    "context_ids": [
+      "AOW-p017-B002",
+      "AOW-p017-B001",
+      "AOW-p023-B001"
+    ],
+    "context_chars": 2536,
+    "context_hit": true,
+    "ms": 1.0064000089187175
+  },
+  {
+    "query_id": "q06",
+    "question": "Which two methods must be combined to withstand an enemy attack?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p028-B001",
+        "page": 28,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 12.2246,
+        "hit": false
+      },
+      {
+        "id": "AOW-p027-B003",
+        "page": 27,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 9.09786,
+        "hit": false
+      },
+      {
+        "id": "AOW-p024-B001",
+        "page": 24,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 8.82028,
+        "hit": false
+      },
+      {
+        "id": "PRN-p082-B002",
+        "page": 82,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 8.69872,
+        "hit": false
+      },
+      {
+        "id": "AOW-p022-B001",
+        "page": 22,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 8.03377,
+        "hit": true
+      },
+      {
+        "id": "PRN-p025-B001",
+        "page": 25,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 7.85896,
+        "hit": false
+      },
+      {
+        "id": "AOW-p050-B002",
+        "page": 50,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 7.27384,
+        "hit": false
+      },
+      {
+        "id": "AOW-p010-B002",
+        "page": 10,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 7.18436,
+        "hit": false
+      },
+      {
+        "id": "AOW-p031-B001",
+        "page": 31,
+        "source_id": "art_of_war",
+        "rank": 9,
+        "score": 7.04913,
+        "hit": false
+      },
+      {
+        "id": "AOW-p013-B001",
+        "page": 13,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 6.78697,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0.2,
+    "context_ids": [
+      "AOW-p028-B001",
+      "AOW-p027-B003",
+      "AOW-p024-B001"
+    ],
+    "context_chars": 3054,
+    "context_hit": false,
+    "ms": 1.4682000037282705
+  },
+  {
+    "query_id": "q07",
+    "question": "In war, should an army strike at an opponent’s strength or weakness?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p032-B001",
+        "page": 32,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 11.21548,
+        "hit": false
+      },
+      {
+        "id": "AOW-p100-B001",
+        "page": 100,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 10.16516,
+        "hit": false
+      },
+      {
+        "id": "AOW-p004-B001",
+        "page": 4,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 9.54067,
+        "hit": false
+      },
+      {
+        "id": "AOW-p027-B001",
+        "page": 27,
+        "source_id": "art_of_war",
+        "rank": 4,
+        "score": 9.15031,
+        "hit": false
+      },
+      {
+        "id": "AOW-p025-B002",
+        "page": 25,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 9.08797,
+        "hit": false
+      },
+      {
+        "id": "AOW-p026-B001",
+        "page": 26,
+        "source_id": "art_of_war",
+        "rank": 6,
+        "score": 9.05702,
+        "hit": false
+      },
+      {
+        "id": "AOW-p086-B001",
+        "page": 86,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 8.69037,
+        "hit": false
+      },
+      {
+        "id": "AOW-p108-B002",
+        "page": 108,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 8.30477,
+        "hit": false
+      },
+      {
+        "id": "AOW-p043-B001",
+        "page": 43,
+        "source_id": "art_of_war",
+        "rank": 9,
+        "score": 8.14673,
+        "hit": false
+      },
+      {
+        "id": "AOW-p007-B001",
+        "page": 7,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 8.13563,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0,
+    "context_ids": [
+      "AOW-p032-B001",
+      "AOW-p100-B001",
+      "AOW-p004-B001"
+    ],
+    "context_chars": 2774,
+    "context_hit": false,
+    "ms": 1.356300010229461
+  },
+  {
+    "query_id": "q08",
+    "question": "What should a commander consider alongside advantage in planning?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p050-B002",
+        "page": 50,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 6.6581,
+        "hit": false
+      },
+      {
+        "id": "AOW-p016-B003",
+        "page": 16,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 5.30498,
+        "hit": false
+      },
+      {
+        "id": "AOW-p049-B001",
+        "page": 49,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 5.29119,
+        "hit": false
+      },
+      {
+        "id": "AOW-p111-B002",
+        "page": 111,
+        "source_id": "art_of_war",
+        "rank": 4,
+        "score": 5.28904,
+        "hit": false
+      },
+      {
+        "id": "PRN-p033-B001",
+        "page": 33,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 5.13098,
+        "hit": false
+      },
+      {
+        "id": "AOW-p094-B003",
+        "page": 94,
+        "source_id": "art_of_war",
+        "rank": 6,
+        "score": 4.96628,
+        "hit": false
+      },
+      {
+        "id": "AOW-p050-B001",
+        "page": 50,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 4.59365,
+        "hit": true
+      },
+      {
+        "id": "AOW-p088-B002",
+        "page": 88,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 4.36665,
+        "hit": false
+      },
+      {
+        "id": "PRN-p082-B001",
+        "page": 82,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 4.26394,
+        "hit": false
+      },
+      {
+        "id": "AOW-p080-B001",
+        "page": 80,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 3.93223,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0.14285714285714285,
+    "context_ids": [
+      "AOW-p050-B002",
+      "AOW-p016-B003",
+      "AOW-p049-B001"
+    ],
+    "context_chars": 3034,
+    "context_hit": false,
+    "ms": 0.5182000022614375
+  },
+  {
+    "query_id": "q09",
+    "question": "What two broad kinds of principalities are distinguished?",
+    "filter": null,
+    "results": [
+      {
+        "id": "PRN-p012-B002",
+        "page": 12,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 5.94305,
+        "hit": false
+      },
+      {
+        "id": "AOW-p116-B002",
+        "page": 116,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 5.67981,
+        "hit": false
+      },
+      {
+        "id": "AOW-p016-B002",
+        "page": 16,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 5.56938,
+        "hit": false
+      },
+      {
+        "id": "PRN-p035-B001",
+        "page": 35,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 5.4165,
+        "hit": false
+      },
+      {
+        "id": "PRN-p001-B001",
+        "page": 1,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 5.28667,
+        "hit": true
+      },
+      {
+        "id": "PRN-p002-B001",
+        "page": 2,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 4.95687,
+        "hit": false
+      },
+      {
+        "id": "AOW-p109-B002",
+        "page": 109,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 4.90134,
+        "hit": false
+      },
+      {
+        "id": "PRN-p021-B002",
+        "page": 21,
+        "source_id": "the_prince",
+        "rank": 8,
+        "score": 4.6872,
+        "hit": false
+      },
+      {
+        "id": "AOW-p098-B002",
+        "page": 98,
+        "source_id": "art_of_war",
+        "rank": 9,
+        "score": 4.56284,
+        "hit": false
+      },
+      {
+        "id": "PRN-p086-B001",
+        "page": 86,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 4.48434,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0.2,
+    "context_ids": [
+      "PRN-p012-B002",
+      "AOW-p116-B002",
+      "AOW-p016-B002"
+    ],
+    "context_chars": 2477,
+    "context_hit": false,
+    "ms": 0.5664000054821372
+  },
+  {
+    "query_id": "q10",
+    "question": "Why are inherited states easier to maintain than newly acquired ones?",
+    "filter": null,
+    "results": [
+      {
+        "id": "PRN-p002-B001",
+        "page": 2,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 10.74959,
+        "hit": true
+      },
+      {
+        "id": "PRN-p012-B001",
+        "page": 12,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 10.38631,
+        "hit": false
+      },
+      {
+        "id": "PRN-p001-B001",
+        "page": 1,
+        "source_id": "the_prince",
+        "rank": 3,
+        "score": 9.32123,
+        "hit": false
+      },
+      {
+        "id": "PRN-p064-B002",
+        "page": 64,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 9.2558,
+        "hit": false
+      },
+      {
+        "id": "PRN-p071-B002",
+        "page": 71,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 9.02788,
+        "hit": false
+      },
+      {
+        "id": "PRN-p006-B002",
+        "page": 6,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 8.90459,
+        "hit": false
+      },
+      {
+        "id": "PRN-p019-B001",
+        "page": 19,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 8.67144,
+        "hit": false
+      },
+      {
+        "id": "PRN-p068-B001",
+        "page": 68,
+        "source_id": "the_prince",
+        "rank": 8,
+        "score": 7.70654,
+        "hit": false
+      },
+      {
+        "id": "PRN-p004-B002",
+        "page": 4,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 7.41035,
+        "hit": false
+      },
+      {
+        "id": "PRN-p035-B001",
+        "page": 35,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 7.14569,
+        "hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "mrr10": 1.0,
+    "context_ids": [
+      "PRN-p002-B001",
+      "PRN-p012-B001",
+      "PRN-p001-B001"
+    ],
+    "context_chars": 2053,
+    "context_hit": true,
+    "ms": 0.5898999952478334
+  },
+  {
+    "query_id": "q11",
+    "question": "What alternative to a large occupying army is recommended for acquired territory?",
+    "filter": null,
+    "results": [
+      {
+        "id": "AOW-p047-B001",
+        "page": 47,
+        "source_id": "art_of_war",
+        "rank": 1,
+        "score": 8.63555,
+        "hit": false
+      },
+      {
+        "id": "AOW-p077-B001",
+        "page": 77,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 7.21443,
+        "hit": false
+      },
+      {
+        "id": "AOW-p067-B002",
+        "page": 67,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 7.20579,
+        "hit": false
+      },
+      {
+        "id": "PRN-p040-B003",
+        "page": 40,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 7.01488,
+        "hit": false
+      },
+      {
+        "id": "AOW-p022-B001",
+        "page": 22,
+        "source_id": "art_of_war",
+        "rank": 5,
+        "score": 6.90684,
+        "hit": false
+      },
+      {
+        "id": "AOW-p090-B001",
+        "page": 90,
+        "source_id": "art_of_war",
+        "rank": 6,
+        "score": 6.45485,
+        "hit": false
+      },
+      {
+        "id": "AOW-p043-B001",
+        "page": 43,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 6.26377,
+        "hit": false
+      },
+      {
+        "id": "AOW-p048-B002",
+        "page": 48,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 6.08926,
+        "hit": false
+      },
+      {
+        "id": "PRN-p001-B001",
+        "page": 1,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 6.00809,
+        "hit": false
+      },
+      {
+        "id": "AOW-p030-B003",
+        "page": 30,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 5.7866,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0,
+    "context_ids": [
+      "AOW-p047-B001",
+      "AOW-p077-B001",
+      "AOW-p067-B002"
+    ],
+    "context_chars": 2470,
+    "context_hit": false,
+    "ms": 0.7508999988203868
+  },
+  {
+    "query_id": "q12",
+    "question": "What are the two ways kingdoms are governed?",
+    "filter": null,
+    "results": [
+      {
+        "id": "PRN-p012-B002",
+        "page": 12,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 12.50547,
+        "hit": true
+      },
+      {
+        "id": "PRN-p013-B001",
+        "page": 13,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 8.98394,
+        "hit": false
+      },
+      {
+        "id": "PRN-p062-B001",
+        "page": 62,
+        "source_id": "the_prince",
+        "rank": 3,
+        "score": 7.72852,
+        "hit": false
+      },
+      {
+        "id": "PRN-p025-B001",
+        "page": 25,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 7.50265,
+        "hit": false
+      },
+      {
+        "id": "PRN-p030-B002",
+        "page": 30,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 7.32683,
+        "hit": false
+      },
+      {
+        "id": "PRN-p047-B002",
+        "page": 47,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 6.49135,
+        "hit": false
+      },
+      {
+        "id": "PRN-p083-B003",
+        "page": 83,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 6.22438,
+        "hit": false
+      },
+      {
+        "id": "AOW-p088-B003",
+        "page": 88,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 5.60995,
+        "hit": false
+      },
+      {
+        "id": "PRN-p055-B001",
+        "page": 55,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 5.32226,
+        "hit": false
+      },
+      {
+        "id": "PRN-p048-B001",
+        "page": 48,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 4.86145,
+        "hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "mrr10": 1.0,
+    "context_ids": [
+      "PRN-p012-B002",
+      "PRN-p013-B001",
+      "PRN-p062-B001"
+    ],
+    "context_chars": 3085,
+    "context_hit": true,
+    "ms": 0.4684999876189977
+  },
+  {
+    "query_id": "q13",
+    "question": "What three broad courses are listed for holding states accustomed to their own laws?",
+    "filter": null,
+    "results": [
+      {
+        "id": "PRN-p014-B001",
+        "page": 14,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 26.33121,
+        "hit": true
+      },
+      {
+        "id": "PRN-p002-B001",
+        "page": 2,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 11.03077,
+        "hit": false
+      },
+      {
+        "id": "PRN-p038-B001",
+        "page": 38,
+        "source_id": "the_prince",
+        "rank": 3,
+        "score": 10.45906,
+        "hit": false
+      },
+      {
+        "id": "PRN-p005-B001",
+        "page": 5,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 9.09471,
+        "hit": false
+      },
+      {
+        "id": "PRN-p012-B003",
+        "page": 12,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 9.08511,
+        "hit": false
+      },
+      {
+        "id": "PRN-p001-B001",
+        "page": 1,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 7.50492,
+        "hit": false
+      },
+      {
+        "id": "PRN-p014-B002",
+        "page": 14,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 6.67777,
+        "hit": false
+      },
+      {
+        "id": "AOW-p028-B002",
+        "page": 28,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 6.62336,
+        "hit": false
+      },
+      {
+        "id": "PRN-p004-B002",
+        "page": 4,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 6.42734,
+        "hit": false
+      },
+      {
+        "id": "AOW-p080-B002",
+        "page": 80,
+        "source_id": "art_of_war",
+        "rank": 10,
+        "score": 6.15418,
+        "hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "mrr10": 1.0,
+    "context_ids": [
+      "PRN-p014-B001",
+      "PRN-p002-B001",
+      "PRN-p038-B001"
+    ],
+    "context_chars": 2622,
+    "context_hit": true,
+    "ms": 0.7196999940788373
+  },
+  {
+    "query_id": "q14",
+    "question": "Why is introducing a new order especially hazardous?",
+    "filter": null,
+    "results": [
+      {
+        "id": "PRN-p057-B001",
+        "page": 57,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 9.52971,
+        "hit": false
+      },
+      {
+        "id": "PRN-p070-B002",
+        "page": 70,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 7.66704,
+        "hit": false
+      },
+      {
+        "id": "PRN-p084-B001",
+        "page": 84,
+        "source_id": "the_prince",
+        "rank": 3,
+        "score": 7.15428,
+        "hit": false
+      },
+      {
+        "id": "PRN-p085-B003",
+        "page": 85,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 6.47808,
+        "hit": false
+      },
+      {
+        "id": "PRN-p016-B002",
+        "page": 16,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 6.31487,
+        "hit": true
+      },
+      {
+        "id": "PRN-p063-B002",
+        "page": 63,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 6.12012,
+        "hit": false
+      },
+      {
+        "id": "PRN-p071-B001",
+        "page": 71,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 5.91993,
+        "hit": false
+      },
+      {
+        "id": "PRN-p024-B003",
+        "page": 24,
+        "source_id": "the_prince",
+        "rank": 8,
+        "score": 5.85505,
+        "hit": false
+      },
+      {
+        "id": "PRN-p087-B002",
+        "page": 87,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 5.76647,
+        "hit": false
+      },
+      {
+        "id": "PRN-p032-B001",
+        "page": 32,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 5.28917,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0.2,
+    "context_ids": [
+      "PRN-p057-B001",
+      "PRN-p070-B002",
+      "PRN-p084-B001"
+    ],
+    "context_chars": 2769,
+    "context_hit": false,
+    "ms": 0.5253999988781288
+  },
+  {
+    "query_id": "q15",
+    "question": "What kinds of troops can defend a state?",
+    "filter": null,
+    "results": [
+      {
+        "id": "PRN-p053-B001",
+        "page": 53,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 6.99173,
+        "hit": false
+      },
+      {
+        "id": "AOW-p053-B002",
+        "page": 53,
+        "source_id": "art_of_war",
+        "rank": 2,
+        "score": 5.9917,
+        "hit": false
+      },
+      {
+        "id": "AOW-p116-B002",
+        "page": 116,
+        "source_id": "art_of_war",
+        "rank": 3,
+        "score": 5.67981,
+        "hit": false
+      },
+      {
+        "id": "PRN-p060-B003",
+        "page": 60,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 5.47175,
+        "hit": false
+      },
+      {
+        "id": "PRN-p058-B001",
+        "page": 58,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 4.92668,
+        "hit": false
+      },
+      {
+        "id": "AOW-p096-B001",
+        "page": 96,
+        "source_id": "art_of_war",
+        "rank": 6,
+        "score": 4.91324,
+        "hit": false
+      },
+      {
+        "id": "AOW-p109-B002",
+        "page": 109,
+        "source_id": "art_of_war",
+        "rank": 7,
+        "score": 4.90134,
+        "hit": false
+      },
+      {
+        "id": "AOW-p082-B001",
+        "page": 82,
+        "source_id": "art_of_war",
+        "rank": 8,
+        "score": 4.73605,
+        "hit": false
+      },
+      {
+        "id": "PRN-p021-B002",
+        "page": 21,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 4.6872,
+        "hit": false
+      },
+      {
+        "id": "PRN-p028-B001",
+        "page": 28,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 4.57635,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0,
+    "context_ids": [
+      "PRN-p053-B001",
+      "AOW-p053-B002",
+      "AOW-p116-B002"
+    ],
+    "context_chars": 1999,
+    "context_hit": false,
+    "ms": 0.5538999976124614
+  },
+  {
+    "query_id": "q16",
+    "question": "In Machiavelli’s advice, what should be the sole professional concern of a ruler?",
+    "filter": {
+      "book": "the_prince"
+    },
+    "results": [
+      {
+        "id": "PRN-p028-B002",
+        "page": 28,
+        "source_id": "the_prince",
+        "rank": 1,
+        "score": 9.1788,
+        "hit": false
+      },
+      {
+        "id": "PRN-p058-B002",
+        "page": 58,
+        "source_id": "the_prince",
+        "rank": 2,
+        "score": 6.5832,
+        "hit": false
+      },
+      {
+        "id": "PRN-p072-B003",
+        "page": 72,
+        "source_id": "the_prince",
+        "rank": 3,
+        "score": 6.03983,
+        "hit": false
+      },
+      {
+        "id": "PRN-p061-B002",
+        "page": 61,
+        "source_id": "the_prince",
+        "rank": 4,
+        "score": 5.41429,
+        "hit": false
+      },
+      {
+        "id": "PRN-p055-B001",
+        "page": 55,
+        "source_id": "the_prince",
+        "rank": 5,
+        "score": 5.209,
+        "hit": false
+      },
+      {
+        "id": "PRN-p032-B001",
+        "page": 32,
+        "source_id": "the_prince",
+        "rank": 6,
+        "score": 5.06497,
+        "hit": false
+      },
+      {
+        "id": "PRN-p079-B001",
+        "page": 79,
+        "source_id": "the_prince",
+        "rank": 7,
+        "score": 4.67045,
+        "hit": false
+      },
+      {
+        "id": "PRN-p019-B002",
+        "page": 19,
+        "source_id": "the_prince",
+        "rank": 8,
+        "score": 4.51492,
+        "hit": false
+      },
+      {
+        "id": "PRN-p047-B001",
+        "page": 47,
+        "source_id": "the_prince",
+        "rank": 9,
+        "score": 4.46786,
+        "hit": true
+      },
+      {
+        "id": "PRN-p041-B001",
+        "page": 41,
+        "source_id": "the_prince",
+        "rank": 10,
+        "score": 3.80513,
+        "hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "mrr10": 0.1111111111111111,
+    "context_ids": [
+      "PRN-p028-B002",
+      "PRN-p058-B002",
+      "PRN-p072-B003"
+    ],
+    "context_chars": 2248,
+    "context_hit": false,
+    "ms": 0.5034999921917915
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "split": "dev",
+  "cases": 18,
+  "provider_errors": 0,
+  "tool_use": {
+    "n": 18,
+    "N": 18
+  },
+  "grounded_answer": {
+    "0": 6,
+    "1": 1,
+    "2": 9,
+    "N": 16,
+    "mean": 1.1875
+  },
+  "citation_validity": {
+    "n": 12,
+    "N": 12
+  },
+  "answer_citation_coverage": {
+    "n": 10,
+    "N": 10
+  },
+  "abstention": {
+    "n": 2,
+    "N": 2
+  },
+  "false_abstention": {
+    "n": 6,
+    "N": 16
+  }
+}

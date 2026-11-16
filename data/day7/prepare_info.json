@@ -1,0 +1,26 @@
+{
+  "day6_repo": "tcaopham216-gif/K5-L3B-Day06-CaoPhamThanhDat-2A202603970-DataIngestion",
+  "day6_commit": "9aab448",
+  "units": 204,
+  "chunks": 476,
+  "benchmark": {
+    "dev": {
+      "answerable": 16,
+      "unanswerable": 2
+    },
+    "test": {
+      "answerable": 6,
+      "unanswerable": 2
+    }
+  },
+  "index_seconds": 73.96060730000318,
+  "collection": "day6_B",
+  "count": 476,
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "dims": 384,
+  "fastembed_version": "0.9.1",
+  "chromadb_version": "1.5.9",
+  "metric": "cosine",
+  "hnsw_approximate": true,
+  "cost_usd": 0
+}

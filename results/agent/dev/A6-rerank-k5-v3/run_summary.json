@@ -1,0 +1,25 @@
+{
+  "name": "A6-rerank-k5-v3",
+  "method": "rerank",
+  "top_k": 5,
+  "budget_chars": 9000,
+  "max_searches": 3,
+  "prompt": "v3",
+  "model": "openai/gpt-4o-mini",
+  "cases": 18,
+  "errors": 0,
+  "context_evidence_rate": {
+    "n": 11,
+    "N": 16
+  },
+  "searches_distribution": {
+    "1": 11,
+    "2": 1,
+    "3": 6
+  },
+  "answered": 12,
+  "abstained": 6,
+  "median_latency_s": 5.48,
+  "total_tokens": 68986,
+  "total_cost_usd": 0.01133
+}

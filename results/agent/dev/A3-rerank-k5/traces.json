@@ -1,0 +1,2454 @@
+[
+  {
+    "query_id": "q01",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What qualities constitute the Commander?",
+    "filter": null,
+    "status": "answered",
+    "answer": "The qualities that constitute the Commander include \"wisdom, sincerity, benevolence, courage and strictness\". These virtues are essential for effective leadership in military contexts, as they guide the Commander in making decisions and maintaining discipline among troops [AOW-p002-B001].",
+    "citations": [
+      "AOW-p002-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "qualities of the Commander"
+    ],
+    "final_context_ids": [
+      "AOW-p002-B001",
+      "AOW-p044-B001",
+      "AOW-p049-B001",
+      "PRN-p058-B001",
+      "AOW-p071-B002"
+    ],
+    "final_context": "[AOW-p002-B001 | pg132_art_of_war.txt | page 2]\n8. _Earth_ comprises distances, great and small; danger and security; open ground and narrow passes; the chances of life and death.\n\n9. _The Commander_ stands for the virtues of wisdom, sincerity, benevolence, courage and strictness.\n\n[The five cardinal virtues of the Chinese are (1) humanity or benevolence; (2) uprightness of mind; (3) self-respect, self-control, or \"proper feeling;\" (4) wisdom; (5) sincerity or good faith. Here \"wisdom\" and \"sincerity\" are put before \"humanity or benevolence,\" and the two military virtues of \"courage\" and \"strictness\" substituted for \"uprightness of mind\" and \"self-respect, self-control, or ‘proper feeling.’\"]\n\n10. By _Method and discipline_ are to be understood the marshalling of the army in its proper subdivisions, the gradations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure.\n\n11. These five heads should be familiar to every general: he who knows them will be victorious; he who knows them not will fail.\n\n12. Therefore, in your deliberations, when seeking to determine the military conditions, let them be made the basis of a comparison, in this wise:—\n\n[AOW-p044-B001 | pg132_art_of_war.txt | page 44]\na commander-in-chief may be robbed of his presence of mind.\n\n[Chang Yu says: \"Presence of mind is the general’s most important asset. It is the quality which enables him to discipline disorder and to inspire courage into the panic-stricken.\" The great general Li Ching (A.D. 571-649) has a saying: \"Attacking does not merely consist in assaulting walled cities or striking at an army in battle array; it must include the art of assailing the enemy’s mental equilibrium.\"]\n\n28. Now a soldier’s spirit is keenest in the morning;\n\n[Always provided, I suppose, that he has had breakfast. At the battle of the Trebia, the Romans were foolishly allowed to fight fasting, whereas Hannibal’s men had breakfasted at their leisure. See Livy, XXI, liv. 8, lv. 1 and 8.]\n\nby noonday it has begun to flag; and in the evening, his mind is bent only on returning to camp.\n\n29. A clever general, therefore, avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return. This is the art of studying moods.\n\n30. Disciplined and calm, to await the appearance of disorder and hubbub amongst the enemy:—this is the art of retaining self-possession.\n\n[AOW-p049-B001 | pg132_art_of_war.txt | page 49]\npositions which must not be contested, commands of the sovereign which must not be obeyed.\n\n[This is a hard saying for the Chinese, with their reverence for authority, and Wei Liao Tzŭ (quoted by Tu Mu) is moved to exclaim: \"Weapons are baleful instruments, strife is antagonistic to virtue, a military commander is the negation of civil order!\" The unpalatable fact remains, however, that even Imperial wishes must be subordinated to military necessity.]\n\n4. The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops.\n\n5. The general who does not understand these, may be well acquainted with the configuration of the country, yet he will not be able to turn his knowledge to practical account.\n\n[Literally, \"get the advantage of the ground,\" which means not only securing good positions, but availing oneself of natural advantages in every possible way. Chang Yu says: \"Every kind of ground is characterized by certain natural features, and also gives scope for a certain variability of plan. How it is possible to turn these natural features to account unless topographical knowledge is supplemented by versatility of mind?\"]\n\n[PRN-p058-B001 | pg1232_the_prince.txt | page 58]\nFor this reason a prince ought to take care that he never lets anything slip from his lips that is not replete with the above-named five qualities, that he may appear to him who sees and hears him altogether merciful, faithful, humane, upright, and religious. There is nothing more necessary to appear to have than this last quality, inasmuch as men judge generally more by the eye than by the hand, because it belongs to everybody to see you, to few to come in touch with you. Every one sees what you appear to be, few really know what you are, and those few dare not oppose themselves to the opinion of the many, who have the majesty of the state to defend them; and in the actions of all men, and especially of princes, which it is not prudent to challenge, one judges by the result.\n\nFor that reason, let a prince have the credit of conquering and holding his state, the means will always be considered honest, and he will be praised by everybody; because the vulgar are always taken by what a thing seems to be and by what comes of it; and in the world there are only the vulgar, for the few find a place there only when the many have no ground to rest on.\n\n[AOW-p071-B002 | pg132_art_of_war.txt | page 71]\n[Wei Liao Tzŭ (ch. 4) says: \"If the commander gives his orders with decision, the soldiers will not wait to hear them twice; if his moves are made without vacillation, the soldiers will not be in two minds about doing their duty.\" General Baden-Powell says, italicizing the words: \"The secret of getting successful work out of your trained men lies in one nutshell—in the clearness of the instructions they receive.\" [3] Cf. also Wu Tzŭ ch. 3: \"the most fatal defect in a military leader is difference; the worst calamities that befall an army arise from hesitation.\"]\n\nwhen there are no fixed duties assigned to officers and men,\n\n[Tu Mu says: \"Neither officers nor men have any regular routine.\"]",
+    "events": [
+      {
+        "event": "search",
+        "query": "qualities of the Commander",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p002-B001",
+            "rank": 1,
+            "score": 4.18543,
+            "page": 2,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p044-B001",
+            "rank": 2,
+            "score": -0.36915,
+            "page": 44,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p049-B001",
+            "rank": 3,
+            "score": -1.66839,
+            "page": 49,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "PRN-p058-B001",
+            "rank": 4,
+            "score": -4.16072,
+            "page": 58,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p071-B002",
+            "rank": 5,
+            "score": -5.35409,
+            "page": 71,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p002-B001",
+          "AOW-p044-B001",
+          "AOW-p049-B001",
+          "PRN-p058-B001",
+          "AOW-p071-B002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1582,
+        "prompt_tokens": 332,
+        "completion_tokens": 16,
+        "cost_usd": 5.94e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"qualities of the Commander\"}"
+      },
+      {
+        "ms": 2371,
+        "prompt_tokens": 1650,
+        "completion_tokens": 78,
+        "cost_usd": 0.0002943,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"The qualities that constitute the Commander include \\\"wisdom, sincerity, benevolence, courage and strictness\\\". These virtues are essential for effective leadership in military contexts, as they guide the Commander in making decisions and maintaining discipline among troops [AOW-p002-B001].\",\"citations\":[\"AOW-p002-B001\"]}"
+      }
+    ],
+    "elapsed_s": 4.79,
+    "prompt_tokens": 1982,
+    "completion_tokens": 94,
+    "cost_usd": 0.000354
+  },
+  {
+    "query_id": "q02",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "According to Sun Tzu, what fundamental principle underlies warfare?",
+    "filter": {
+      "book": "art_of_war"
+    },
+    "status": "answered",
+    "answer": "According to Sun Tzu, the fundamental principle underlying warfare is that \"the art of war is of vital importance to the State\" and it is governed by five constant factors: (1) The Moral Law; (2) Heaven; (3) Earth; (4) The Commander; (5) Method and discipline. These factors must be considered in deliberations to determine the conditions in the field [AOW-p001-B001].",
+    "citations": [
+      "AOW-p001-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "fundamental principle of warfare Sun Tzu"
+    ],
+    "final_context_ids": [
+      "AOW-p013-B002",
+      "AOW-p001-B001",
+      "AOW-p036-B001",
+      "AOW-p003-B003",
+      "AOW-p022-B001"
+    ],
+    "final_context": "[AOW-p013-B002 | pg132_art_of_war.txt | page 13]\n[Tu Mu takes exception to the saying; and at first sight, indeed, it appears to violate a fundamental principle of war. Ts’ao Kung, however, gives a clue to Sun Tzŭ’s meaning: \"Being two to the enemy’s one, we may use one part of our army in the regular way, and the other for some special diversion.\" Chang Yu thus further elucidates the point: \"If our force is twice as numerous as that of the enemy, it should be split up into two divisions, one to meet the enemy in front, and one to fall upon his rear; if he replies to the frontal attack, he may be crushed from behind; if to the rearward attack, he may be crushed in front.\" This is what is meant by saying that ‘one part may be used in the regular way, and the other for some special diversion.’ Tu Mu does not understand that dividing one’s army is simply an irregular, just as concentrating it is the regular, strategical method, and he is too hasty in calling this a mistake.\"]\n\n9. If equally matched, we can offer battle;\n\n[Li Ch’uan, followed by Ho Shih, gives the following paraphrase: \"If attackers and attacked are equally matched in strength, only the able general will fight.\"]\n\n[AOW-p001-B001 | pg132_art_of_war.txt | page 1]\n[Ts’ao Kung, in defining the meaning of the Chinese for the title of this chapter, says it refers to the deliberations in the temple selected by the general for his temporary use, or as we should say, in his tent. See. § 26.]\n\n1. Sun Tzŭ said: The art of war is of vital importance to the State.\n\n2. It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.\n\n3. The art of war, then, is governed by five constant factors, to be taken into account in one’s deliberations, when seeking to determine the conditions obtaining in the field.\n\n4. These are: (1) The Moral Law; (2) Heaven; (3) Earth; (4) The Commander; (5) Method and discipline.\n\n[It appears from what follows that Sun Tzŭ means by \"Moral Law\" a principle of harmony, not unlike the Tao of Lao Tzŭ in its moral aspect. One might be tempted to render it by \"morale,\" were it not considered as an attribute of the _ruler_ in § 13.]\n\n5, 6. _The Moral Law_ causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger.\n\n[AOW-p036-B001 | pg132_art_of_war.txt | page 36]\n1. Sun Tzŭ said: In war, the general receives his commands from the sovereign.\n\n2. Having collected an army and concentrated his forces, he must blend and harmonise the different elements thereof before pitching his camp.\n\n[\"Chang Yu says: \"the establishment of harmony and confidence between the higher and lower ranks before venturing into the field;\" and he quotes a saying of Wu Tzŭ (chap. 1 ad init.): \"Without harmony in the State, no military expedition can be undertaken; without harmony in the army, no battle array can be formed.\" In an historical romance Sun Tzŭ is represented as saying to Wu Yuan: \"As a general rule, those who are waging war should get rid of all the domestic troubles before proceeding to attack the external foe.\"]\n\n3. After that, comes tactical manœuvering, than which there is nothing more difficult.\n\n[AOW-p003-B003 | pg132_art_of_war.txt | page 3]\n[Sun Tzŭ, as a practical soldier, will have none of the \"bookish theoric.\" He cautions us here not to pin our faith to abstract principles; \"for,\" as Chang Yu puts it, \"while the main laws of strategy can be stated clearly enough for the benefit of all and sundry, you must be guided by the actions of the enemy in attempting to secure a favourable position in actual warfare.\" On the eve of the battle of Waterloo, Lord Uxbridge, commanding the cavalry, went to the Duke of Wellington in order to learn what his plans and calculations were for the morrow, because, as he explained, he might suddenly find himself Commander-in-chief and would be unable to frame new plans in a critical moment. The Duke listened quietly and then said: \"Who will attack the first tomorrow—I or Bonaparte?\" \"Bonaparte,\" replied Lord Uxbridge. \"Well,\" continued the Duke, \"Bonaparte has not given me any idea of his projects; and as my plans will depend upon his, how can you expect me to tell you what mine are?\" [1] ]\n\n[AOW-p022-B001 | pg132_art_of_war.txt | page 22]\n1. Sun Tzŭ said: The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers.\n\n[That is, cutting up the army into regiments, companies, etc., with subordinate officers in command of each. Tu Mu reminds us of Han Hsin’s famous reply to the first Han Emperor, who once said to him: \"How large an army do you think I could lead?\" \"Not more than 100,000 men, your Majesty.\" \"And you?\" asked the Emperor. \"Oh!\" he answered, \"the more the better.\"]\n\n2. Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.\n\n3. To ensure that your whole host may withstand the brunt of the enemy’s attack and remain unshaken—this is effected by manœuvers direct and indirect.\n\n[We now come to one of the most interesting parts of Sun Tzŭ’s treatise, the discussion of the _cheng_ and the _ch’i_.\" As it is by no means easy to grasp the full significance of these two terms, or to render them consistently by good English equivalents; it may be as well to tabulate some of the commentators’ remarks on the subject before proceeding further.",
+    "events": [
+      {
+        "event": "search",
+        "query": "fundamental principle of warfare Sun Tzu",
+        "filter": {
+          "book": "art_of_war"
+        },
+        "results": [
+          {
+            "id": "AOW-p013-B002",
+            "rank": 1,
+            "score": 5.40704,
+            "page": 13,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p001-B001",
+            "rank": 2,
+            "score": 3.38755,
+            "page": 1,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p036-B001",
+            "rank": 3,
+            "score": 3.19193,
+            "page": 36,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p003-B003",
+            "rank": 4,
+            "score": 2.99853,
+            "page": 3,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p022-B001",
+            "rank": 5,
+            "score": 2.85329,
+            "page": 22,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p013-B002",
+          "AOW-p001-B001",
+          "AOW-p036-B001",
+          "AOW-p003-B003",
+          "AOW-p022-B001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1694,
+        "prompt_tokens": 339,
+        "completion_tokens": 20,
+        "cost_usd": 6.285e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"fundamental principle of warfare Sun Tzu\"}"
+      },
+      {
+        "ms": 3140,
+        "prompt_tokens": 1697,
+        "completion_tokens": 111,
+        "cost_usd": 0.00032115,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"According to Sun Tzu, the fundamental principle underlying warfare is that \\\"the art of war is of vital importance to the State\\\" and it is governed by five constant factors: (1) The Moral Law; (2) Heaven; (3) Earth; (4) The Commander; (5) Method and discipline. These factors must be considered in deliberations to determine the conditions in the field [AOW-p001-B001].\",\"citations\":[\"AOW-p001-B001\"]}"
+      }
+    ],
+    "elapsed_s": 5.61,
+    "prompt_tokens": 2036,
+    "completion_tokens": 131,
+    "cost_usd": 0.000384
+  },
+  {
+    "query_id": "q03",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "Should military campaigns aim for quick victory or prolonged operations?",
+    "filter": null,
+    "status": "answered",
+    "answer": "Military campaigns should aim for quick victory rather than prolonged operations, as \"stupid haste is preferable to clever dilatoriness\" and prolonged warfare leads to exhaustion of resources and morale. Sun Tzu emphasizes that \"no instance of a country having benefited from prolonged warfare\" exists, highlighting the importance of rapidity in achieving victory to avoid calamities associated with long campaigns [AOW-p006-B002][AOW-p007-B001].",
+    "citations": [
+      "AOW-p006-B002",
+      "AOW-p007-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "quick victory vs prolonged operations"
+    ],
+    "final_context_ids": [
+      "AOW-p006-B002",
+      "AOW-p007-B001",
+      "AOW-p006-B001",
+      "AOW-p016-B002",
+      "AOW-p021-B003"
+    ],
+    "final_context": "[AOW-p006-B002 | pg132_art_of_war.txt | page 6]\nHo Shih says: \"Haste may be stupid, but at any rate it saves expenditure of energy and treasure; protracted operations may be very clever, but they bring calamity in their train.\" Wang Hsi evades the difficulty by remarking: \"Lengthy operations mean an army growing old, wealth being expended, an empty exchequer and distress among the people; true cleverness insures against the occurrence of such calamities.\" Chang Yu says: \"So long as victory can be attained, stupid haste is preferable to clever dilatoriness.\" Now Sun Tzŭ says nothing whatever, except possibly by implication, about ill-considered haste being better than ingenious but lengthy operations. What he does say is something much more guarded, namely that, while speed may sometimes be injudicious, tardiness can never be anything but foolish—if only because it means impoverishment to the nation. In considering the point raised here by Sun Tzŭ, the classic example of Fabius Cunctator will inevitably occur to the mind. That general deliberately measured the endurance of Rome against that of Hannibals’s isolated army, because it seemed to him that the latter was more likely to suffer from a long campaign in a strange country.\n\n[AOW-p007-B001 | pg132_art_of_war.txt | page 7]\n6. There is no instance of a country having benefited from prolonged warfare.\n\n7. It is only one who is thoroughly acquainted with the evils of war that can thoroughly understand the profitable way of carrying it on.\n\n[That is, with rapidity. Only one who knows the disastrous effects of a long war can realize the supreme importance of rapidity in bringing it to a close. Only two commentators seem to favour this interpretation, but it fits well into the logic of the context, whereas the rendering, \"He who does not know the evils of war cannot appreciate its benefits,\" is distinctly pointless.]\n\n8. The skilful soldier does not raise a second levy, neither are his supply-waggons loaded more than twice.\n\n[Once war is declared, he will not waste precious time in waiting for reinforcements, nor will he return his army back for fresh supplies, but crosses the enemy’s frontier without delay. This may seem an audacious policy to recommend, but with all great strategists, from Julius Caesar to Napoleon Bonaparte, the value of time—that is, being a little ahead of your opponent—has counted for more than either numerical superiority or the nicest calculations with regard to commissariat.]\n\n[AOW-p006-B001 | pg132_art_of_war.txt | page 6]\n2. When you engage in actual fighting, if victory is long in coming, the men’s weapons will grow dull and their ardour will be damped. If you lay siege to a town, you will exhaust your strength.\n\n3. Again, if the campaign is protracted, the resources of the State will not be equal to the strain.\n\n4. Now, when your weapons are dulled, your ardour damped, your strength exhausted and your treasure spent, other chieftains will spring up to take advantage of your extremity. Then no man, however wise, will be able to avert the consequences that must ensue.\n\n5. Thus, though we have heard of stupid haste in war, cleverness has never been seen associated with long delays.\n\n[This concise and difficult sentence is not well explained by any of the commentators. Ts’ao Kung, Li Ch’uan, Meng Shih, Tu Yu, Tu Mu and Mei Yao-ch’en have notes to the effect that a general, though naturally stupid, may nevertheless conquer through sheer force of rapidity.\n\n[AOW-p016-B002 | pg132_art_of_war.txt | page 16]\n[Tu Yu quotes Wang Tzŭ as saying: \"It is the sovereign’s function to give broad instructions, but to decide on battle it is the function of the general.\" It is needless to dilate on the military disasters which have been caused by undue interference with operations in the field on the part of the home government. Napoleon undoubtedly owed much of his extraordinary success to the fact that he was not hampered by central authority.]\n\nVictory lies in the knowledge of these five points.\n\n[Literally, “These five things are knowledge of the principle of victory.”]\n\n18. Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat.\n\n[AOW-p021-B003 | pg132_art_of_war.txt | page 21]\n[Literally, \"a victorious army is like an _i_ (20 oz.) weighed against a _shu_ (1/24 oz.); a routed army is a _shu_ weighed against an _i_.\" The point is simply the enormous advantage which a disciplined force, flushed with victory, has over one demoralized by defeat. Legge, in his note on Mencius, I. 2. ix. 2, makes the _i_ to be 24 Chinese ounces, and corrects Chu Hsi’s statement that it equaled 20 oz. only. But Li Ch’uan of the T’ang dynasty here gives the same figure as Chu Hsi.]\n\n20. The onrush of a conquering force is like the bursting of pent-up waters into a chasm a thousand fathoms deep. So much for tactical dispositions.",
+    "events": [
+      {
+        "event": "search",
+        "query": "quick victory vs prolonged operations",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p006-B002",
+            "rank": 1,
+            "score": 2.68194,
+            "page": 6,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p007-B001",
+            "rank": 2,
+            "score": -3.30864,
+            "page": 7,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p006-B001",
+            "rank": 3,
+            "score": -4.12106,
+            "page": 6,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p016-B002",
+            "rank": 4,
+            "score": -5.99931,
+            "page": 16,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p021-B003",
+            "rank": 5,
+            "score": -8.4012,
+            "page": 21,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p006-B002",
+          "AOW-p007-B001",
+          "AOW-p006-B001",
+          "AOW-p016-B002",
+          "AOW-p021-B003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1285,
+        "prompt_tokens": 337,
+        "completion_tokens": 17,
+        "cost_usd": 6.075e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"quick victory vs prolonged operations\"}"
+      },
+      {
+        "ms": 3123,
+        "prompt_tokens": 1494,
+        "completion_tokens": 117,
+        "cost_usd": 0.0002943,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"Military campaigns should aim for quick victory rather than prolonged operations, as \\\"stupid haste is preferable to clever dilatoriness\\\" and prolonged warfare leads to exhaustion of resources and morale. Sun Tzu emphasizes that \\\"no instance of a country having benefited from prolonged warfare\\\" exists, highlighting the importance of rapidity in achieving victory to avoid calamities associated with long campaigns [AOW-p006-B002][AOW-p007-B001].\",\"citations\":[\"AOW-p006-B002\",\"AOW-p007-B001\"]}"
+      }
+    ],
+    "elapsed_s": 5.25,
+    "prompt_tokens": 1831,
+    "completion_tokens": 134,
+    "cost_usd": 0.000355
+  },
+  {
+    "query_id": "q04",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What does supreme excellence consist in?",
+    "filter": null,
+    "status": "answered",
+    "answer": "Supreme excellence consists in \"breaking the enemy’s resistance without fighting\" rather than merely winning battles through combat. This reflects a strategic superiority that avoids unnecessary conflict and destruction [AOW-p010-B001].",
+    "citations": [
+      "AOW-p010-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "supreme excellence consist in"
+    ],
+    "final_context_ids": [
+      "AOW-p010-B001",
+      "AOW-p093-B002",
+      "AOW-p019-B001",
+      "PRN-p015-B001",
+      "AOW-p018-B001"
+    ],
+    "final_context": "[AOW-p010-B001 | pg132_art_of_war.txt | page 10]\n1. Sun Tzŭ said: In the practical art of war, the best thing of all is to take the enemy’s country whole and intact; to shatter and destroy it is not so good. So, too, it is better to capture an army entire than to destroy it, to capture a regiment, a detachment or a company entire than to destroy them.\n\n[The equivalent to an army corps, according to Ssu-ma Fa, consisted nominally of 12500 men; according to Ts’ao Kung, the equivalent of a regiment contained 500 men, the equivalent to a detachment consists from any number between 100 and 500, and the equivalent of a company contains from 5 to 100 men. For the last two, however, Chang Yu gives the exact figures of 100 and 5 respectively.]\n\n2. Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy’s resistance without fighting.\n\n[Here again, no modern strategist but will approve the words of the old Chinese general. Moltke’s greatest triumph, the capitulation of the huge French army at Sedan, was won practically without bloodshed.]\n\n3. Thus the highest form of generalship is to baulk the enemy’s plans;\n\n[AOW-p093-B002 | pg132_art_of_war.txt | page 93]\nXI, we come to the Nine Grounds par excellence, immediately followed by the variations. This takes us down to § 14. In §§ 43-45, fresh definitions are provided for nos. 5, 6, 2, 8 and 9 (in the order given), as well as for the tenth ground noticed in chap. VIII; and finally, the nine variations are enumerated once more from beginning to end, all, with the exception of 5, 6 and 7, being different from those previously given. Though it is impossible to account for the present state of Sun Tzŭ’s text, a few suggestive facts maybe brought into prominence: (1) Chap. VIII, according to the title, should deal with nine variations, whereas only five appear. (2) It is an abnormally short chapter. (3) Chap. XI is entitled The Nine Grounds. Several of these are defined twice over, besides which there are two distinct lists of the corresponding variations. (4) The length of the chapter is disproportionate, being double that of any other except IX. I do not propose to draw any inferences from these facts, beyond the general conclusion that Sun Tzŭ’s work cannot have come down to us in the shape in which it left his hands: chap. VIII is obviously defective and probably out of place, while XI seems to contain matter that has either been added by a later hand or ought to appear elsewhere.]\n\n[AOW-p019-B001 | pg132_art_of_war.txt | page 19]\n[True excellence being, as Tu Mu says: \"To plan secretly, to move surreptitiously, to foil the enemy’s intentions and balk his schemes, so that at last the day may be won without shedding a drop of blood.\" Sun Tzŭ reserves his approbation for things that\n\n\"the world’s coarse thumb And finger fail to plumb.\"\n\n10. To lift an autumn hair is no sign of great strength;\n\n[\"Autumn hair\" is explained as the fur of a hare, which is finest in autumn, when it begins to grow afresh. The phrase is a very common one in Chinese writers.]\n\nto see sun and moon is no sign of sharp sight; to hear the noise of thunder is no sign of a quick ear.\n\n[Ho Shih gives as real instances of strength, sharp sight and quick hearing: Wu Huo, who could lift a tripod weighing 250 stone; Li Chu, who at a distance of a hundred paces could see objects no bigger than a mustard seed; and Shih K’uang, a blind musician who could hear the footsteps of a mosquito.]\n\n11. What the ancients called a clever fighter is one who not only wins, but excels in winning with ease.\n\n[PRN-p015-B001 | pg1232_the_prince.txt | page 15]\nLet no one be surprised if, in speaking of entirely new principalities as I shall do, I adduce the highest examples both of prince and of state; because men, walking almost always in paths beaten by others, and following by imitation their deeds, are yet unable to keep entirely to the ways of others or attain to the power of those they imitate. A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savour of it. Let him act like the clever archers who, designing to hit the mark which yet appears too far distant, and knowing the limits to which the strength of their bow attains, take aim much higher than the mark, not to reach by their strength or arrow to so great a height, but to be able with the aid of so high an aim to hit the mark they wish to reach.\n\n[AOW-p018-B001 | pg132_art_of_war.txt | page 18]\n6. Standing on the defensive indicates insufficient strength; attacking, a superabundance of strength.\n\n7. The general who is skilled in defence hides in the most secret recesses of the earth;\n\n[Literally, \"hides under the ninth earth,\" which is a metaphor indicating the utmost secrecy and concealment, so that the enemy may not know his whereabouts.\"]\n\nhe who is skilled in attack flashes forth from the topmost heights of heaven.\n\n[Another metaphor, implying that he falls on his adversary like a thunderbolt, against which there is no time to prepare. This is the opinion of most of the commentators.]\n\nThus on the one hand we have ability to protect ourselves; on the other, a victory that is complete.\n\n8. To see victory only when it is within the ken of the common herd is not the acme of excellence.",
+    "events": [
+      {
+        "event": "search",
+        "query": "supreme excellence consist in",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p010-B001",
+            "rank": 1,
+            "score": 3.16543,
+            "page": 10,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p093-B002",
+            "rank": 2,
+            "score": -6.6081,
+            "page": 93,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p019-B001",
+            "rank": 3,
+            "score": -7.93262,
+            "page": 19,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "PRN-p015-B001",
+            "rank": 4,
+            "score": -8.15682,
+            "page": 15,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p018-B001",
+            "rank": 5,
+            "score": -8.43042,
+            "page": 18,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p010-B001",
+          "AOW-p093-B002",
+          "AOW-p019-B001",
+          "PRN-p015-B001",
+          "AOW-p018-B001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1212,
+        "prompt_tokens": 333,
+        "completion_tokens": 17,
+        "cost_usd": 6.015e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"supreme excellence consist in\"}"
+      },
+      {
+        "ms": 2789,
+        "prompt_tokens": 1613,
+        "completion_tokens": 64,
+        "cost_usd": 0.00028035,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"Supreme excellence consists in \\\"breaking the enemy’s resistance without fighting\\\" rather than merely winning battles through combat. This reflects a strategic superiority that avoids unnecessary conflict and destruction [AOW-p010-B001].\",\"citations\":[\"AOW-p010-B001\"]}"
+      }
+    ],
+    "elapsed_s": 4.8,
+    "prompt_tokens": 1946,
+    "completion_tokens": 81,
+    "cost_usd": 0.00034
+  },
+  {
+    "query_id": "q05",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What tactics provide security against defeat?",
+    "filter": null,
+    "status": "answered",
+    "answer": "Tactics that provide security against defeat include adopting defensive strategies and concealing troop dispositions. Sun Tzu emphasizes that \"the good fighters of old first put themselves beyond the possibility of defeat\" before seeking to defeat the enemy, indicating that securing oneself against defeat is paramount [AOW-p017-B001].",
+    "citations": [
+      "AOW-p017-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "tactics provide security against defeat"
+    ],
+    "final_context_ids": [
+      "AOW-p017-B002",
+      "AOW-p017-B001",
+      "AOW-p023-B001",
+      "AOW-p035-B001",
+      "AOW-p034-B001"
+    ],
+    "final_context": "[AOW-p017-B002 | pg132_art_of_war.txt | page 17]\n4. Hence the saying: One may _know_ how to conquer without being able to _do_ it.\n\n5. Security against defeat implies defensive tactics; ability to defeat the enemy means taking the offensive.\n\n[I retain the sense found in a similar passage in §§ 1-3, in spite of the fact that the commentators are all against me. The meaning they give, \"He who cannot conquer takes the defensive,\" is plausible enough.]\n\n[AOW-p017-B001 | pg132_art_of_war.txt | page 17]\n[Ts’ao Kung explains the Chinese meaning of the words for the title of this chapter: \"marching and countermarching on the part of the two armies with a view to discovering each other’s condition.\" Tu Mu says: \"It is through the dispositions of an army that its condition may be discovered. Conceal your dispositions, and your condition will remain secret, which leads to victory; show your dispositions, and your condition will become patent, which leads to defeat.\" Wang Hsi remarks that the good general can \"secure success by modifying his tactics to meet those of the enemy.\"]\n\n1. Sun Tzŭ said: The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.\n\n2. To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.\n\n[That is, of course, by a mistake on the enemy’s part.]\n\n3. Thus the good fighter is able to secure himself against defeat,\n\n[Chang Yu says this is done, \"By concealing the disposition of his troops, covering up his tracks, and taking unremitting precautions.\"]\n\nbut cannot make certain of defeating the enemy.\n\n[AOW-p023-B001 | pg132_art_of_war.txt | page 23]\n4. That the impact of your army may be like a grindstone dashed against an egg—this is effected by the science of weak points and strong.\n\n5. In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory.\n\n[Chang Yu says: \"Steadily develop indirect tactics, either by pounding the enemy’s flanks or falling on his rear.\" A brilliant example of \"indirect tactics\" which decided the fortunes of a campaign was Lord Roberts’ night march round the Peiwar Kotal in the second Afghan war. [1]\n\n6. Indirect tactics, efficiently applied, are inexhausible as Heaven and Earth, unending as the flow of rivers and streams; like the sun and moon, they end but to begin anew; like the four seasons, they pass away but to return once more.\n\n[AOW-p035-B001 | pg132_art_of_war.txt | page 35]\n27. All men can see the tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.\n\n[_I.e._, everybody can see superficially how a battle is won; what they cannot see is the long series of plans and combinations which has preceded the battle.]\n\n28. Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances.\n\n[As Wang Hsi sagely remarks: \"There is but one root-principle underlying victory, but the tactics which lead up to it are infinite in number.\" With this compare Col. Henderson: \"The rules of strategy are few and simple. They may be learned in a week. They may be taught by familiar illustrations or a dozen diagrams. But such knowledge will no more teach a man to lead an army like Napoleon than a knowledge of grammar will teach him to write like Gibbon.\"]\n\n29. Military tactics are like unto water; for water in its natural course runs away from high places and hastens downwards.\n\n30. So in war, the way is to avoid what is strong and to strike at what is weak.\n\n[Like water, taking the line of least resistance.]\n\n[AOW-p034-B001 | pg132_art_of_war.txt | page 34]\n22. Though the enemy be stronger in numbers, we may prevent him from fighting. Scheme so as to discover his plans and the likelihood of their success.\n\n[An alternative reading offered by Chia Lin is: \"Know beforehand all plans conducive to our success and to the enemy’s failure.\"\n\n23. Rouse him, and learn the principle of his activity or inactivity.\n\n[Chang Yu tells us that by noting the joy or anger shown by the enemy on being thus disturbed, we shall be able to conclude whether his policy is to lie low or the reverse. He instances the action of Cho-ku Liang, who sent the scornful present of a woman’s head-dress to Ssu-ma I, in order to goad him out of his Fabian tactics.]\n\nForce him to reveal himself, so as to find out his vulnerable spots.\n\n24. Carefully compare the opposing army with your own, so that you may know where strength is superabundant and where it is deficient.\n\n[Cf. IV. § 6.]\n\n25. In making tactical dispositions, the highest pitch you can attain is to conceal them;",
+    "events": [
+      {
+        "event": "search",
+        "query": "tactics provide security against defeat",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p017-B002",
+            "rank": 1,
+            "score": 6.64646,
+            "page": 17,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p017-B001",
+            "rank": 2,
+            "score": 2.4612,
+            "page": 17,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p023-B001",
+            "rank": 3,
+            "score": 0.07954,
+            "page": 23,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p035-B001",
+            "rank": 4,
+            "score": -4.03168,
+            "page": 35,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p034-B001",
+            "rank": 5,
+            "score": -4.78552,
+            "page": 34,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p017-B002",
+          "AOW-p017-B001",
+          "AOW-p023-B001",
+          "AOW-p035-B001",
+          "AOW-p034-B001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1558,
+        "prompt_tokens": 333,
+        "completion_tokens": 18,
+        "cost_usd": 6.075e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"tactics provide security against defeat\"}"
+      },
+      {
+        "ms": 3573,
+        "prompt_tokens": 1429,
+        "completion_tokens": 83,
+        "cost_usd": 0.00026415,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"Tactics that provide security against defeat include adopting defensive strategies and concealing troop dispositions. Sun Tzu emphasizes that \\\"the good fighters of old first put themselves beyond the possibility of defeat\\\" before seeking to defeat the enemy, indicating that securing oneself against defeat is paramount [AOW-p017-B001].\",\"citations\":[\"AOW-p017-B001\"]}"
+      }
+    ],
+    "elapsed_s": 5.89,
+    "prompt_tokens": 1762,
+    "completion_tokens": 101,
+    "cost_usd": 0.000325
+  },
+  {
+    "query_id": "q06",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "Which two methods must be combined to withstand an enemy attack?",
+    "filter": null,
+    "status": "answered",
+    "answer": "To withstand an enemy attack, one must combine the \"direct and the indirect\" methods, as these two in combination give rise to an endless series of maneuvers [AOW-p024-B001].",
+    "citations": [
+      "AOW-p024-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "methods to withstand an enemy attack"
+    ],
+    "final_context_ids": [
+      "AOW-p028-B001",
+      "AOW-p029-B001",
+      "AOW-p024-B001",
+      "AOW-p065-B001",
+      "AOW-p080-B002"
+    ],
+    "final_context": "[AOW-p028-B001 | pg132_art_of_war.txt | page 28]\n[Chang Yu attempts to explain the sequence of chapters as follows: \"Chapter IV, on Tactical Dispositions, treated of the offensive and the defensive; chapter V, on Energy, dealt with direct and indirect methods. The good general acquaints himself first with the theory of attack and defence, and then turns his attention to direct and indirect methods. He studies the art of varying and combining these two methods before proceeding to the subject of weak and strong points. For the use of direct or indirect methods arises out of attack and defence, and the perception of weak and strong points depends again on the above methods. Hence the present chapter comes immediately after the chapter on Energy.\"]\n\n1. Sun Tzŭ said: Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle, will arrive exhausted.\n\n2. Therefore the clever combatant imposes his will on the enemy, but does not allow the enemy’s will to be imposed on him.\n\n[One mark of a great soldier is that he fight on his own terms or fights not at all. [1] ]\n\n[AOW-p029-B001 | pg132_art_of_war.txt | page 29]\nif well supplied with food, he can starve him out; if quietly encamped, he can force him to move.\n\n5. Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected.\n\n6. An army may march great distances without distress, if it marches through country where the enemy is not.\n\n[Ts’ao Kung sums up very well: \"Emerge from the void [q.d. like \"a bolt from the blue\"], strike at vulnerable points, shun places that are defended, attack in unexpected quarters.\"]\n\n7. You can be sure of succeeding in your attacks if you only attack places which are undefended.\n\n[Wang Hsi explains \"undefended places\" as \"weak points; that is to say, where the general is lacking in capacity, or the soldiers in spirit; where the walls are not strong enough, or the precautions not strict enough; where relief comes too late, or provisions are too scanty, or the defenders are variance amongst themselves.\"]\n\nYou can ensure the safety of your defence if you only hold positions that cannot be attacked.\n\n[AOW-p024-B001 | pg132_art_of_war.txt | page 24]\n9 There are not more than five cardinal tastes (sour, acrid, salt, sweet, bitter), yet combinations of them yield more flavours than can ever be tasted.\n\n10. In battle, there are not more than two methods of attack—the direct and the indirect; yet these two in combination give rise to an endless series of manœuvers.\n\n11. The direct and the indirect lead on to each other in turn. It is like moving in a circle—you never come to an end. Who can exhaust the possibilities of their combination?\n\n12. The onset of troops is like the rush of a torrent which will even roll stones along in its course.\n\n13. The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim.\n\n[AOW-p065-B001 | pg132_art_of_war.txt | page 65]\n40. If our troops are no more in number than the enemy, that is amply sufficient; it only means that no direct attack can be made.\n\n[Literally, \"no martial advance.\" That is to say, _cheng_ tactics and frontal attacks must be eschewed, and stratagem resorted to instead.]\n\nWhat we can do is simply to concentrate all our available strength, keep a close watch on the enemy, and obtain reinforcements.\n\n[AOW-p080-B002 | pg132_art_of_war.txt | page 80]\n18. If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, I should say: \"Begin by seizing something which your opponent holds dear; then he will be amenable to your will.\"\n\n[Opinions differ as to what Sun Tzŭ had in mind. Ts’ao Kung thinks it is \"some strategical advantage on which the enemy is depending.\" Tu Mu says: \"The three things which an enemy is anxious to do, and on the accomplishment of which his success depends, are: (1) to capture our favourable positions; (2) to ravage our cultivated land; (3) to guard his own communications.\" Our object then must be to thwart his plans in these three directions and thus render him helpless. [Cf. III. § 3.] By boldly seizing the initiative in this way, you at once throw the other side on the defensive.]",
+    "events": [
+      {
+        "event": "search",
+        "query": "methods to withstand an enemy attack",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p028-B001",
+            "rank": 1,
+            "score": 1.07964,
+            "page": 28,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p029-B001",
+            "rank": 2,
+            "score": -0.64899,
+            "page": 29,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p024-B001",
+            "rank": 3,
+            "score": -1.28949,
+            "page": 24,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p065-B001",
+            "rank": 4,
+            "score": -1.85039,
+            "page": 65,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p080-B002",
+            "rank": 5,
+            "score": -1.85328,
+            "page": 80,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p028-B001",
+          "AOW-p029-B001",
+          "AOW-p024-B001",
+          "AOW-p065-B001",
+          "AOW-p080-B002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1426,
+        "prompt_tokens": 338,
+        "completion_tokens": 18,
+        "cost_usd": 6.15e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"methods to withstand an enemy attack\"}"
+      },
+      {
+        "ms": 2329,
+        "prompt_tokens": 1355,
+        "completion_tokens": 64,
+        "cost_usd": 0.00024165,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"To withstand an enemy attack, one must combine the \\\"direct and the indirect\\\" methods, as these two in combination give rise to an endless series of maneuvers [AOW-p024-B001].\",\"citations\":[\"AOW-p024-B001\"]}"
+      }
+    ],
+    "elapsed_s": 4.49,
+    "prompt_tokens": 1693,
+    "completion_tokens": 82,
+    "cost_usd": 0.000303
+  },
+  {
+    "query_id": "q07",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "In war, should an army strike at an opponent’s strength or weakness?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "strike at an opponent's strength or weakness"
+    ],
+    "final_context_ids": [
+      "AOW-p027-B001",
+      "AOW-p028-B002",
+      "AOW-p032-B001",
+      "AOW-p021-B002",
+      "AOW-p018-B001"
+    ],
+    "final_context": "[AOW-p027-B001 | pg132_art_of_war.txt | page 27]\n19. Thus one who is skilful at keeping the enemy on the move maintains deceitful appearances, according to which the enemy will act.\n\n[Ts’ao Kung’s note is \"Make a display of weakness and want.\" Tu Mu says: \"If our force happens to be superior to the enemy’s, weakness may be simulated in order to lure him on; but if inferior, he must be led to believe that we are strong, in order that he may keep off. In fact, all the enemy’s movements should be determined by the signs that we choose to give him.\" Note the following anecdote of Sun Pin, a descendent of Sun Wu: In 341 B.C., the Ch’i State being at war with Wei, sent T’ien Chi and Sun Pin against the general P’ang Chuan, who happened to be a deadly personal enemy of the later. Sun Pin said: \"The Ch’i State has a reputation for cowardice, and therefore our adversary despises us. Let us turn this circumstance to account.\" Accordingly, when the army had crossed the border into Wei territory, he gave orders to show 100,000 fires on the first night, 50,000 on the next, and the night after only 20,000.\n\n[AOW-p028-B002 | pg132_art_of_war.txt | page 28]\n3. By holding out advantages to him, he can cause the enemy to approach of his own accord; or, by inflicting damage, he can make it impossible for the enemy to draw near.\n\n[In the first case, he will entice him with a bait; in the second, he will strike at some important point which the enemy will have to defend.]\n\n4. If the enemy is taking his ease, he can harass him;\n\n[This passage may be cited as evidence against Mei Yao- Ch’en’s interpretation of I. § 23.]\n\n[AOW-p032-B001 | pg132_art_of_war.txt | page 32]\n[In Frederick the Great’s _Instructions to his Generals_ we read: \"A defensive war is apt to betray us into too frequent detachment. Those generals who have had but little experience attempt to protect every point, while those who are better acquainted with their profession, having only the capital object in view, guard against a decisive blow, and acquiesce in small misfortunes to avoid greater.\"]\n\n18. Numerical weakness comes from having to prepare against possible attacks; numerical strength, from compelling our adversary to make these preparations against us.\n\n[The highest generalship, in Col. Henderson’s words, is \"to compel the enemy to disperse his army, and then to concentrate superior force against each fraction in turn.\"]\n\n19. Knowing the place and the time of the coming battle, we may concentrate from the greatest distances in order to fight.\n\n[AOW-p021-B002 | pg132_art_of_war.txt | page 21]\n[It is not easy to distinguish the four terms very clearly in the Chinese. The first seems to be surveying and measurement of the ground, which enable us to form an estimate of the enemy’s strength, and to make calculations based on the data thus obtained; we are thus led to a general weighing-up, or comparison of the enemy’s chances with our own; if the latter turn the scale, then victory ensues. The chief difficulty lies in third term, which in the Chinese some commentators take as a calculation of _numbers_, thereby making it nearly synonymous with the second term. Perhaps the second term should be thought of as a consideration of the enemy’s general position or condition, while the third term is the estimate of his numerical strength. On the other hand, Tu Mu says: \"The question of relative strength having been settled, we can bring the varied resources of cunning into play.\" Ho Shih seconds this interpretation, but weakens it. However, it points to the third term as being a calculation of numbers.]\n\n19. A victorious army opposed to a routed one, is as a pound’s weight placed in the scale against a single grain.\n\n[AOW-p018-B001 | pg132_art_of_war.txt | page 18]\n6. Standing on the defensive indicates insufficient strength; attacking, a superabundance of strength.\n\n7. The general who is skilled in defence hides in the most secret recesses of the earth;\n\n[Literally, \"hides under the ninth earth,\" which is a metaphor indicating the utmost secrecy and concealment, so that the enemy may not know his whereabouts.\"]\n\nhe who is skilled in attack flashes forth from the topmost heights of heaven.\n\n[Another metaphor, implying that he falls on his adversary like a thunderbolt, against which there is no time to prepare. This is the opinion of most of the commentators.]\n\nThus on the one hand we have ability to protect ourselves; on the other, a victory that is complete.\n\n8. To see victory only when it is within the ken of the common herd is not the acme of excellence.",
+    "events": [
+      {
+        "event": "search",
+        "query": "strike at an opponent's strength or weakness",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p027-B001",
+            "rank": 1,
+            "score": -0.51897,
+            "page": 27,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p028-B002",
+            "rank": 2,
+            "score": -2.71566,
+            "page": 28,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p032-B001",
+            "rank": 3,
+            "score": -2.88892,
+            "page": 32,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p021-B002",
+            "rank": 4,
+            "score": -3.93326,
+            "page": 21,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p018-B001",
+            "rank": 5,
+            "score": -3.94423,
+            "page": 18,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p027-B001",
+          "AOW-p028-B002",
+          "AOW-p032-B001",
+          "AOW-p021-B002",
+          "AOW-p018-B001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1189,
+        "prompt_tokens": 341,
+        "completion_tokens": 20,
+        "cost_usd": 6.315e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"strike at an opponent's strength or weakness\"}"
+      },
+      {
+        "ms": 2545,
+        "prompt_tokens": 1398,
+        "completion_tokens": 77,
+        "cost_usd": 0.0002559,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"An army should strike at an opponent's weakness rather than strength. Sun Tzu advises that one should simulate weakness to lure the enemy or strike at important points that the enemy must defend, indicating that exploiting weaknesses is a strategic advantage in warfare.\",\"citations\":[\"AOW-p027-B001\",\"AOW-p028-B002\"]}"
+      }
+    ],
+    "elapsed_s": 4.49,
+    "prompt_tokens": 1739,
+    "completion_tokens": 97,
+    "cost_usd": 0.000319
+  },
+  {
+    "query_id": "q08",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What should a commander consider alongside advantage in planning?",
+    "filter": null,
+    "status": "answered",
+    "answer": "A commander should consider both \"advantage and of disadvantage\" in planning, blending these considerations together to ensure a comprehensive strategy. This approach allows for the possibility of the enemy causing harm, which must be factored into calculations alongside the pursuit of advantage [AOW-p050-B001].",
+    "citations": [
+      "AOW-p050-B001"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "commander consider alongside advantage in planning"
+    ],
+    "final_context_ids": [
+      "AOW-p050-B001",
+      "AOW-p049-B001",
+      "AOW-p049-B002",
+      "AOW-p050-B002",
+      "AOW-p106-B001"
+    ],
+    "final_context": "[AOW-p050-B001 | pg132_art_of_war.txt | page 50]\n7. Hence in the wise leader’s plans, considerations of advantage and of disadvantage will be blended together.\n\n[\"Whether in an advantageous position or a disadvantageous one,\" says Ts’ao Kung, \"the opposite state should be always present to your mind.\"]\n\n8. If our expectation of advantage be tempered in this way, we may succeed in accomplishing the essential part of our schemes.\n\n[Tu Mu says: \"If we wish to wrest an advantage from the enemy, we must not fix our minds on that alone, but allow for the possibility of the enemy also doing some harm to us, and let this enter as a factor into our calculations.\"]\n\n9. If, on the other hand, in the midst of difficulties we are always ready to seize an advantage, we may extricate ourselves from misfortune.\n\n[AOW-p049-B001 | pg132_art_of_war.txt | page 49]\npositions which must not be contested, commands of the sovereign which must not be obeyed.\n\n[This is a hard saying for the Chinese, with their reverence for authority, and Wei Liao Tzŭ (quoted by Tu Mu) is moved to exclaim: \"Weapons are baleful instruments, strife is antagonistic to virtue, a military commander is the negation of civil order!\" The unpalatable fact remains, however, that even Imperial wishes must be subordinated to military necessity.]\n\n4. The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops.\n\n5. The general who does not understand these, may be well acquainted with the configuration of the country, yet he will not be able to turn his knowledge to practical account.\n\n[Literally, \"get the advantage of the ground,\" which means not only securing good positions, but availing oneself of natural advantages in every possible way. Chang Yu says: \"Every kind of ground is characterized by certain natural features, and also gives scope for a certain variability of plan. How it is possible to turn these natural features to account unless topographical knowledge is supplemented by versatility of mind?\"]\n\n[AOW-p049-B002 | pg132_art_of_war.txt | page 49]\n6. So, the student of war who is unversed in the art of war of varying his plans, even though he be acquainted with the Five Advantages, will fail to make the best use of his men.\n\n[Chia Lin tells us that these imply five obvious and generally advantageous lines of action, namely: \"if a certain road is short, it must be followed; if an army is isolated, it must be attacked; if a town is in a parlous condition, it must be besieged; if a position can be stormed, it must be attempted; and if consistent with military operations, the ruler’s commands must be obeyed.\" But there are circumstances which sometimes forbid a general to use these advantages. For instance, \"a certain road may be the shortest way for him, but if he knows that it abounds in natural obstacles, or that the enemy has laid an ambush on it, he will not follow that road. A hostile force may be open to attack, but if he knows that it is hard-pressed and likely to fight with desperation, he will refrain from striking,\" and so on.]\n\n[AOW-p050-B002 | pg132_art_of_war.txt | page 50]\n[Tu Mu says: \"If I wish to extricate myself from a dangerous position, I must consider not only the enemy’s ability to injure me, but also my own ability to gain an advantage over the enemy. If in my counsels these two considerations are properly blended, I shall succeed in liberating myself.... For instance; if I am surrounded by the enemy and only think of effecting an escape, the nervelessness of my policy will incite my adversary to pursue and crush me; it would be far better to encourage my men to deliver a bold counter-attack, and use the advantage thus gained to free myself from the enemy’s toils.\" See the story of Ts’ao Ts’ao, VII. § 35, note.]\n\n10. Reduce the hostile chiefs by inflicting damage on them;\n\n[AOW-p106-B001 | pg132_art_of_war.txt | page 106]\n16. Hence the saying: The enlightened ruler lays his plans well ahead; the good general cultivates his resources.\n\n[Tu Mu quotes the following from the _San Lueh_, ch. 2: \"The warlike prince controls his soldiers by his authority, kits them together by good faith, and by rewards makes them serviceable. If faith decays, there will be disruption; if rewards are deficient, commands will not be respected.\"]\n\n17. Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical.\n\n[Sun Tzŭ may at times appear to be over-cautious, but he never goes so far in that direction as the remarkable passage in the _Tao Te Ching_, ch. 69. \"I dare not take the initiative, but prefer to act on the defensive; I dare not advance an inch, but prefer to retreat a foot.\"]\n\n18. No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique.\n\n19. If it is to your advantage, make a forward move; if not, stay where you are.\n\n[This is repeated from XI. § 17. Here I feel convinced that it is an interpolation, for it is evident that § 20 ought to follow immediately on § 18.]",
+    "events": [
+      {
+        "event": "search",
+        "query": "commander consider alongside advantage in planning",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p050-B001",
+            "rank": 1,
+            "score": -3.15959,
+            "page": 50,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p049-B001",
+            "rank": 2,
+            "score": -5.12229,
+            "page": 49,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p049-B002",
+            "rank": 3,
+            "score": -5.14445,
+            "page": 49,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p050-B002",
+            "rank": 4,
+            "score": -6.49506,
+            "page": 50,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p106-B001",
+            "rank": 5,
+            "score": -7.52784,
+            "page": 106,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p050-B001",
+          "AOW-p049-B001",
+          "AOW-p049-B002",
+          "AOW-p050-B002",
+          "AOW-p106-B001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1696,
+        "prompt_tokens": 336,
+        "completion_tokens": 19,
+        "cost_usd": 6.18e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"commander consider alongside advantage in planning\"}"
+      },
+      {
+        "ms": 2391,
+        "prompt_tokens": 1529,
+        "completion_tokens": 80,
+        "cost_usd": 0.00027735,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"A commander should consider both \\\"advantage and of disadvantage\\\" in planning, blending these considerations together to ensure a comprehensive strategy. This approach allows for the possibility of the enemy causing harm, which must be factored into calculations alongside the pursuit of advantage [AOW-p050-B001].\",\"citations\":[\"AOW-p050-B001\"]}"
+      }
+    ],
+    "elapsed_s": 5.11,
+    "prompt_tokens": 1865,
+    "completion_tokens": 99,
+    "cost_usd": 0.000339
+  },
+  {
+    "query_id": "q09",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What two broad kinds of principalities are distinguished?",
+    "filter": null,
+    "status": "answered",
+    "answer": "The two broad kinds of principalities distinguished are those governed by a prince with a body of servants and those governed by a prince and barons, where the barons hold their dignity by \"antiquity of blood\" rather than by the grace of the prince. The former has a prince who is recognized as superior, while the latter has barons with their own subjects who recognize them as lords and hold them in natural affection [PRN-p012-B002].",
+    "citations": [
+      "PRN-p012-B002"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "two broad kinds of principalities"
+    ],
+    "final_context_ids": [
+      "PRN-p012-B002",
+      "PRN-p001-B001",
+      "PRN-p035-B001",
+      "PRN-p015-B001",
+      "PRN-p033-B001"
+    ],
+    "final_context": "[PRN-p012-B002 | pg1232_the_prince.txt | page 12]\nI answer that the principalities of which one has record are found to be governed in two different ways; either by a prince, with a body of servants, who assist him to govern the kingdom as ministers by his favour and permission; or by a prince and barons, who hold that dignity by antiquity of blood and not by the grace of the prince. Such barons have states and their own subjects, who recognize them as lords and hold them in natural affection. Those states that are governed by a prince and his servants hold their prince in more consideration, because in all the country there is no one who is recognized as superior to him, and if they yield obedience to another they do it as to a minister and official, and they do not bear him any particular affection.\n\nThe examples of these two governments in our time are the Turk and the King of France. The entire monarchy of the Turk is governed by one lord, the others are his servants; and, dividing his kingdom into sanjaks, he sends there different administrators, and shifts and changes them as he chooses.\n\n[PRN-p001-B001 | pg1232_the_prince.txt | page 1]\nAll states, all powers, that have held and hold rule over men have been and are either republics or principalities.\n\nPrincipalities are either hereditary, in which the family has been long established; or they are new.\n\nThe new are either entirely new, as was Milan to Francesco Sforza, or they are, as it were, members annexed to the hereditary state of the prince who has acquired them, as was the kingdom of Naples to that of the King of Spain.\n\nSuch dominions thus acquired are either accustomed to live under a prince, or to live in freedom; and are acquired either by the arms of the prince himself, or of others, or else by fortune or by ability.\n\n[PRN-p035-B001 | pg1232_the_prince.txt | page 35]\nIt only remains now to speak of ecclesiastical principalities, touching which all difficulties are prior to getting possession, because they are acquired either by capacity or good fortune, and they can be held without either; for they are sustained by the ancient ordinances of religion, which are so all-powerful, and of such a character that the principalities may be held no matter how their princes behave and live. These princes alone have states and do not defend them; and they have subjects and do not rule them; and the states, although unguarded, are not taken from them, and the subjects, although not ruled, do not care, and they have neither the desire nor the ability to alienate themselves. Such principalities only are secure and happy. But being upheld by powers, to which the human mind cannot reach, I shall speak no more of them, because, being exalted and maintained by God, it would be the act of a presumptuous and rash man to discuss them.\n\n[PRN-p015-B001 | pg1232_the_prince.txt | page 15]\nLet no one be surprised if, in speaking of entirely new principalities as I shall do, I adduce the highest examples both of prince and of state; because men, walking almost always in paths beaten by others, and following by imitation their deeds, are yet unable to keep entirely to the ways of others or attain to the power of those they imitate. A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savour of it. Let him act like the clever archers who, designing to hit the mark which yet appears too far distant, and knowing the limits to which the strength of their bow attains, take aim much higher than the mark, not to reach by their strength or arrow to so great a height, but to be able with the aid of so high an aim to hit the mark they wish to reach.\n\n[PRN-p033-B001 | pg1232_the_prince.txt | page 33]\nIt is necessary to consider another point in examining the character of these principalities: that is, whether a prince has such power that, in case of need, he can support himself with his own resources, or whether he has always need of the assistance of others. And to make this quite clear I say that I consider those who are able to support themselves by their own resources who can, either by abundance of men or money, raise a sufficient army to join battle against any one who comes to attack them; and I consider those always to have need of others who cannot show themselves against the enemy in the field, but are forced to defend themselves by sheltering behind walls. The first case has been discussed, but we will speak of it again should it recur. In the second case one can say nothing except to encourage such princes to provision and fortify their towns, and not on any account to defend the country.",
+    "events": [
+      {
+        "event": "search",
+        "query": "two broad kinds of principalities",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p012-B002",
+            "rank": 1,
+            "score": 0.73881,
+            "page": 12,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p001-B001",
+            "rank": 2,
+            "score": -0.02707,
+            "page": 1,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p035-B001",
+            "rank": 3,
+            "score": -0.95062,
+            "page": 35,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p015-B001",
+            "rank": 4,
+            "score": -3.23296,
+            "page": 15,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p033-B001",
+            "rank": 5,
+            "score": -3.61394,
+            "page": 33,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p012-B002",
+          "PRN-p001-B001",
+          "PRN-p035-B001",
+          "PRN-p015-B001",
+          "PRN-p033-B001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1220,
+        "prompt_tokens": 336,
+        "completion_tokens": 18,
+        "cost_usd": 6.12e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"two broad kinds of principalities\"}"
+      },
+      {
+        "ms": 2803,
+        "prompt_tokens": 1386,
+        "completion_tokens": 117,
+        "cost_usd": 0.0002781,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"The two broad kinds of principalities distinguished are those governed by a prince with a body of servants and those governed by a prince and barons, where the barons hold their dignity by \\\"antiquity of blood\\\" rather than by the grace of the prince. The former has a prince who is recognized as superior, while the latter has barons with their own subjects who recognize them as lords and hold them in natural affection [PRN-p012-B002].\",\"citations\":[\"PRN-p012-B002\"]}"
+      }
+    ],
+    "elapsed_s": 4.81,
+    "prompt_tokens": 1722,
+    "completion_tokens": 135,
+    "cost_usd": 0.000339
+  },
+  {
+    "query_id": "q10",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "Why are inherited states easier to maintain than newly acquired ones?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "inherited states easier to maintain than newly acquired ones"
+    ],
+    "final_context_ids": [
+      "PRN-p002-B001",
+      "PRN-p004-B002",
+      "PRN-p005-B001",
+      "PRN-p012-B001",
+      "PRN-p014-B001"
+    ],
+    "final_context": "[PRN-p002-B001 | pg1232_the_prince.txt | page 2]\nI will leave out all discussion on republics, inasmuch as in another place I have written of them at length, and will address myself only to principalities. In doing so I will keep to the order indicated above, and discuss how such principalities are to be ruled and preserved.\n\nI say at once there are fewer difficulties in holding hereditary states, and those long accustomed to the family of their prince, than new ones; for it is sufficient only not to transgress the customs of his ancestors, and to deal prudently with circumstances as they arise, for a prince of average powers to maintain himself in his state, unless he be deprived of it by some extraordinary and excessive force; and if he should be so deprived of it, whenever anything sinister happens to the usurper, he will regain it.\n\n[PRN-p004-B002 | pg1232_the_prince.txt | page 4]\nNow I say that those dominions which, when acquired, are added to an ancient state by him who acquires them, are either of the same country and language, or they are not. When they are, it is easier to hold them, especially when they have not been accustomed to self-government; and to hold them securely it is enough to have destroyed the family of the prince who was ruling them; because the two peoples, preserving in other things the old conditions, and not being unlike in customs, will live quietly together, as one has seen in Brittany, Burgundy, Gascony, and Normandy, which have been bound to France for so long a time: and, although there may be some difference in language, nevertheless the customs are alike, and the people will easily be able to get on amongst themselves. He who has annexed them, if he wishes to hold them, has only to bear in mind two considerations: the one, that the family of their former lord is extinguished; the other, that neither their laws nor their taxes are altered, so that in a very short time they will become entirely one body with the old principality.\n\n[PRN-p005-B001 | pg1232_the_prince.txt | page 5]\nBut when states are acquired in a country differing in language, customs, or laws, there are difficulties, and good fortune and great energy are needed to hold them, and one of the greatest and most real helps would be that he who has acquired them should go and reside there. This would make his position more secure and durable, as it has made that of the Turk in Greece, who, notwithstanding all the other measures taken by him for holding that state, if he had not settled there, would not have been able to keep it. Because, if one is on the spot, disorders are seen as they spring up, and one can quickly remedy them; but if one is not at hand, they are heard of only when they are great, and then one can no longer remedy them. Besides this, the country is not pillaged by your officials; the subjects are satisfied by prompt recourse to the prince; thus, wishing to be good, they have more cause to love him, and wishing to be otherwise, to fear him. He who would attack that state from the outside must have the utmost caution; as long as the prince resides there it can only be wrested from him with the greatest difficulty.\n\n[PRN-p012-B001 | pg1232_the_prince.txt | page 12]\nConsidering the difficulties which men have had to hold to a newly acquired state, some might wonder how, seeing that Alexander the Great became the master of Asia in a few years, and died whilst it was scarcely settled (whence it might appear reasonable that the whole empire would have rebelled), nevertheless his successors maintained themselves, and had to meet no other difficulty than that which arose among themselves from their own ambitions.\n\n[PRN-p014-B001 | pg1232_the_prince.txt | page 14]\nWhenever those states which have been acquired as stated have been accustomed to live under their own laws and in freedom, there are three courses for those who wish to hold them: the first is to ruin them, the next is to reside there in person, the third is to permit them to live under their own laws, drawing a tribute, and establishing within it an oligarchy which will keep it friendly to you. Because such a government, being created by the prince, knows that it cannot stand without his friendship and interest, and does its utmost to support him; and therefore he who would keep a city accustomed to freedom will hold it more easily by the means of its own citizens than in any other way.",
+    "events": [
+      {
+        "event": "search",
+        "query": "inherited states easier to maintain than newly acquired ones",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p002-B001",
+            "rank": 1,
+            "score": 1.78609,
+            "page": 2,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p004-B002",
+            "rank": 2,
+            "score": 1.12638,
+            "page": 4,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p005-B001",
+            "rank": 3,
+            "score": 1.07025,
+            "page": 5,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p012-B001",
+            "rank": 4,
+            "score": -0.14287,
+            "page": 12,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p014-B001",
+            "rank": 5,
+            "score": -0.61064,
+            "page": 14,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p002-B001",
+          "PRN-p004-B002",
+          "PRN-p005-B001",
+          "PRN-p012-B001",
+          "PRN-p014-B001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1809,
+        "prompt_tokens": 338,
+        "completion_tokens": 22,
+        "cost_usd": 6.39e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"inherited states easier to maintain than newly acquired ones\"}"
+      },
+      {
+        "ms": 3282,
+        "prompt_tokens": 1318,
+        "completion_tokens": 101,
+        "cost_usd": 0.0002583,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"Inherited states are easier to maintain than newly acquired ones because they are \\\"long accustomed to the family of their prince,\\\" requiring only that the prince \\\"not transgress the customs of his ancestors\\\" to preserve stability. In contrast, newly acquired states often present significant challenges, especially if they differ in language or customs, necessitating greater effort and resources to secure them.\",\"citations\":[\"PRN-p002-B001\",\"PRN-p005-B001\"]}"
+      }
+    ],
+    "elapsed_s": 5.77,
+    "prompt_tokens": 1656,
+    "completion_tokens": 123,
+    "cost_usd": 0.000322
+  },
+  {
+    "query_id": "q11",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What alternative to a large occupying army is recommended for acquired territory?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 3,
+    "queries": [
+      "alternative to a large occupying army for acquired territory",
+      "alternative to large occupying army in acquired territory",
+      "large occupying army alternative acquired territory"
+    ],
+    "final_context_ids": [
+      "AOW-p077-B001",
+      "PRN-p040-B003",
+      "AOW-p022-B001",
+      "PRN-p069-B003",
+      "AOW-p090-B001",
+      "AOW-p041-B001"
+    ],
+    "final_context": "[AOW-p077-B001 | pg132_art_of_war.txt | page 77]\n[The situation, as pictured by Ts’ao Kung, is very similar to the \"hemmed-in ground\" except that here escape is no longer possible: \"A lofty mountain in front, a large river behind, advance impossible, retreat blocked.\" Ch’en Hao says: \"to be on ‘desperate ground’ is like sitting in a leaking boat or crouching in a burning house.\" Tu Mu quotes from Li Ching a vivid description of the plight of an army thus entrapped: \"Suppose an army invading hostile territory without the aid of local guides:—it falls into a fatal snare and is at the enemy’s mercy. A ravine on the left, a mountain on the right, a pathway so perilous that the horses have to be roped together and the chariots carried in slings, no passage open in front, retreat cut off behind, no choice but to proceed in single file. Then, before there is time to range our soldiers in order of battle, the enemy is overwhelming strength suddenly appears on the scene. Advancing, we can nowhere take a breathing-space; retreating, we have no haven of refuge. We seek a pitched battle, but in vain; yet standing on the defensive, none of us has a moment’s respite.\n\n[PRN-p040-B003 | pg1232_the_prince.txt | page 40]\nAnd in the beginning of their expansion on land, through not having much territory, and because of their great reputation, they had not much to fear from their captains; but when they expanded, as under Carmignuola,[5] they had a taste of this mistake; for, having found him a most valiant man (they beat the Duke of Milan under his leadership), and, on the other hand, knowing how lukewarm he was in the war, they feared they would no longer conquer under him, and for this reason they were not willing, nor were they able, to let him go; and so, not to lose again that which they had acquired, they were compelled, in order to secure themselves, to murder him. They had afterwards for their captains Bartolomeo da Bergamo, Roberto da San Severino, the count of Pitigliano,[6] and the like, under whom they had to dread loss and not gain, as happened afterwards at Vaila,[7] where in one battle they lost that which in eight hundred years they had acquired with so much trouble. Because from such arms conquests come but slowly, long delayed and inconsiderable, but the losses sudden and portentous.\n\n[AOW-p022-B001 | pg132_art_of_war.txt | page 22]\n1. Sun Tzŭ said: The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers.\n\n[That is, cutting up the army into regiments, companies, etc., with subordinate officers in command of each. Tu Mu reminds us of Han Hsin’s famous reply to the first Han Emperor, who once said to him: \"How large an army do you think I could lead?\" \"Not more than 100,000 men, your Majesty.\" \"And you?\" asked the Emperor. \"Oh!\" he answered, \"the more the better.\"]\n\n2. Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.\n\n3. To ensure that your whole host may withstand the brunt of the enemy’s attack and remain unshaken—this is effected by manœuvers direct and indirect.\n\n[We now come to one of the most interesting parts of Sun Tzŭ’s treatise, the discussion of the _cheng_ and the _ch’i_.\" As it is by no means easy to grasp the full significance of these two terms, or to render them consistently by good English equivalents; it may be as well to tabulate some of the commentators’ remarks on the subject before proceeding further.\n\n[PRN-p069-B003 | pg1232_the_prince.txt | page 69]\nBut when a prince acquires a new state, which he adds as a province to his old one, then it is necessary to disarm the men of that state, except those who have been his adherents in acquiring it; and these again, with time and opportunity, should be rendered soft and effeminate; and matters should be managed in such a way that all the armed men in the state shall be your own soldiers who in your old state were living near you.\n\n[AOW-p090-B001 | pg132_art_of_war.txt | page 90]\n41. The different measures suited to the nine varieties of ground;\n\n[Chang Yu says: \"One must not be hide-bound in interpreting the rules for the nine varieties of ground.\"]\n\nthe expediency of aggressive or defensive tactics; and the fundamental laws of human nature: these are things that must most certainly be studied.\n\n42. When invading hostile territory, the general principle is, that penetrating deeply brings cohesion; penetrating but a short way means dispersion.\n\n[Cf. _supra_, § 20.]\n\n43. When you leave your own country behind, and take your army across neighbourhood territory, you find yourself on critical ground.\n\n[AOW-p041-B001 | pg132_art_of_war.txt | page 41]\n20. When you plunder a countryside, let the spoil be divided amongst your men;\n\n[Sun Tzŭ wishes to lessen the abuses of indiscriminate plundering by insisting that all booty shall be thrown into a common stock, which may afterwards be fairly divided amongst all.]\n\nwhen you capture new territory, cut it up into allotments for the benefit of the soldiery.\n\n[Ch’en Hao says \"quarter your soldiers on the land, and let them sow and plant it.\" It is by acting on this principle, and harvesting the lands they invaded, that the Chinese have succeeded in carrying out some of their most memorable and triumphant expeditions, such as that of Pan Ch’ao who penetrated to the Caspian, and in more recent years, those of Fu-k’ang-an and Tso Tsung-t’ang.]\n\n21. Ponder and deliberate before you make a move.\n\n[Chang Yu quotes Wei Liao Tzŭ as saying that we must not break camp until we have gained the resisting power of the enemy and the cleverness of the opposing general. Cf. the \"seven comparisons\" in I. § 13.]\n\n22. He will conquer who has learnt the artifice of deviation.\n\n[See _supra_, §§ 3, 4.]\n\nSuch is the art of manœuvering.",
+    "events": [
+      {
+        "event": "search",
+        "query": "alternative to a large occupying army for acquired territory",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p077-B001",
+            "rank": 1,
+            "score": -5.96877,
+            "page": 77,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "PRN-p040-B003",
+            "rank": 2,
+            "score": -6.12937,
+            "page": 40,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p022-B001",
+            "rank": 3,
+            "score": -7.5701,
+            "page": 22,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "PRN-p069-B003",
+            "rank": 4,
+            "score": -7.64645,
+            "page": 69,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p090-B001",
+            "rank": 5,
+            "score": -8.03323,
+            "page": 90,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p077-B001",
+          "PRN-p040-B003",
+          "AOW-p022-B001",
+          "PRN-p069-B003",
+          "AOW-p090-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "alternative to large occupying army in acquired territory",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p040-B003",
+            "rank": 1,
+            "score": -7.08295,
+            "page": 40,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p077-B001",
+            "rank": 2,
+            "score": -7.1167,
+            "page": 77,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p022-B001",
+            "rank": 3,
+            "score": -7.83157,
+            "page": 22,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p041-B001",
+            "rank": 4,
+            "score": -8.27189,
+            "page": 41,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p090-B001",
+            "rank": 5,
+            "score": -8.50762,
+            "page": 90,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p077-B001",
+          "PRN-p040-B003",
+          "AOW-p022-B001",
+          "PRN-p069-B003",
+          "AOW-p090-B001",
+          "AOW-p041-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "large occupying army alternative acquired territory",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p040-B003",
+            "rank": 1,
+            "score": -7.64351,
+            "page": 40,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p077-B001",
+            "rank": 2,
+            "score": -7.66447,
+            "page": 77,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p041-B001",
+            "rank": 3,
+            "score": -9.06505,
+            "page": 41,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p022-B001",
+            "rank": 4,
+            "score": -9.35943,
+            "page": 22,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p048-B002",
+            "rank": 5,
+            "score": -9.48218,
+            "page": 48,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p077-B001",
+          "PRN-p040-B003",
+          "AOW-p022-B001",
+          "PRN-p069-B003",
+          "AOW-p090-B001",
+          "AOW-p041-B001"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1735,
+        "prompt_tokens": 339,
+        "completion_tokens": 21,
+        "cost_usd": 6.345e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"alternative to a large occupying army for acquired territory\"}"
+      },
+      {
+        "ms": 1577,
+        "prompt_tokens": 1463,
+        "completion_tokens": 20,
+        "cost_usd": 0.00023145,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"alternative to large occupying army in acquired territory\"}"
+      },
+      {
+        "ms": 2495,
+        "prompt_tokens": 1763,
+        "completion_tokens": 54,
+        "cost_usd": 0.00029685,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\": \"large occupying army alternative acquired territory\"}"
+      },
+      {
+        "ms": 2183,
+        "prompt_tokens": 1782,
+        "completion_tokens": 56,
+        "cost_usd": 0.0003009,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\": \"alternative to large occupying army in acquired territory\"}"
+      }
+    ],
+    "elapsed_s": 10.41,
+    "prompt_tokens": 5347,
+    "completion_tokens": 151,
+    "cost_usd": 0.000893
+  },
+  {
+    "query_id": "q12",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What are the two ways kingdoms are governed?",
+    "filter": null,
+    "status": "answered",
+    "answer": "Kingdoms are governed in two ways: either by a prince with a body of servants who assist him, or by a prince and barons who hold their position by blood and have their own subjects. The former leads to greater consideration for the prince, while the latter allows barons to have their own states and subjects who recognize them as lords [PRN-p012-B002].",
+    "citations": [
+      "PRN-p012-B002"
+    ],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "two ways kingdoms are governed"
+    ],
+    "final_context_ids": [
+      "PRN-p012-B002",
+      "PRN-p062-B001",
+      "PRN-p013-B001",
+      "AOW-p014-B002",
+      "PRN-p029-B002"
+    ],
+    "final_context": "[PRN-p012-B002 | pg1232_the_prince.txt | page 12]\nI answer that the principalities of which one has record are found to be governed in two different ways; either by a prince, with a body of servants, who assist him to govern the kingdom as ministers by his favour and permission; or by a prince and barons, who hold that dignity by antiquity of blood and not by the grace of the prince. Such barons have states and their own subjects, who recognize them as lords and hold them in natural affection. Those states that are governed by a prince and his servants hold their prince in more consideration, because in all the country there is no one who is recognized as superior to him, and if they yield obedience to another they do it as to a minister and official, and they do not bear him any particular affection.\n\nThe examples of these two governments in our time are the Turk and the King of France. The entire monarchy of the Turk is governed by one lord, the others are his servants; and, dividing his kingdom into sanjaks, he sends there different administrators, and shifts and changes them as he chooses.\n\n[PRN-p062-B001 | pg1232_the_prince.txt | page 62]\nAmong the best ordered and governed kingdoms of our times is France, and in it are found many good institutions on which depend the liberty and security of the king; of these the first is the parliament and its authority, because he who founded the kingdom, knowing the ambition of the nobility and their boldness, considered that a bit to their mouths would be necessary to hold them in; and, on the other side, knowing the hatred of the people, founded in fear, against the nobles, he wished to protect them, yet he was not anxious for this to be the particular care of the king; therefore, to take away the reproach which he would be liable to from the nobles for favouring the people, and from the people for favouring the nobles, he set up an arbiter, who should be one who could beat down the great and favour the lesser without reproach to the king. Neither could you have a better or a more prudent arrangement, or a greater source of security to the king and kingdom. From this one can draw another important conclusion, that princes ought to leave affairs of reproach to the management of others, and keep those of grace in their own hands.\n\n[PRN-p013-B001 | pg1232_the_prince.txt | page 13]\nThe contrary happens in kingdoms governed like that of France, because one can easily enter there by gaining over some baron of the kingdom, for one always finds malcontents and such as desire a change. Such men, for the reasons given, can open the way into the state and render the victory easy; but if you wish to hold it afterwards, you meet with infinite difficulties, both from those who have assisted you and from those you have crushed. Nor is it enough for you to have exterminated the family of the prince, because the lords that remain make themselves the heads of fresh movements against you, and as you are unable either to satisfy or exterminate them, that state is lost whenever time brings the opportunity.\n\n[AOW-p014-B002 | pg132_art_of_war.txt | page 14]\n[Li Ch’uan adds the comment: \"It is like tying together the legs of a thoroughbred, so that it is unable to gallop.\" One would naturally think of \"the ruler\" in this passage as being at home, and trying to direct the movements of his army from a distance. But the commentators understand just the reverse, and quote the saying of T’ai Kung: \"A kingdom should not be governed from without, and army should not be directed from within.\" Of course it is true that, during an engagement, or when in close touch with the enemy, the general should not be in the thick of his own troops, but a little distance apart. Otherwise, he will be liable to misjudge the position as a whole, and give wrong orders.]\n\n14. (2) By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions which obtain in an army. This causes restlessness in the soldier’s minds.\n\n[PRN-p029-B002 | pg1232_the_prince.txt | page 29]\nA principality is created either by the people or by the nobles, accordingly as one or other of them has the opportunity; for the nobles, seeing they cannot withstand the people, begin to cry up the reputation of one of themselves, and they make him a prince, so that under his shadow they can give vent to their ambitions. The people, finding they cannot resist the nobles, also cry up the reputation of one of themselves, and make him a prince so as to be defended by his authority. He who obtains sovereignty by the assistance of the nobles maintains himself with more difficulty than he who comes to it by the aid of the people, because the former finds himself with many around him who consider themselves his equals, and because of this he can neither rule nor manage them to his liking. But he who reaches sovereignty by popular favour finds himself alone, and has none around him, or few, who are not prepared to obey him.",
+    "events": [
+      {
+        "event": "search",
+        "query": "two ways kingdoms are governed",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p012-B002",
+            "rank": 1,
+            "score": 6.89029,
+            "page": 12,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p062-B001",
+            "rank": 2,
+            "score": 3.4637,
+            "page": 62,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p013-B001",
+            "rank": 3,
+            "score": 2.84108,
+            "page": 13,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "AOW-p014-B002",
+            "rank": 4,
+            "score": -0.76691,
+            "page": 14,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "PRN-p029-B002",
+            "rank": 5,
+            "score": -0.78384,
+            "page": 29,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p012-B002",
+          "PRN-p062-B001",
+          "PRN-p013-B001",
+          "AOW-p014-B002",
+          "PRN-p029-B002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1496,
+        "prompt_tokens": 335,
+        "completion_tokens": 17,
+        "cost_usd": 6.045e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"two ways kingdoms are governed\"}"
+      },
+      {
+        "ms": 2651,
+        "prompt_tokens": 1436,
+        "completion_tokens": 101,
+        "cost_usd": 0.000276,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"Kingdoms are governed in two ways: either by a prince with a body of servants who assist him, or by a prince and barons who hold their position by blood and have their own subjects. The former leads to greater consideration for the prince, while the latter allows barons to have their own states and subjects who recognize them as lords [PRN-p012-B002].\",\"citations\":[\"PRN-p012-B002\"]}"
+      }
+    ],
+    "elapsed_s": 4.88,
+    "prompt_tokens": 1771,
+    "completion_tokens": 118,
+    "cost_usd": 0.000336
+  },
+  {
+    "query_id": "q13",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What three broad courses are listed for holding states accustomed to their own laws?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "three broad courses for holding states accustomed to their own laws"
+    ],
+    "final_context_ids": [
+      "PRN-p014-B001",
+      "PRN-p002-B001",
+      "PRN-p005-B001",
+      "PRN-p004-B002",
+      "PRN-p038-B001"
+    ],
+    "final_context": "[PRN-p014-B001 | pg1232_the_prince.txt | page 14]\nWhenever those states which have been acquired as stated have been accustomed to live under their own laws and in freedom, there are three courses for those who wish to hold them: the first is to ruin them, the next is to reside there in person, the third is to permit them to live under their own laws, drawing a tribute, and establishing within it an oligarchy which will keep it friendly to you. Because such a government, being created by the prince, knows that it cannot stand without his friendship and interest, and does its utmost to support him; and therefore he who would keep a city accustomed to freedom will hold it more easily by the means of its own citizens than in any other way.\n\n[PRN-p002-B001 | pg1232_the_prince.txt | page 2]\nI will leave out all discussion on republics, inasmuch as in another place I have written of them at length, and will address myself only to principalities. In doing so I will keep to the order indicated above, and discuss how such principalities are to be ruled and preserved.\n\nI say at once there are fewer difficulties in holding hereditary states, and those long accustomed to the family of their prince, than new ones; for it is sufficient only not to transgress the customs of his ancestors, and to deal prudently with circumstances as they arise, for a prince of average powers to maintain himself in his state, unless he be deprived of it by some extraordinary and excessive force; and if he should be so deprived of it, whenever anything sinister happens to the usurper, he will regain it.\n\n[PRN-p005-B001 | pg1232_the_prince.txt | page 5]\nBut when states are acquired in a country differing in language, customs, or laws, there are difficulties, and good fortune and great energy are needed to hold them, and one of the greatest and most real helps would be that he who has acquired them should go and reside there. This would make his position more secure and durable, as it has made that of the Turk in Greece, who, notwithstanding all the other measures taken by him for holding that state, if he had not settled there, would not have been able to keep it. Because, if one is on the spot, disorders are seen as they spring up, and one can quickly remedy them; but if one is not at hand, they are heard of only when they are great, and then one can no longer remedy them. Besides this, the country is not pillaged by your officials; the subjects are satisfied by prompt recourse to the prince; thus, wishing to be good, they have more cause to love him, and wishing to be otherwise, to fear him. He who would attack that state from the outside must have the utmost caution; as long as the prince resides there it can only be wrested from him with the greatest difficulty.\n\n[PRN-p004-B002 | pg1232_the_prince.txt | page 4]\nNow I say that those dominions which, when acquired, are added to an ancient state by him who acquires them, are either of the same country and language, or they are not. When they are, it is easier to hold them, especially when they have not been accustomed to self-government; and to hold them securely it is enough to have destroyed the family of the prince who was ruling them; because the two peoples, preserving in other things the old conditions, and not being unlike in customs, will live quietly together, as one has seen in Brittany, Burgundy, Gascony, and Normandy, which have been bound to France for so long a time: and, although there may be some difference in language, nevertheless the customs are alike, and the people will easily be able to get on amongst themselves. He who has annexed them, if he wishes to hold them, has only to bear in mind two considerations: the one, that the family of their former lord is extinguished; the other, that neither their laws nor their taxes are altered, so that in a very short time they will become entirely one body with the old principality.\n\n[PRN-p038-B001 | pg1232_the_prince.txt | page 38]\nHaving discoursed particularly on the characteristics of such principalities as in the beginning I proposed to discuss, and having considered in some degree the causes of there being good or bad, and having shown the methods by which many have sought to acquire them and to hold them, it now remains for me to discuss generally the means of offence and defence which belong to each of them.\n\nWe have seen above how necessary it is for a prince to have his foundations well laid, otherwise it follows of necessity he will go to ruin. The chief foundations of all states, new as well as old or composite, are good laws and good arms; and as there cannot be good laws where the state is not well armed, it follows that where they are well armed they have good laws. I shall leave the laws out of the discussion and shall speak of the arms.\n\nI say, therefore, that the arms with which a prince defends his state are either his own, or they are mercenaries, auxiliaries, or mixed.",
+    "events": [
+      {
+        "event": "search",
+        "query": "three broad courses for holding states accustomed to their own laws",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p014-B001",
+            "rank": 1,
+            "score": 7.30583,
+            "page": 14,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p002-B001",
+            "rank": 2,
+            "score": -3.04403,
+            "page": 2,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p005-B001",
+            "rank": 3,
+            "score": -4.03052,
+            "page": 5,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p004-B002",
+            "rank": 4,
+            "score": -4.52245,
+            "page": 4,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p038-B001",
+            "rank": 5,
+            "score": -4.80636,
+            "page": 38,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p014-B001",
+          "PRN-p002-B001",
+          "PRN-p005-B001",
+          "PRN-p004-B002",
+          "PRN-p038-B001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1286,
+        "prompt_tokens": 341,
+        "completion_tokens": 23,
+        "cost_usd": 6.495e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"three broad courses for holding states accustomed to their own laws\"}"
+      },
+      {
+        "ms": 2304,
+        "prompt_tokens": 1443,
+        "completion_tokens": 68,
+        "cost_usd": 0.00025725,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"The three broad courses for holding states accustomed to their own laws are: to ruin them, to reside there in person, or to permit them to live under their own laws while establishing an oligarchy to maintain loyalty to the prince.\",\"citations\":[\"PRN-p014-B001\"]}"
+      }
+    ],
+    "elapsed_s": 4.31,
+    "prompt_tokens": 1784,
+    "completion_tokens": 91,
+    "cost_usd": 0.000322
+  },
+  {
+    "query_id": "q14",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "Why is introducing a new order especially hazardous?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 1,
+    "queries": [
+      "introducing a new order especially hazardous"
+    ],
+    "final_context_ids": [
+      "PRN-p016-B002",
+      "PRN-p084-B001",
+      "PRN-p087-B002",
+      "PRN-p032-B001",
+      "PRN-p024-B003"
+    ],
+    "final_context": "[PRN-p016-B002 | pg1232_the_prince.txt | page 16]\nThose who by valorous ways become princes, like these men, acquire a principality with difficulty, but they keep it with ease. The difficulties they have in acquiring it rise in part from the new rules and methods which they are forced to introduce to establish their government and its security. And it ought to be remembered that there is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things, because the innovator has for enemies all those who have done well under the old conditions, and lukewarm defenders in those who may do well under the new. This coolness arises partly from fear of the opponents, who have the laws on their side, and partly from the incredulity of men, who do not readily believe in new things until they have had a long experience of them. Thus it happens that whenever those who are hostile have the opportunity to attack they do it like partisans, whilst the others defend lukewarmly, in such wise that the prince is endangered along with them.\n\n[PRN-p084-B001 | pg1232_the_prince.txt | page 84]\nHaving carefully considered the subject of the above discourses, and wondering within myself whether the present times were propitious to a new prince, and whether there were elements that would give an opportunity to a wise and virtuous one to introduce a new order of things which would do honour to him and good to the people of this country, it appears to me that so many things concur to favour a new prince that I never knew a time more fit than the present.\n\nAnd if, as I said, it was necessary that the people of Israel should be captive so as to make manifest the ability of Moses; that the Persians should be oppressed by the Medes so as to discover the greatness of the soul of Cyrus; and that the Athenians should be dispersed to illustrate the capabilities of Theseus: then at the present time, in order to discover the virtue of an Italian spirit, it was necessary that Italy should be reduced to the extremity that she is now in, that she should be more enslaved than the Hebrews, more oppressed than the Persians, more scattered than the Athenians; without head, without order, beaten, despoiled, torn, overrun; and to have endured every kind of desolation.\n\n[PRN-p087-B002 | pg1232_the_prince.txt | page 87]\nIt is possible, therefore, knowing the defects of both these infantries, to invent a new one, which will resist cavalry and not be afraid of infantry; this need not create a new order of arms, but a variation upon the old. And these are the kind of improvements which confer reputation and power upon a new prince.\n\nThis opportunity, therefore, ought not to be allowed to pass for letting Italy at last see her liberator appear. Nor can one express the love with which he would be received in all those provinces which have suffered so much from these foreign scourings, with what thirst for revenge, with what stubborn faith, with what devotion, with what tears. What door would be closed to him? Who would refuse obedience to him? What envy would hinder him? What Italian would refuse him homage? To all of us this barbarous dominion stinks. Let, therefore, your illustrious house take up this charge with that courage and hope with which all just enterprises are undertaken, so that under its standard our native country may be ennobled, and under its auspices may be verified that saying of Petrarch:\n\n[PRN-p032-B001 | pg1232_the_prince.txt | page 32]\n[1] Nabis, tyrant of Sparta, conquered by the Romans under Flamininus in 195 B.C.; killed 192 B.C.\n\n[2] Messer Giorgio Scali. This event is to be found in Machiavelli’s “Florentine History,” Book III.\n\nThese principalities are liable to danger when they are passing from the civil to the absolute order of government, for such princes either rule personally or through magistrates. In the latter case their government is weaker and more insecure, because it rests entirely on the goodwill of those citizens who are raised to the magistracy, and who, especially in troubled times, can destroy the government with great ease, either by intrigue or open defiance; and the prince has not the chance amid tumults to exercise absolute authority, because the citizens and subjects, accustomed to receive orders from magistrates, are not of a mind to obey him amid these confusions, and there will always be in doubtful times a scarcity of men whom he can trust.\n\n[PRN-p024-B003 | pg1232_the_prince.txt | page 24]\nWhen all the actions of the duke are recalled, I do not know how to blame him, but rather it appears to be, as I have said, that I ought to offer him for imitation to all those who, by the fortune or the arms of others, are raised to government. Because he, having a lofty spirit and far-reaching aims, could not have regulated his conduct otherwise, and only the shortness of the life of Alexander and his own sickness frustrated his designs. Therefore, he who considers it necessary to secure himself in his new principality, to win friends, to overcome either by force or fraud, to make himself beloved and feared by the people, to be followed and revered by the soldiers, to exterminate those who have power or reason to hurt him, to change the old order of things for new, to be severe and gracious, magnanimous and liberal, to destroy a disloyal soldiery and to create new, to maintain friendship with kings and princes in such a way that they must help him with zeal and offend with caution, cannot find a more lively example than the actions of this man.",
+    "events": [
+      {
+        "event": "search",
+        "query": "introducing a new order especially hazardous",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p016-B002",
+            "rank": 1,
+            "score": -3.05179,
+            "page": 16,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p084-B001",
+            "rank": 2,
+            "score": -5.6787,
+            "page": 84,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p087-B002",
+            "rank": 3,
+            "score": -8.69667,
+            "page": 87,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p032-B001",
+            "rank": 4,
+            "score": -10.89134,
+            "page": 32,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p024-B003",
+            "rank": 5,
+            "score": -10.91906,
+            "page": 24,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p016-B002",
+          "PRN-p084-B001",
+          "PRN-p087-B002",
+          "PRN-p032-B001",
+          "PRN-p024-B003"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1172,
+        "prompt_tokens": 335,
+        "completion_tokens": 19,
+        "cost_usd": 6.165e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"introducing a new order especially hazardous\"}"
+      },
+      {
+        "ms": 3272,
+        "prompt_tokens": 1579,
+        "completion_tokens": 93,
+        "cost_usd": 0.00029265,
+        "model": "openai/gpt-4o-mini",
+        "tool": "answer",
+        "arguments": "{\"answer\":\"Introducing a new order is especially hazardous because the innovator faces opposition from those who benefited under the old regime and finds only lukewarm support from those who might benefit from the new. This situation creates a perilous environment where the innovator is vulnerable to attacks from opponents while lacking strong defenders, making the success of such changes uncertain and difficult to manage.\",\"citations\":[\"PRN-p016-B002\"]}"
+      }
+    ],
+    "elapsed_s": 5.18,
+    "prompt_tokens": 1914,
+    "completion_tokens": 112,
+    "cost_usd": 0.000354
+  },
+  {
+    "query_id": "q15",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What kinds of troops can defend a state?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 3,
+    "queries": [
+      "types of troops defend a state",
+      "types of troops that can defend a state",
+      "types of troops that can defend a state"
+    ],
+    "final_context_ids": [
+      "AOW-p096-B001",
+      "AOW-p014-B001",
+      "AOW-p082-B001",
+      "AOW-p087-B003",
+      "AOW-p029-B001"
+    ],
+    "final_context": "[AOW-p096-B001 | pg132_art_of_war.txt | page 96]\n[Mei Tao-ch’en constructs one of the chains of reasoning that are so much affected by the Chinese: \"In attacking a powerful state, if you can divide her forces, you will have a superiority in strength; if you have a superiority in strength, you will overawe the enemy; if you overawe the enemy, the neighbouring states will be frightened; and if the neighbouring states are frightened, the enemy’s allies will be prevented from joining her.\" The following gives a stronger meaning: \"If the great state has once been defeated (before she has had time to summon her allies), then the lesser states will hold aloof and refrain from massing their forces.\" Ch’en Hao and Chang Yu take the sentence in quite another way. The former says: \"Powerful though a prince may be, if he attacks a large state, he will be unable to raise enough troops, and must rely to some extent on external aid; if he dispenses with this, and with overweening confidence in his own strength, simply tries to intimidate the enemy, he will surely be defeated.\" Chang Yu puts his view thus: \"If we recklessly attack a large state, our own people will be discontented and hang back.\n\n[AOW-p014-B001 | pg132_art_of_war.txt | page 14]\nif quite unequal in every way, we can flee from him.\n\n10. Hence, though an obstinate fight may be made by a small force, in the end it must be captured by the larger force.\n\n11. Now the general is the bulwark of the State: if the bulwark is complete at all points; the State will be strong; if the bulwark is defective, the State will be weak.\n\n[As Li Ch’uan tersely puts it: \"Gap indicates deficiency; if the general’s ability is not perfect (i.e. if he is not thoroughly versed in his profession), his army will lack strength.\"]\n\n12. There are three ways in which a ruler can bring misfortune upon his army:—\n\n13. (1) By commanding the army to advance or to retreat, being ignorant of the fact that it cannot obey. This is called hobbling the army.\n\n[AOW-p082-B001 | pg132_art_of_war.txt | page 82]\ntake advantage of the enemy’s unreadiness, make your way by unexpected routes, and attack unguarded spots.\n\n20. The following are the principles to be observed by an invading force: The further you penetrate into a country, the greater will be the solidarity of your troops, and thus the defenders will not prevail against you.\n\n21. Make forays in fertile country in order to supply your army with food.\n\n[Cf. _supra_, § 13. Li Ch’uan does not venture on a note here.]\n\n22. Carefully study the well-being of your men,\n\n[For \"well-being\", Wang Hsi means, \"Pet them, humor them, give them plenty of food and drink, and look after them generally.\"]\n\nand do not overtax them. Concentrate your energy and hoard your strength.\n\n[Ch’en recalls the line of action adopted in 224 B.C. by the famous general Wang Chien, whose military genius largely contributed to the success of the First Emperor. He had invaded the Ch’u State, where a universal levy was made to oppose him. But, being doubtful of the temper of his troops, he declined all invitations to fight and remained strictly on the defensive.\n\n[AOW-p087-B003 | pg132_art_of_war.txt | page 87]\n[Mei Yao-ch’en’s paraphrase is: \"The way to eliminate the differences of strong and weak and to make both serviceable is to utilize accidental features of the ground.\" Less reliable troops, if posted in strong positions, will hold out as long as better troops on more exposed terrain. The advantage of position neutralizes the inferiority in stamina and courage. Col. Henderson says: \"With all respect to the text books, and to the ordinary tactical teaching, I am inclined to think that the study of ground is often overlooked, and that by no means sufficient importance is attached to the selection of positions... and to the immense advantages that are to be derived, whether you are defending or attacking, from the proper utilization of natural features.\" [2] ]\n\n[AOW-p029-B001 | pg132_art_of_war.txt | page 29]\nif well supplied with food, he can starve him out; if quietly encamped, he can force him to move.\n\n5. Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected.\n\n6. An army may march great distances without distress, if it marches through country where the enemy is not.\n\n[Ts’ao Kung sums up very well: \"Emerge from the void [q.d. like \"a bolt from the blue\"], strike at vulnerable points, shun places that are defended, attack in unexpected quarters.\"]\n\n7. You can be sure of succeeding in your attacks if you only attack places which are undefended.\n\n[Wang Hsi explains \"undefended places\" as \"weak points; that is to say, where the general is lacking in capacity, or the soldiers in spirit; where the walls are not strong enough, or the precautions not strict enough; where relief comes too late, or provisions are too scanty, or the defenders are variance amongst themselves.\"]\n\nYou can ensure the safety of your defence if you only hold positions that cannot be attacked.",
+    "events": [
+      {
+        "event": "search",
+        "query": "types of troops defend a state",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p096-B001",
+            "rank": 1,
+            "score": -4.74995,
+            "page": 96,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p014-B001",
+            "rank": 2,
+            "score": -5.32491,
+            "page": 14,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p082-B001",
+            "rank": 3,
+            "score": -5.48457,
+            "page": 82,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p087-B003",
+            "rank": 4,
+            "score": -5.86922,
+            "page": 87,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p029-B001",
+            "rank": 5,
+            "score": -6.41175,
+            "page": 29,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p096-B001",
+          "AOW-p014-B001",
+          "AOW-p082-B001",
+          "AOW-p087-B003",
+          "AOW-p029-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "types of troops that can defend a state",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p082-B001",
+            "rank": 1,
+            "score": -4.03256,
+            "page": 82,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p096-B001",
+            "rank": 2,
+            "score": -4.31994,
+            "page": 96,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p014-B001",
+            "rank": 3,
+            "score": -4.52728,
+            "page": 14,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p029-B001",
+            "rank": 4,
+            "score": -5.51281,
+            "page": 29,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p087-B003",
+            "rank": 5,
+            "score": -6.05836,
+            "page": 87,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p096-B001",
+          "AOW-p014-B001",
+          "AOW-p082-B001",
+          "AOW-p087-B003",
+          "AOW-p029-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "types of troops that can defend a state",
+        "filter": null,
+        "results": [
+          {
+            "id": "AOW-p082-B001",
+            "rank": 1,
+            "score": -4.03256,
+            "page": 82,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p096-B001",
+            "rank": 2,
+            "score": -4.31994,
+            "page": 96,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p014-B001",
+            "rank": 3,
+            "score": -4.52728,
+            "page": 14,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p029-B001",
+            "rank": 4,
+            "score": -5.51281,
+            "page": 29,
+            "source_id": "art_of_war"
+          },
+          {
+            "id": "AOW-p087-B003",
+            "rank": 5,
+            "score": -6.05836,
+            "page": 87,
+            "source_id": "art_of_war"
+          }
+        ],
+        "context_ids": [
+          "AOW-p096-B001",
+          "AOW-p014-B001",
+          "AOW-p082-B001",
+          "AOW-p087-B003",
+          "AOW-p029-B001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1518,
+        "prompt_tokens": 335,
+        "completion_tokens": 18,
+        "cost_usd": 6.105e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"types of troops defend a state\"}"
+      },
+      {
+        "ms": 1298,
+        "prompt_tokens": 1506,
+        "completion_tokens": 20,
+        "cost_usd": 0.0002379,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"types of troops that can defend a state\"}"
+      },
+      {
+        "ms": 1296,
+        "prompt_tokens": 1516,
+        "completion_tokens": 20,
+        "cost_usd": 0.0002394,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"types of troops that can defend a state\"}"
+      },
+      {
+        "ms": 2842,
+        "prompt_tokens": 1537,
+        "completion_tokens": 32,
+        "cost_usd": 0.00024975,
+        "model": "openai/gpt-4o-mini",
+        "tool": "abstain",
+        "arguments": "{\"reason\":\"The context does not contain specific information about the types of troops that can defend a state.\"}",
+        "abstain_reason": "The context does not contain specific information about the types of troops that can defend a state."
+      }
+    ],
+    "elapsed_s": 9.01,
+    "prompt_tokens": 4894,
+    "completion_tokens": 90,
+    "cost_usd": 0.000788
+  },
+  {
+    "query_id": "q16",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "In Machiavelli’s advice, what should be the sole professional concern of a ruler?",
+    "filter": {
+      "book": "the_prince"
+    },
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 3,
+    "queries": [
+      "Machiavelli advice sole professional concern ruler",
+      "Machiavelli ruler professional concern",
+      "Machiavelli advice ruler sole professional concern"
+    ],
+    "final_context_ids": [
+      "PRN-p028-B002",
+      "PRN-p061-B002",
+      "PRN-p019-B002",
+      "PRN-p072-B003",
+      "PRN-p055-B001",
+      "PRN-p032-B001"
+    ],
+    "final_context": "[PRN-p028-B002 | pg1232_the_prince.txt | page 28]\n[2] Mr Burd suggests that this word probably comes near the modern equivalent of Machiavelli’s thought when he speaks of “crudelta” than the more obvious “cruelties.”\n\nHence it is to be remarked that, in seizing a state, the usurper ought to examine closely into all those injuries which it is necessary for him to inflict, and to do them all at one stroke so as not to have to repeat them daily; and thus by not unsettling men he will be able to reassure them, and win them to himself by benefits. He who does otherwise, either from timidity or evil advice, is always compelled to keep the knife in his hand; neither can he rely on his subjects, nor can they attach themselves to him, owing to their continued and repeated wrongs. For injuries ought to be done all at one time, so that, being tasted less, they offend less; benefits ought to be given little by little, so that the flavour of them may last longer.\n\n[PRN-p061-B002 | pg1232_the_prince.txt | page 61]\n[1] Giovanni Bentivogli, born in Bologna 1438, died at Milan 1508. He ruled Bologna from 1462 to 1506. Machiavelli’s strong condemnation of conspiracies may get its edge from his own very recent experience (February 1513), when he had been arrested and tortured for his alleged complicity in the Boscoli conspiracy.\n\nFor this reason I consider that a prince ought to reckon conspiracies of little account when his people hold him in esteem; but when it is hostile to him, and bears hatred towards him, he ought to fear everything and everybody. And well-ordered states and wise princes have taken every care not to drive the nobles to desperation, and to keep the people satisfied and contented, for this is one of the most important objects a prince can have.\n\n[PRN-p019-B002 | pg1232_the_prince.txt | page 19]\n[2] Francesco Sforza, born 1401, died 1466. He married Bianca Maria Visconti, a natural daughter of Filippo Visconti, the Duke of Milan, on whose death he procured his own elevation to the duchy. Machiavelli was the accredited agent of the Florentine Republic to Cesare Borgia (1478-1507) during the transactions which led up to the assassinations of the Orsini and Vitelli at Sinigalia, and along with his letters to his chiefs in Florence he has left an account, written ten years before _The Prince_, of the proceedings of the duke in his “Descritione del modo tenuto dal duca Valentino nello ammazzare Vitellozzo Vitelli,” etc., a translation of which is appended to the present work.\n\n[PRN-p072-B003 | pg1232_the_prince.txt | page 72]\nAll these things considered then, I shall praise him who builds fortresses as well as him who does not, and I shall blame whoever, trusting in them, cares little about being hated by the people.\n\n[1] Catherine Sforza, a daughter of Galeazzo Sforza and Lucrezia Landriani, born 1463, died 1509. It was to the Countess of Forli that Machiavelli was sent as envoy on 1499. A letter from Fortunati to the countess announces the appointment: “I have been with the signori,” wrote Fortunati, “to learn whom they would send and when. They tell me that Nicolo Machiavelli, a learned young Florentine noble, secretary to my Lords of the Ten, is to leave with me at once.” _Cf_. “Catherine Sforza,” by Count Pasolini, translated by P. Sylvester, 1898.\n\n[PRN-p055-B001 | pg1232_the_prince.txt | page 55]\n[1] “The present chapter has given greater offence than any other portion of Machiavelli’s writings.” Burd, “Il Principe,” p. 297.\n\nEvery one admits how praiseworthy it is in a prince to keep faith, and to live with integrity and not with craft. Nevertheless our experience has been that those princes who have done great things have held good faith of little account, and have known how to circumvent the intellect of men by craft, and in the end have overcome those who have relied on their word. You must know there are two ways of contesting,[2] the one by the law, the other by force; the first method is proper to men, the second to beasts; but because the first is frequently not sufficient, it is necessary to have recourse to the second. Therefore it is necessary for a prince to understand how to avail himself of the beast and the man.\n\n[PRN-p032-B001 | pg1232_the_prince.txt | page 32]\n[1] Nabis, tyrant of Sparta, conquered by the Romans under Flamininus in 195 B.C.; killed 192 B.C.\n\n[2] Messer Giorgio Scali. This event is to be found in Machiavelli’s “Florentine History,” Book III.\n\nThese principalities are liable to danger when they are passing from the civil to the absolute order of government, for such princes either rule personally or through magistrates. In the latter case their government is weaker and more insecure, because it rests entirely on the goodwill of those citizens who are raised to the magistracy, and who, especially in troubled times, can destroy the government with great ease, either by intrigue or open defiance; and the prince has not the chance amid tumults to exercise absolute authority, because the citizens and subjects, accustomed to receive orders from magistrates, are not of a mind to obey him amid these confusions, and there will always be in doubtful times a scarcity of men whom he can trust.",
+    "events": [
+      {
+        "event": "search",
+        "query": "Machiavelli advice sole professional concern ruler",
+        "filter": {
+          "book": "the_prince"
+        },
+        "results": [
+          {
+            "id": "PRN-p028-B002",
+            "rank": 1,
+            "score": -2.19273,
+            "page": 28,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p061-B002",
+            "rank": 2,
+            "score": -2.28792,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p019-B002",
+            "rank": 3,
+            "score": -2.60628,
+            "page": 19,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p072-B003",
+            "rank": 4,
+            "score": -3.63165,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p055-B001",
+            "rank": 5,
+            "score": -3.90057,
+            "page": 55,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p028-B002",
+          "PRN-p061-B002",
+          "PRN-p019-B002",
+          "PRN-p072-B003",
+          "PRN-p055-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Machiavelli ruler professional concern",
+        "filter": {
+          "book": "the_prince"
+        },
+        "results": [
+          {
+            "id": "PRN-p061-B002",
+            "rank": 1,
+            "score": -0.57923,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p019-B002",
+            "rank": 2,
+            "score": -1.34545,
+            "page": 19,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p032-B001",
+            "rank": 3,
+            "score": -2.08635,
+            "page": 32,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p072-B003",
+            "rank": 4,
+            "score": -2.8186,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p028-B002",
+            "rank": 5,
+            "score": -3.08483,
+            "page": 28,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p028-B002",
+          "PRN-p061-B002",
+          "PRN-p019-B002",
+          "PRN-p072-B003",
+          "PRN-p055-B001",
+          "PRN-p032-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Machiavelli advice ruler sole professional concern",
+        "filter": {
+          "book": "the_prince"
+        },
+        "results": [
+          {
+            "id": "PRN-p028-B002",
+            "rank": 1,
+            "score": -2.09373,
+            "page": 28,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p061-B002",
+            "rank": 2,
+            "score": -2.64058,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p019-B002",
+            "rank": 3,
+            "score": -2.92905,
+            "page": 19,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p072-B003",
+            "rank": 4,
+            "score": -4.06968,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p055-B001",
+            "rank": 5,
+            "score": -4.1676,
+            "page": 55,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p028-B002",
+          "PRN-p061-B002",
+          "PRN-p019-B002",
+          "PRN-p072-B003",
+          "PRN-p055-B001",
+          "PRN-p032-B001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1472,
+        "prompt_tokens": 344,
+        "completion_tokens": 21,
+        "cost_usd": 6.42e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"Machiavelli advice sole professional concern ruler\"}"
+      },
+      {
+        "ms": 2164,
+        "prompt_tokens": 1381,
+        "completion_tokens": 19,
+        "cost_usd": 0.00021855,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"Machiavelli ruler professional concern\"}"
+      },
+      {
+        "ms": 2477,
+        "prompt_tokens": 1613,
+        "completion_tokens": 21,
+        "cost_usd": 0.00025455,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"Machiavelli advice ruler sole professional concern\"}"
+      },
+      {
+        "ms": 2793,
+        "prompt_tokens": 1635,
+        "completion_tokens": 36,
+        "cost_usd": 0.00026685,
+        "model": "openai/gpt-4o-mini",
+        "tool": "abstain",
+        "arguments": "{\"reason\":\"The context does not contain specific information about Machiavelli's advice regarding the sole professional concern of a ruler.\"}",
+        "abstain_reason": "The context does not contain specific information about Machiavelli's advice regarding the sole professional concern of a ruler."
+      }
+    ],
+    "elapsed_s": 10.9,
+    "prompt_tokens": 4973,
+    "completion_tokens": 97,
+    "cost_usd": 0.000804
+  },
+  {
+    "query_id": "u01",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "On what date did Machiavelli dedicate The Prince to Lorenzo de' Medici?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 3,
+    "queries": [
+      "Machiavelli dedicate The Prince to Lorenzo de' Medici date",
+      "Machiavelli The Prince dedication date",
+      "Machiavelli The Prince dedication Lorenzo de' Medici"
+    ],
+    "final_context_ids": [
+      "PRN-p019-B002",
+      "PRN-p061-B002",
+      "PRN-p032-B001",
+      "PRN-p072-B003",
+      "PRN-p058-B002",
+      "PRN-p055-B001"
+    ],
+    "final_context": "[PRN-p019-B002 | pg1232_the_prince.txt | page 19]\n[2] Francesco Sforza, born 1401, died 1466. He married Bianca Maria Visconti, a natural daughter of Filippo Visconti, the Duke of Milan, on whose death he procured his own elevation to the duchy. Machiavelli was the accredited agent of the Florentine Republic to Cesare Borgia (1478-1507) during the transactions which led up to the assassinations of the Orsini and Vitelli at Sinigalia, and along with his letters to his chiefs in Florence he has left an account, written ten years before _The Prince_, of the proceedings of the duke in his “Descritione del modo tenuto dal duca Valentino nello ammazzare Vitellozzo Vitelli,” etc., a translation of which is appended to the present work.\n\n[PRN-p061-B002 | pg1232_the_prince.txt | page 61]\n[1] Giovanni Bentivogli, born in Bologna 1438, died at Milan 1508. He ruled Bologna from 1462 to 1506. Machiavelli’s strong condemnation of conspiracies may get its edge from his own very recent experience (February 1513), when he had been arrested and tortured for his alleged complicity in the Boscoli conspiracy.\n\nFor this reason I consider that a prince ought to reckon conspiracies of little account when his people hold him in esteem; but when it is hostile to him, and bears hatred towards him, he ought to fear everything and everybody. And well-ordered states and wise princes have taken every care not to drive the nobles to desperation, and to keep the people satisfied and contented, for this is one of the most important objects a prince can have.\n\n[PRN-p032-B001 | pg1232_the_prince.txt | page 32]\n[1] Nabis, tyrant of Sparta, conquered by the Romans under Flamininus in 195 B.C.; killed 192 B.C.\n\n[2] Messer Giorgio Scali. This event is to be found in Machiavelli’s “Florentine History,” Book III.\n\nThese principalities are liable to danger when they are passing from the civil to the absolute order of government, for such princes either rule personally or through magistrates. In the latter case their government is weaker and more insecure, because it rests entirely on the goodwill of those citizens who are raised to the magistracy, and who, especially in troubled times, can destroy the government with great ease, either by intrigue or open defiance; and the prince has not the chance amid tumults to exercise absolute authority, because the citizens and subjects, accustomed to receive orders from magistrates, are not of a mind to obey him amid these confusions, and there will always be in doubtful times a scarcity of men whom he can trust.\n\n[PRN-p072-B003 | pg1232_the_prince.txt | page 72]\nAll these things considered then, I shall praise him who builds fortresses as well as him who does not, and I shall blame whoever, trusting in them, cares little about being hated by the people.\n\n[1] Catherine Sforza, a daughter of Galeazzo Sforza and Lucrezia Landriani, born 1463, died 1509. It was to the Countess of Forli that Machiavelli was sent as envoy on 1499. A letter from Fortunati to the countess announces the appointment: “I have been with the signori,” wrote Fortunati, “to learn whom they would send and when. They tell me that Nicolo Machiavelli, a learned young Florentine noble, secretary to my Lords of the Ten, is to leave with me at once.” _Cf_. “Catherine Sforza,” by Count Pasolini, translated by P. Sylvester, 1898.\n\n[PRN-p058-B002 | pg1232_the_prince.txt | page 58]\nOne prince[5] of the present time, whom it is not well to name, never preaches anything else but peace and good faith, and to both he is most hostile, and either, if he had kept it, would have deprived him of reputation and kingdom many a time.\n\n[5] Ferdinand of Aragon. “When Machiavelli was writing _The Prince_ it would have been clearly impossible to mention Ferdinand’s name here without giving offence.” Burd’s “Il Principe,” p. 308.\n\n[PRN-p055-B001 | pg1232_the_prince.txt | page 55]\n[1] “The present chapter has given greater offence than any other portion of Machiavelli’s writings.” Burd, “Il Principe,” p. 297.\n\nEvery one admits how praiseworthy it is in a prince to keep faith, and to live with integrity and not with craft. Nevertheless our experience has been that those princes who have done great things have held good faith of little account, and have known how to circumvent the intellect of men by craft, and in the end have overcome those who have relied on their word. You must know there are two ways of contesting,[2] the one by the law, the other by force; the first method is proper to men, the second to beasts; but because the first is frequently not sufficient, it is necessary to have recourse to the second. Therefore it is necessary for a prince to understand how to avail himself of the beast and the man.",
+    "events": [
+      {
+        "event": "search",
+        "query": "Machiavelli dedicate The Prince to Lorenzo de' Medici date",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p019-B002",
+            "rank": 1,
+            "score": 2.88132,
+            "page": 19,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p061-B002",
+            "rank": 2,
+            "score": 1.61146,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p032-B001",
+            "rank": 3,
+            "score": -1.06,
+            "page": 32,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p072-B003",
+            "rank": 4,
+            "score": -1.45353,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p058-B002",
+            "rank": 5,
+            "score": -1.63257,
+            "page": 58,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p019-B002",
+          "PRN-p061-B002",
+          "PRN-p032-B001",
+          "PRN-p072-B003",
+          "PRN-p058-B002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Machiavelli The Prince dedication date",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p061-B002",
+            "rank": 1,
+            "score": 2.07362,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p019-B002",
+            "rank": 2,
+            "score": 1.58024,
+            "page": 19,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p032-B001",
+            "rank": 3,
+            "score": -1.04446,
+            "page": 32,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p072-B003",
+            "rank": 4,
+            "score": -1.14809,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p055-B001",
+            "rank": 5,
+            "score": -1.7045,
+            "page": 55,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p019-B002",
+          "PRN-p061-B002",
+          "PRN-p032-B001",
+          "PRN-p072-B003",
+          "PRN-p058-B002",
+          "PRN-p055-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Machiavelli The Prince dedication Lorenzo de' Medici",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p019-B002",
+            "rank": 1,
+            "score": 3.55185,
+            "page": 19,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p061-B002",
+            "rank": 2,
+            "score": 1.48372,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p032-B001",
+            "rank": 3,
+            "score": -0.55791,
+            "page": 32,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p058-B002",
+            "rank": 4,
+            "score": -0.94572,
+            "page": 58,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p055-B001",
+            "rank": 5,
+            "score": -1.04957,
+            "page": 55,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p019-B002",
+          "PRN-p061-B002",
+          "PRN-p032-B001",
+          "PRN-p072-B003",
+          "PRN-p058-B002",
+          "PRN-p055-B001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1509,
+        "prompt_tokens": 343,
+        "completion_tokens": 26,
+        "cost_usd": 6.705e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"Machiavelli dedicate The Prince to Lorenzo de' Medici date\"}"
+      },
+      {
+        "ms": 1530,
+        "prompt_tokens": 1303,
+        "completion_tokens": 20,
+        "cost_usd": 0.00020745,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"Machiavelli The Prince dedication date\"}"
+      },
+      {
+        "ms": 1348,
+        "prompt_tokens": 1519,
+        "completion_tokens": 24,
+        "cost_usd": 0.00024225,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"Machiavelli The Prince dedication Lorenzo de' Medici\"}"
+      },
+      {
+        "ms": 1521,
+        "prompt_tokens": 1544,
+        "completion_tokens": 36,
+        "cost_usd": 0.0002532,
+        "model": "openai/gpt-4o-mini",
+        "tool": "abstain",
+        "arguments": "{\"reason\":\"The context does not contain information about the date Machiavelli dedicated The Prince to Lorenzo de' Medici.\"}",
+        "abstain_reason": "The context does not contain information about the date Machiavelli dedicated The Prince to Lorenzo de' Medici."
+      }
+    ],
+    "elapsed_s": 8.04,
+    "prompt_tokens": 4709,
+    "completion_tokens": 106,
+    "cost_usd": 0.00077
+  },
+  {
+    "query_id": "u02",
+    "config": "A3-rerank-k5",
+    "model": "openai/gpt-4o-mini",
+    "question": "What exact percentage tax rate does Machiavelli recommend a prince levy on merchants?",
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "error": null,
+    "n_searches": 3,
+    "queries": [
+      "Machiavelli tax rate merchants",
+      "Machiavelli tax rate merchants",
+      "Machiavelli tax rate merchants percentage"
+    ],
+    "final_context_ids": [
+      "PRN-p019-B002",
+      "PRN-p061-B002",
+      "PRN-p072-B003",
+      "PRN-p032-B001",
+      "PRN-p055-B001"
+    ],
+    "final_context": "[PRN-p019-B002 | pg1232_the_prince.txt | page 19]\n[2] Francesco Sforza, born 1401, died 1466. He married Bianca Maria Visconti, a natural daughter of Filippo Visconti, the Duke of Milan, on whose death he procured his own elevation to the duchy. Machiavelli was the accredited agent of the Florentine Republic to Cesare Borgia (1478-1507) during the transactions which led up to the assassinations of the Orsini and Vitelli at Sinigalia, and along with his letters to his chiefs in Florence he has left an account, written ten years before _The Prince_, of the proceedings of the duke in his “Descritione del modo tenuto dal duca Valentino nello ammazzare Vitellozzo Vitelli,” etc., a translation of which is appended to the present work.\n\n[PRN-p061-B002 | pg1232_the_prince.txt | page 61]\n[1] Giovanni Bentivogli, born in Bologna 1438, died at Milan 1508. He ruled Bologna from 1462 to 1506. Machiavelli’s strong condemnation of conspiracies may get its edge from his own very recent experience (February 1513), when he had been arrested and tortured for his alleged complicity in the Boscoli conspiracy.\n\nFor this reason I consider that a prince ought to reckon conspiracies of little account when his people hold him in esteem; but when it is hostile to him, and bears hatred towards him, he ought to fear everything and everybody. And well-ordered states and wise princes have taken every care not to drive the nobles to desperation, and to keep the people satisfied and contented, for this is one of the most important objects a prince can have.\n\n[PRN-p072-B003 | pg1232_the_prince.txt | page 72]\nAll these things considered then, I shall praise him who builds fortresses as well as him who does not, and I shall blame whoever, trusting in them, cares little about being hated by the people.\n\n[1] Catherine Sforza, a daughter of Galeazzo Sforza and Lucrezia Landriani, born 1463, died 1509. It was to the Countess of Forli that Machiavelli was sent as envoy on 1499. A letter from Fortunati to the countess announces the appointment: “I have been with the signori,” wrote Fortunati, “to learn whom they would send and when. They tell me that Nicolo Machiavelli, a learned young Florentine noble, secretary to my Lords of the Ten, is to leave with me at once.” _Cf_. “Catherine Sforza,” by Count Pasolini, translated by P. Sylvester, 1898.\n\n[PRN-p032-B001 | pg1232_the_prince.txt | page 32]\n[1] Nabis, tyrant of Sparta, conquered by the Romans under Flamininus in 195 B.C.; killed 192 B.C.\n\n[2] Messer Giorgio Scali. This event is to be found in Machiavelli’s “Florentine History,” Book III.\n\nThese principalities are liable to danger when they are passing from the civil to the absolute order of government, for such princes either rule personally or through magistrates. In the latter case their government is weaker and more insecure, because it rests entirely on the goodwill of those citizens who are raised to the magistracy, and who, especially in troubled times, can destroy the government with great ease, either by intrigue or open defiance; and the prince has not the chance amid tumults to exercise absolute authority, because the citizens and subjects, accustomed to receive orders from magistrates, are not of a mind to obey him amid these confusions, and there will always be in doubtful times a scarcity of men whom he can trust.\n\n[PRN-p055-B001 | pg1232_the_prince.txt | page 55]\n[1] “The present chapter has given greater offence than any other portion of Machiavelli’s writings.” Burd, “Il Principe,” p. 297.\n\nEvery one admits how praiseworthy it is in a prince to keep faith, and to live with integrity and not with craft. Nevertheless our experience has been that those princes who have done great things have held good faith of little account, and have known how to circumvent the intellect of men by craft, and in the end have overcome those who have relied on their word. You must know there are two ways of contesting,[2] the one by the law, the other by force; the first method is proper to men, the second to beasts; but because the first is frequently not sufficient, it is necessary to have recourse to the second. Therefore it is necessary for a prince to understand how to avail himself of the beast and the man.",
+    "events": [
+      {
+        "event": "search",
+        "query": "Machiavelli tax rate merchants",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p019-B002",
+            "rank": 1,
+            "score": -4.08542,
+            "page": 19,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p061-B002",
+            "rank": 2,
+            "score": -6.41099,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p072-B003",
+            "rank": 3,
+            "score": -6.81232,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p032-B001",
+            "rank": 4,
+            "score": -7.18424,
+            "page": 32,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p055-B001",
+            "rank": 5,
+            "score": -7.36592,
+            "page": 55,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p019-B002",
+          "PRN-p061-B002",
+          "PRN-p072-B003",
+          "PRN-p032-B001",
+          "PRN-p055-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Machiavelli tax rate merchants",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p019-B002",
+            "rank": 1,
+            "score": -4.08542,
+            "page": 19,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p061-B002",
+            "rank": 2,
+            "score": -6.41099,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p072-B003",
+            "rank": 3,
+            "score": -6.81232,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p032-B001",
+            "rank": 4,
+            "score": -7.18424,
+            "page": 32,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p055-B001",
+            "rank": 5,
+            "score": -7.36592,
+            "page": 55,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p019-B002",
+          "PRN-p061-B002",
+          "PRN-p072-B003",
+          "PRN-p032-B001",
+          "PRN-p055-B001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Machiavelli tax rate merchants percentage",
+        "filter": null,
+        "results": [
+          {
+            "id": "PRN-p019-B002",
+            "rank": 1,
+            "score": -6.35446,
+            "page": 19,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p061-B002",
+            "rank": 2,
+            "score": -8.42628,
+            "page": 61,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p072-B003",
+            "rank": 3,
+            "score": -8.81206,
+            "page": 72,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p055-B001",
+            "rank": 4,
+            "score": -8.94776,
+            "page": 55,
+            "source_id": "the_prince"
+          },
+          {
+            "id": "PRN-p032-B001",
+            "rank": 5,
+            "score": -9.20985,
+            "page": 32,
+            "source_id": "the_prince"
+          }
+        ],
+        "context_ids": [
+          "PRN-p019-B002",
+          "PRN-p061-B002",
+          "PRN-p072-B003",
+          "PRN-p032-B001",
+          "PRN-p055-B001"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "llm_calls": [
+      {
+        "ms": 1296,
+        "prompt_tokens": 342,
+        "completion_tokens": 19,
+        "cost_usd": 6.27e-05,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"Machiavelli tax rate merchants\"}"
+      },
+      {
+        "ms": 1323,
+        "prompt_tokens": 1375,
+        "completion_tokens": 19,
+        "cost_usd": 0.00021765,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"Machiavelli tax rate merchants\"}"
+      },
+      {
+        "ms": 1246,
+        "prompt_tokens": 1384,
+        "completion_tokens": 20,
+        "cost_usd": 0.0002196,
+        "model": "openai/gpt-4o-mini",
+        "tool": "search",
+        "arguments": "{\"query\":\"Machiavelli tax rate merchants percentage\"}"
+      },
+      {
+        "ms": 3267,
+        "prompt_tokens": 1405,
+        "completion_tokens": 36,
+        "cost_usd": 0.00023235,
+        "model": "openai/gpt-4o-mini",
+        "tool": "abstain",
+        "arguments": "{\"reason\":\"The context does not contain information about the exact percentage tax rate Machiavelli recommends a prince levy on merchants.\"}",
+        "abstain_reason": "The context does not contain information about the exact percentage tax rate Machiavelli recommends a prince levy on merchants."
+      }
+    ],
+    "elapsed_s": 9.12,
+    "prompt_tokens": 4506,
+    "completion_tokens": 94,
+    "cost_usd": 0.000732
+  }
+]

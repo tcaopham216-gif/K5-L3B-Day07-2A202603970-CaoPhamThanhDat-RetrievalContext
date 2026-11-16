@@ -1,0 +1,10 @@
+[
+  {"name": "R1-dense-k3", "method": "dense", "top_k": 3, "budget": 4000},
+  {"name": "R2-bm25-k3", "method": "bm25", "top_k": 3, "budget": 4000},
+  {"name": "R3-hybrid-k3", "method": "hybrid", "top_k": 3, "budget": 4000},
+  {"name": "R4-rerank-k3", "method": "rerank", "top_k": 3, "budget": 4000},
+  {"name": "R5-dense-k5", "method": "dense", "top_k": 5, "budget": 6000},
+  {"name": "R6-hybrid-k5", "method": "hybrid", "top_k": 5, "budget": 6000},
+  {"name": "R7-rerank-k5", "method": "rerank", "top_k": 5, "budget": 6000},
+  {"name": "R8-rerank-k5-b9000", "method": "rerank", "top_k": 5, "budget": 9000}
+]

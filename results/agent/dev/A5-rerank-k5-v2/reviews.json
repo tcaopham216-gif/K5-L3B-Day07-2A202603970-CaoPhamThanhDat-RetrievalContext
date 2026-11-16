@@ -1,0 +1,137 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "AOW-p002-B001."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "reason": "Answers 'vital importance / five factors'; expected deception."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "reason": "Quotes 'victory, not lengthy campaigns' from AOW-p009-B002 (gold)."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 1,
+    "citation_support": [
+      true,
+      true
+    ],
+    "reason": "First part supported; second sentence (strike weak) is off-question."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "reason": "Direct and indirect, AOW-p024-B001 / AOW-p023-B001."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "reason": "Conclusion right but AOW-p027-B001 is about deceitful appearances, not striking weakness."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "reason": "AOW-p050-B001 (gold) + Tu Mu note AOW-p050-B002."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "reason": "PRN-p002-B001 (gold)."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "PRN-p012-B002 (gold)."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "All three courses incl. tribute, PRN-p014-B001."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "PRN-p016-B002 (gold)."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q16",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "u01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  },
+  {
+    "query_id": "u02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  }
+]

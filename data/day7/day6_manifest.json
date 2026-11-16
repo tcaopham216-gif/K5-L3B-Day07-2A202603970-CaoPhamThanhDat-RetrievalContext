@@ -1,0 +1,860 @@
+[
+  {
+    "source_id": "art_of_war",
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "translator": "Lionel Giles (1910)",
+    "source_path_or_url": "https://www.gutenberg.org/cache/epub/132/pg132.txt",
+    "license_or_permission": "Public domain in the USA; Project Gutenberg License — see header of raw file",
+    "accessed_at": "2026-11-14",
+    "physical_lines_counted": {
+      "start": 1614,
+      "end": 6790
+    },
+    "counting_rule": "Inclusive 1-based raw lines; chapter headings retained as metadata, chapter prose and inline notes counted. Whole normalized paragraphs accumulated to >=1500 chars, final short remainder merged within chapter. Offsets are half-open in saved normalized book text.",
+    "excluded_trailing": null,
+    "page_ids": [
+      {
+        "page_id": "AOW-p001",
+        "char_count": 1777
+      },
+      {
+        "page_id": "AOW-p002",
+        "char_count": 2082
+      },
+      {
+        "page_id": "AOW-p003",
+        "char_count": 2312
+      },
+      {
+        "page_id": "AOW-p004",
+        "char_count": 2403
+      },
+      {
+        "page_id": "AOW-p005",
+        "char_count": 1592
+      },
+      {
+        "page_id": "AOW-p006",
+        "char_count": 2354
+      },
+      {
+        "page_id": "AOW-p007",
+        "char_count": 1506
+      },
+      {
+        "page_id": "AOW-p008",
+        "char_count": 1774
+      },
+      {
+        "page_id": "AOW-p009",
+        "char_count": 1824
+      },
+      {
+        "page_id": "AOW-p010",
+        "char_count": 1542
+      },
+      {
+        "page_id": "AOW-p011",
+        "char_count": 1819
+      },
+      {
+        "page_id": "AOW-p012",
+        "char_count": 1694
+      },
+      {
+        "page_id": "AOW-p013",
+        "char_count": 1828
+      },
+      {
+        "page_id": "AOW-p014",
+        "char_count": 1644
+      },
+      {
+        "page_id": "AOW-p015",
+        "char_count": 1561
+      },
+      {
+        "page_id": "AOW-p016",
+        "char_count": 2763
+      },
+      {
+        "page_id": "AOW-p017",
+        "char_count": 1594
+      },
+      {
+        "page_id": "AOW-p018",
+        "char_count": 1577
+      },
+      {
+        "page_id": "AOW-p019",
+        "char_count": 1665
+      },
+      {
+        "page_id": "AOW-p020",
+        "char_count": 1560
+      },
+      {
+        "page_id": "AOW-p021",
+        "char_count": 2144
+      },
+      {
+        "page_id": "AOW-p022",
+        "char_count": 3435
+      },
+      {
+        "page_id": "AOW-p023",
+        "char_count": 1589
+      },
+      {
+        "page_id": "AOW-p024",
+        "char_count": 1708
+      },
+      {
+        "page_id": "AOW-p025",
+        "char_count": 1557
+      },
+      {
+        "page_id": "AOW-p026",
+        "char_count": 1953
+      },
+      {
+        "page_id": "AOW-p027",
+        "char_count": 3492
+      },
+      {
+        "page_id": "AOW-p028",
+        "char_count": 1584
+      },
+      {
+        "page_id": "AOW-p029",
+        "char_count": 2127
+      },
+      {
+        "page_id": "AOW-p030",
+        "char_count": 2192
+      },
+      {
+        "page_id": "AOW-p031",
+        "char_count": 1638
+      },
+      {
+        "page_id": "AOW-p032",
+        "char_count": 1764
+      },
+      {
+        "page_id": "AOW-p033",
+        "char_count": 2130
+      },
+      {
+        "page_id": "AOW-p034",
+        "char_count": 1593
+      },
+      {
+        "page_id": "AOW-p035",
+        "char_count": 2236
+      },
+      {
+        "page_id": "AOW-p036",
+        "char_count": 1536
+      },
+      {
+        "page_id": "AOW-p037",
+        "char_count": 2547
+      },
+      {
+        "page_id": "AOW-p038",
+        "char_count": 1505
+      },
+      {
+        "page_id": "AOW-p039",
+        "char_count": 1661
+      },
+      {
+        "page_id": "AOW-p040",
+        "char_count": 1628
+      },
+      {
+        "page_id": "AOW-p041",
+        "char_count": 1529
+      },
+      {
+        "page_id": "AOW-p042",
+        "char_count": 1833
+      },
+      {
+        "page_id": "AOW-p043",
+        "char_count": 1994
+      },
+      {
+        "page_id": "AOW-p044",
+        "char_count": 1569
+      },
+      {
+        "page_id": "AOW-p045",
+        "char_count": 1793
+      },
+      {
+        "page_id": "AOW-p046",
+        "char_count": 2047
+      },
+      {
+        "page_id": "AOW-p047",
+        "char_count": 1642
+      },
+      {
+        "page_id": "AOW-p048",
+        "char_count": 1569
+      },
+      {
+        "page_id": "AOW-p049",
+        "char_count": 2199
+      },
+      {
+        "page_id": "AOW-p050",
+        "char_count": 2269
+      },
+      {
+        "page_id": "AOW-p051",
+        "char_count": 1812
+      },
+      {
+        "page_id": "AOW-p052",
+        "char_count": 1567
+      },
+      {
+        "page_id": "AOW-p053",
+        "char_count": 2541
+      },
+      {
+        "page_id": "AOW-p054",
+        "char_count": 1603
+      },
+      {
+        "page_id": "AOW-p055",
+        "char_count": 1821
+      },
+      {
+        "page_id": "AOW-p056",
+        "char_count": 1546
+      },
+      {
+        "page_id": "AOW-p057",
+        "char_count": 1520
+      },
+      {
+        "page_id": "AOW-p058",
+        "char_count": 1638
+      },
+      {
+        "page_id": "AOW-p059",
+        "char_count": 1804
+      },
+      {
+        "page_id": "AOW-p060",
+        "char_count": 1743
+      },
+      {
+        "page_id": "AOW-p061",
+        "char_count": 4071
+      },
+      {
+        "page_id": "AOW-p062",
+        "char_count": 1559
+      },
+      {
+        "page_id": "AOW-p063",
+        "char_count": 1628
+      },
+      {
+        "page_id": "AOW-p064",
+        "char_count": 1615
+      },
+      {
+        "page_id": "AOW-p065",
+        "char_count": 1545
+      },
+      {
+        "page_id": "AOW-p066",
+        "char_count": 1846
+      },
+      {
+        "page_id": "AOW-p067",
+        "char_count": 2308
+      },
+      {
+        "page_id": "AOW-p068",
+        "char_count": 1590
+      },
+      {
+        "page_id": "AOW-p069",
+        "char_count": 1816
+      },
+      {
+        "page_id": "AOW-p070",
+        "char_count": 1671
+      },
+      {
+        "page_id": "AOW-p071",
+        "char_count": 1502
+      },
+      {
+        "page_id": "AOW-p072",
+        "char_count": 1558
+      },
+      {
+        "page_id": "AOW-p073",
+        "char_count": 2728
+      },
+      {
+        "page_id": "AOW-p074",
+        "char_count": 2713
+      },
+      {
+        "page_id": "AOW-p075",
+        "char_count": 2827
+      },
+      {
+        "page_id": "AOW-p076",
+        "char_count": 1551
+      },
+      {
+        "page_id": "AOW-p077",
+        "char_count": 1999
+      },
+      {
+        "page_id": "AOW-p078",
+        "char_count": 1509
+      },
+      {
+        "page_id": "AOW-p079",
+        "char_count": 2187
+      },
+      {
+        "page_id": "AOW-p080",
+        "char_count": 1837
+      },
+      {
+        "page_id": "AOW-p081",
+        "char_count": 3309
+      },
+      {
+        "page_id": "AOW-p082",
+        "char_count": 2256
+      },
+      {
+        "page_id": "AOW-p083",
+        "char_count": 1614
+      },
+      {
+        "page_id": "AOW-p084",
+        "char_count": 2006
+      },
+      {
+        "page_id": "AOW-p085",
+        "char_count": 1555
+      },
+      {
+        "page_id": "AOW-p086",
+        "char_count": 1522
+      },
+      {
+        "page_id": "AOW-p087",
+        "char_count": 2118
+      },
+      {
+        "page_id": "AOW-p088",
+        "char_count": 3178
+      },
+      {
+        "page_id": "AOW-p089",
+        "char_count": 1744
+      },
+      {
+        "page_id": "AOW-p090",
+        "char_count": 1622
+      },
+      {
+        "page_id": "AOW-p091",
+        "char_count": 1854
+      },
+      {
+        "page_id": "AOW-p092",
+        "char_count": 1623
+      },
+      {
+        "page_id": "AOW-p093",
+        "char_count": 2452
+      },
+      {
+        "page_id": "AOW-p094",
+        "char_count": 2260
+      },
+      {
+        "page_id": "AOW-p095",
+        "char_count": 1523
+      },
+      {
+        "page_id": "AOW-p096",
+        "char_count": 1502
+      },
+      {
+        "page_id": "AOW-p097",
+        "char_count": 1603
+      },
+      {
+        "page_id": "AOW-p098",
+        "char_count": 4483
+      },
+      {
+        "page_id": "AOW-p099",
+        "char_count": 1545
+      },
+      {
+        "page_id": "AOW-p100",
+        "char_count": 2768
+      },
+      {
+        "page_id": "AOW-p101",
+        "char_count": 2810
+      },
+      {
+        "page_id": "AOW-p102",
+        "char_count": 1577
+      },
+      {
+        "page_id": "AOW-p103",
+        "char_count": 3698
+      },
+      {
+        "page_id": "AOW-p104",
+        "char_count": 1565
+      },
+      {
+        "page_id": "AOW-p105",
+        "char_count": 1849
+      },
+      {
+        "page_id": "AOW-p106",
+        "char_count": 1711
+      },
+      {
+        "page_id": "AOW-p107",
+        "char_count": 1884
+      },
+      {
+        "page_id": "AOW-p108",
+        "char_count": 1947
+      },
+      {
+        "page_id": "AOW-p109",
+        "char_count": 1743
+      },
+      {
+        "page_id": "AOW-p110",
+        "char_count": 2714
+      },
+      {
+        "page_id": "AOW-p111",
+        "char_count": 2484
+      },
+      {
+        "page_id": "AOW-p112",
+        "char_count": 1517
+      },
+      {
+        "page_id": "AOW-p113",
+        "char_count": 1533
+      },
+      {
+        "page_id": "AOW-p114",
+        "char_count": 1707
+      },
+      {
+        "page_id": "AOW-p115",
+        "char_count": 1585
+      },
+      {
+        "page_id": "AOW-p116",
+        "char_count": 1630
+      },
+      {
+        "page_id": "AOW-p117",
+        "char_count": 2770
+      }
+    ],
+    "total_units": 117,
+    "total_chars": 230250
+  },
+  {
+    "source_id": "the_prince",
+    "title": "The Prince",
+    "author": "Niccolo Machiavelli",
+    "translator": "W. K. Marriott",
+    "source_path_or_url": "https://www.gutenberg.org/cache/epub/1232/pg1232.txt",
+    "license_or_permission": "Public domain in the USA; Project Gutenberg License — see header of raw file",
+    "accessed_at": "2026-11-14",
+    "physical_lines_counted": {
+      "start": 551,
+      "end": 3699
+    },
+    "counting_rule": "Inclusive 1-based raw lines; chapter headings retained as metadata, chapter prose and inline notes counted. Whole normalized paragraphs accumulated to >=1500 chars, final short remainder merged within chapter. Offsets are half-open in saved normalized book text.",
+    "excluded_trailing": {
+      "start": 3700,
+      "end": 4828,
+      "reason": "Appended Valentino narrative and Life of Castruccio Castracani, not chapters of The Prince"
+    },
+    "page_ids": [
+      {
+        "page_id": "PRN-p001",
+        "char_count": 653
+      },
+      {
+        "page_id": "PRN-p002",
+        "char_count": 1421
+      },
+      {
+        "page_id": "PRN-p003",
+        "char_count": 2156
+      },
+      {
+        "page_id": "PRN-p004",
+        "char_count": 1594
+      },
+      {
+        "page_id": "PRN-p005",
+        "char_count": 2304
+      },
+      {
+        "page_id": "PRN-p006",
+        "char_count": 1923
+      },
+      {
+        "page_id": "PRN-p007",
+        "char_count": 2411
+      },
+      {
+        "page_id": "PRN-p008",
+        "char_count": 1667
+      },
+      {
+        "page_id": "PRN-p009",
+        "char_count": 1568
+      },
+      {
+        "page_id": "PRN-p010",
+        "char_count": 1530
+      },
+      {
+        "page_id": "PRN-p011",
+        "char_count": 1939
+      },
+      {
+        "page_id": "PRN-p012",
+        "char_count": 2957
+      },
+      {
+        "page_id": "PRN-p013",
+        "char_count": 2339
+      },
+      {
+        "page_id": "PRN-p014",
+        "char_count": 2418
+      },
+      {
+        "page_id": "PRN-p015",
+        "char_count": 2445
+      },
+      {
+        "page_id": "PRN-p016",
+        "char_count": 1904
+      },
+      {
+        "page_id": "PRN-p017",
+        "char_count": 2415
+      },
+      {
+        "page_id": "PRN-p018",
+        "char_count": 1620
+      },
+      {
+        "page_id": "PRN-p019",
+        "char_count": 1650
+      },
+      {
+        "page_id": "PRN-p020",
+        "char_count": 2709
+      },
+      {
+        "page_id": "PRN-p021",
+        "char_count": 1644
+      },
+      {
+        "page_id": "PRN-p022",
+        "char_count": 2206
+      },
+      {
+        "page_id": "PRN-p023",
+        "char_count": 1759
+      },
+      {
+        "page_id": "PRN-p024",
+        "char_count": 3648
+      },
+      {
+        "page_id": "PRN-p025",
+        "char_count": 2149
+      },
+      {
+        "page_id": "PRN-p026",
+        "char_count": 2477
+      },
+      {
+        "page_id": "PRN-p027",
+        "char_count": 1845
+      },
+      {
+        "page_id": "PRN-p028",
+        "char_count": 2353
+      },
+      {
+        "page_id": "PRN-p029",
+        "char_count": 1696
+      },
+      {
+        "page_id": "PRN-p030",
+        "char_count": 1939
+      },
+      {
+        "page_id": "PRN-p031",
+        "char_count": 2019
+      },
+      {
+        "page_id": "PRN-p032",
+        "char_count": 1556
+      },
+      {
+        "page_id": "PRN-p033",
+        "char_count": 2153
+      },
+      {
+        "page_id": "PRN-p034",
+        "char_count": 1699
+      },
+      {
+        "page_id": "PRN-p035",
+        "char_count": 1514
+      },
+      {
+        "page_id": "PRN-p036",
+        "char_count": 1995
+      },
+      {
+        "page_id": "PRN-p037",
+        "char_count": 1541
+      },
+      {
+        "page_id": "PRN-p038",
+        "char_count": 2334
+      },
+      {
+        "page_id": "PRN-p039",
+        "char_count": 1894
+      },
+      {
+        "page_id": "PRN-p040",
+        "char_count": 3438
+      },
+      {
+        "page_id": "PRN-p041",
+        "char_count": 1817
+      },
+      {
+        "page_id": "PRN-p042",
+        "char_count": 1711
+      },
+      {
+        "page_id": "PRN-p043",
+        "char_count": 1716
+      },
+      {
+        "page_id": "PRN-p044",
+        "char_count": 1768
+      },
+      {
+        "page_id": "PRN-p045",
+        "char_count": 2279
+      },
+      {
+        "page_id": "PRN-p046",
+        "char_count": 2144
+      },
+      {
+        "page_id": "PRN-p047",
+        "char_count": 1708
+      },
+      {
+        "page_id": "PRN-p048",
+        "char_count": 3138
+      },
+      {
+        "page_id": "PRN-p049",
+        "char_count": 2858
+      },
+      {
+        "page_id": "PRN-p050",
+        "char_count": 1702
+      },
+      {
+        "page_id": "PRN-p051",
+        "char_count": 2762
+      },
+      {
+        "page_id": "PRN-p052",
+        "char_count": 1600
+      },
+      {
+        "page_id": "PRN-p053",
+        "char_count": 2459
+      },
+      {
+        "page_id": "PRN-p054",
+        "char_count": 2015
+      },
+      {
+        "page_id": "PRN-p055",
+        "char_count": 2296
+      },
+      {
+        "page_id": "PRN-p056",
+        "char_count": 1702
+      },
+      {
+        "page_id": "PRN-p057",
+        "char_count": 1511
+      },
+      {
+        "page_id": "PRN-p058",
+        "char_count": 1602
+      },
+      {
+        "page_id": "PRN-p059",
+        "char_count": 2127
+      },
+      {
+        "page_id": "PRN-p060",
+        "char_count": 1990
+      },
+      {
+        "page_id": "PRN-p061",
+        "char_count": 1740
+      },
+      {
+        "page_id": "PRN-p062",
+        "char_count": 1926
+      },
+      {
+        "page_id": "PRN-p063",
+        "char_count": 1873
+      },
+      {
+        "page_id": "PRN-p064",
+        "char_count": 1684
+      },
+      {
+        "page_id": "PRN-p065",
+        "char_count": 2763
+      },
+      {
+        "page_id": "PRN-p066",
+        "char_count": 1996
+      },
+      {
+        "page_id": "PRN-p067",
+        "char_count": 1933
+      },
+      {
+        "page_id": "PRN-p068",
+        "char_count": 2155
+      },
+      {
+        "page_id": "PRN-p069",
+        "char_count": 2267
+      },
+      {
+        "page_id": "PRN-p070",
+        "char_count": 2079
+      },
+      {
+        "page_id": "PRN-p071",
+        "char_count": 1710
+      },
+      {
+        "page_id": "PRN-p072",
+        "char_count": 2948
+      },
+      {
+        "page_id": "PRN-p073",
+        "char_count": 1597
+      },
+      {
+        "page_id": "PRN-p074",
+        "char_count": 3020
+      },
+      {
+        "page_id": "PRN-p075",
+        "char_count": 1980
+      },
+      {
+        "page_id": "PRN-p076",
+        "char_count": 1657
+      },
+      {
+        "page_id": "PRN-p077",
+        "char_count": 2459
+      },
+      {
+        "page_id": "PRN-p078",
+        "char_count": 2220
+      },
+      {
+        "page_id": "PRN-p079",
+        "char_count": 1783
+      },
+      {
+        "page_id": "PRN-p080",
+        "char_count": 2828
+      },
+      {
+        "page_id": "PRN-p081",
+        "char_count": 1819
+      },
+      {
+        "page_id": "PRN-p082",
+        "char_count": 1783
+      },
+      {
+        "page_id": "PRN-p083",
+        "char_count": 3018
+      },
+      {
+        "page_id": "PRN-p084",
+        "char_count": 1848
+      },
+      {
+        "page_id": "PRN-p085",
+        "char_count": 2123
+      },
+      {
+        "page_id": "PRN-p086",
+        "char_count": 1525
+      },
+      {
+        "page_id": "PRN-p087",
+        "char_count": 2434
+      }
+    ],
+    "total_units": 87,
+    "total_chars": 179555
+  }
+]

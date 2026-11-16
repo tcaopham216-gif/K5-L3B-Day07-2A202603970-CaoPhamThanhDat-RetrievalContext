@@ -1,0 +1,124 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "reason": "Answers with control of large force (AOW-p022-B001); expected deception."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "reason": "Direction correct but relies on commentators (Ho Shih, Chang Yu) attributed to Sun Tzu; core sentence missing."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "reason": "AOW-p017-B001 supports 'beyond the possibility of defeat'; 'defensive tactics' itself not in cited chunk."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Direct and indirect, AOW-p024-B001 (valid alternative evidence, ch. V §10)."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "'Make for the enemy's weak points', AOW-p030-B001 (valid alternative evidence)."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "reason": "Gives the two ways of governing (q12 content), not hereditary vs new."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "reason": "Ancestral customs, PRN-p002-B001 (gold)."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "q16",
+    "answer_grade": 0,
+    "citation_support": [],
+    "reason": "Abstained on an answerable question."
+  },
+  {
+    "query_id": "u01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  },
+  {
+    "query_id": "u02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no unsupported claim."
+  }
+]
